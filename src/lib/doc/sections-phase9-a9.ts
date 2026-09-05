@@ -34,21 +34,21 @@ export const PHASE9_A9: Section[] = [
     "XII.0",
     "Phase 9",
     "Phase 9 — Article 9 draft status",
-    "Evidence Precedes Trust. DRAFTED — REVIEW REQUIRED — NOT LOCKED.",
+    "Evidence Precedes Trust. LOCKED — HUMAN ACCEPTED.",
     [
       {
         k: "callout",
         tone: "law",
         title: "Authoritative Article 9 subject",
-        t: "v5.3 compact title is Article 9 — Evidence Precedes Trust. Compact: Claims about system state require evidence. Scope: claims about system state, product quality, or operational success. Prohibited: agent assertions without evidence; treating absence of errors as evidence of correctness; storing claims without supporting evidence. Required: every consequential claim carries evidence; machine-verifiable where possible; stored in the Evidence Store with proper provenance. Enforcement: claims lacking evidence marked unverified and cannot be used for decision-making. Consequence: claim rejection and investigation. Compact A.3 not replaced or retitled. Attributable-and-bound is the operationalization, not a new article. Articles 1–8 LOCKED. Runtime: SPECIFIED — RUNTIME IMPLEMENTATION PENDING. Reader ≠ platform. Article 10 CLOSED. Version v5.3. No v5.4.",
+        t: "v5.3 compact title is Article 9 — Evidence Precedes Trust. Compact A.3 unchanged. Articles 1–8 LOCKED / UNCHANGED. Article 9 LOCKED / HUMAN ACCEPTED under Owner authorization 2026-09-05 at 9472356 baseline. Runtime: SPECIFIED — RUNTIME IMPLEMENTATION PENDING. Reader ≠ platform. Version v5.3. No v5.4.",
       },
       {
         k: "table",
         cols: ["Phase", "Article", "Status"],
         rows: [
           ["Phase 1–8", "Articles 1–8", "LOCKED / HUMAN ACCEPTED — UNCHANGED"],
-          ["Phase 9", "Article 9", "DRAFTED — REVIEW REQUIRED — NOT LOCKED"],
-          ["Phase 10", "Article 10", "CLOSED / NOT AUTHORIZED"],
+          ["Phase 9", "Article 9", "LOCKED / HUMAN ACCEPTED"],
+          ["Phase 10", "Article 10", "OPEN — AUTHORIZED COMMENCEMENT / NOT LOCKED"],
         ],
       },
     ],
@@ -59,7 +59,7 @@ export const PHASE9_A9: Section[] = [
     "XII",
     "Art. 9 Law",
     "Article 9 — Evidence Precedes Trust (law)",
-    "Evidence is attributable and bound. Evidence ≠ truth, authority, or SUCCESS. NOT LOCKED.",
+    "Evidence is attributable and bound. Evidence ≠ truth, authority, or SUCCESS. LOCKED.",
     [
       {
         k: "callout",
@@ -275,7 +275,7 @@ export const PHASE9_A9: Section[] = [
     "XII.T",
     "Art. 9 Trace",
     "Article 9 — traceability, compatibility, open issues",
-    "DRAFTED — REVIEW REQUIRED — NOT LOCKED. Article 10 closed.",
+    "LOCKED — HUMAN ACCEPTED. Article 10 authorized separately.",
     [
       {
         k: "p",
@@ -316,8 +316,8 @@ export const PHASE9_A9: Section[] = [
       {
         k: "callout",
         tone: "law",
-        title: "DRAFTED — REVIEW REQUIRED — NOT LOCKED",
-        t: "Article 9 deep draft complete. Compact A.3 title Evidence Precedes Trust unchanged. Articles 1–8 unmodified and LOCKED. ATK-9-01–30 and INV-9-00–28 are review material, not locked. No HUMAN ACCEPTED. No LOCK. Article 10 CLOSED / NOT AUTHORIZED. No v5.4. SPECIFIED — RUNTIME IMPLEMENTATION PENDING. Reader ≠ platform. Not auto-locked.",
+        title: "LOCKED — HUMAN ACCEPTED",
+        t: "Article 9 is constitutionally settled unless formally amended. Compact A.3 unchanged. Articles 1–8 unchanged. ATK-9-01–30 and INV-9-00–28 accepted as review material under this lock. Runtime SPECIFIED — RUNTIME IMPLEMENTATION PENDING. Reader ≠ platform. Evidence Store is not claimed running.",
       },
     ],
   ),
