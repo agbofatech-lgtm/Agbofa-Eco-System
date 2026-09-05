@@ -50,7 +50,8 @@ function ledgerHeadline(rows: typeof LEDGER): string {
     compact.length ? `${span(compact)} COMPACT / NOT AUTHORIZED` : "",
   ]
     .filter(Boolean)
-    .join(". ");
+    .join(". ")
+    .concat(".");
 }
 
 function Home() {
@@ -230,7 +231,7 @@ function Ledger({ onOpen }: { onOpen: (n: number) => void }) {
         </table>
       </div>
       <p className="mt-6 text-sm text-muted">
-        {RUNTIME}. No v5.4. {ledgerHeadline(LEDGER)}.
+        {RUNTIME}. No v5.4. {ledgerHeadline(LEDGER)}
       </p>
     </section>
   );

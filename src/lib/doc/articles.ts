@@ -1,5 +1,15 @@
 import type { Block } from "./types";
 
+/**
+ * A.3 compact display catalogue for the Constitution Reader.
+ * Status-bearing law: src/lib/constitution/articles.ts + ledger.ts.
+ * Compact A.3 one-liners: attachments/pasted-text.txt.
+ * This file is presentation from compact A.3. It is not a status ledger,
+ * not an amendment surface, and not a second Constitution.
+ * Art.5 text here matches A.3. The LOCKED reader module currently uses a
+ * different Art.5 compact string — Owner decision; do not reconcile here.
+ * SPECIFIED ≠ IMPLEMENTED. Reader ≠ platform. No v5.4. No Article 17.
+ */
 export const ARTICLES: Extract<Block, { k: "article" }>[] = [
   {
     k: "article",
