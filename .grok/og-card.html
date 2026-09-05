@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <style>
+      @font-face {
+        font-family: "Newsreader";
+        font-style: normal;
+        font-weight: 500;
+        src: url("og-fonts/newsreader-500.ttf") format("truetype");
+      }
+      @font-face {
+        font-family: "Newsreader";
+        font-style: normal;
+        font-weight: 600;
+        src: url("og-fonts/newsreader-600.ttf") format("truetype");
+      }
+      @font-face {
+        font-family: "Figtree";
+        font-style: normal;
+        font-weight: 500;
+        src: url("og-fonts/figtree-500.ttf") format("truetype");
+      }
+
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      html,
+      body {
+        width: 1200px;
+        height: 630px;
+        overflow: hidden;
+        background: #0c0c0e;
+      }
+
+      body {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        position: relative;
+      }
+
+      /* faint center lift — still near-black, no color cast */
+      .field {
+        position: absolute;
+        inset: 0;
+        background: radial-gradient(ellipse at 50% 48%, #16161a 0%, #0c0c0e 62%);
+      }
+
+      .plate {
+        position: relative;
+        width: 1112px;
+        height: 542px;
+        border: 1px solid rgba(197, 192, 180, 0.3);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .plate::before {
+        content: "";
+        position: absolute;
+        inset: 10px;
+        border: 1px solid rgba(197, 192, 180, 0.12);
+        pointer-events: none;
+      }
+
+      .lockup {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+      }
+
+      .rule {
+        width: 268px;
+        height: 1px;
+        background: #c5c0b4;
+        opacity: 0.42;
+      }
+
+      h1 {
+        font-family: "Newsreader", "Liberation Serif", serif;
+        font-weight: 500;
+        font-size: 112px;
+        letter-spacing: 0.24em;
+        color: #ece8df;
+        line-height: 1;
+        font-optical-sizing: auto;
+        padding: 32px 0 28px;
+        margin-right: -0.24em; /* cancel trailing tracking so the word stays optically centered */
+      }
+
+      p {
+        font-family: "Figtree", "Liberation Sans", sans-serif;
+        font-weight: 500;
+        font-size: 18px;
+        letter-spacing: 0.14em;
+        color: #9a958c;
+        margin-top: 22px;
+        margin-right: -0.14em;
+        line-height: 1.2;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="field"></div>
+    <div class="plate">
+      <div class="lockup">
+        <div class="rule"></div>
+        <h1>AGBOFA</h1>
+        <div class="rule"></div>
+        <p>Master Architecture & Constitution v5.1</p>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,8959 @@
+%PDF-1.4
+%AGBOFA
+1 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Title (AGBOFA Master Architecture and Constitution) /Author (AGBOFA Human Owner) /Subject (v5.0) /Creator (AGBOFA Constitution Reader) >>
+endobj
+3 0 obj
+<< /Type /Pages /Kids [ 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R 63 0 R 65 0 R 67 0 R 69 0 R 71 0 R ] /Count 32 >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >>
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+8 0 obj
+<< /Length 1010 >>
+stream
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 713 Tm
+(MASTER ARCHITECTURE AND CONSTITUTION) Tj
+ET
+0 0 0 rg
+BT
+/F2 28 Tf
+1 0 0 1 54 661.85 Tm
+(AGBOFA) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 652.0500000000001 m 541 652.0500000000001 l S
+0 0 0 rg
+BT
+/F1 12 Tf
+1 0 0 1 54 630.0500000000001 Tm
+(The governed digital product operating system. Intelligence is not authority.) Tj
+ET
+0 0 0 rg
+BT
+/F2 11 Tf
+1 0 0 1 54 602.85 Tm
+(Document issue v5.0) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 585 Tm
+(Received freeze -- typeset as submitted) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 567.5 Tm
+(Day 0 -- pre-implementation freeze) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 550 Tm
+(Human Owner + Senior System Architect) Tj
+ET
+0.55 0.55 0.55 RG 1.5 w
+0 0 0 rg
+BT
+/F3 11 Tf
+1 0 0 1 66 515.5 Tm
+(AGBOFA is not a Claude wrapper. Claude is replaceable intelligence. AGBOFA owns authority,) Tj
+ET
+0 0 0 rg
+BT
+/F3 11 Tf
+1 0 0 1 66 500.65 Tm
+(governance, execution, verification, evidence, audit, memory, and recovery.) Tj
+ET
+54 496.79999999999995 m 54 526.5 l S
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 4864 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 754 Tm
+(00  AGBOFA Master Architecture & Constitution) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 748.4 m 541 748.4 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 729.4 Tm
+(The governed digital product operating system.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 712.25 Tm
+(Document issue: v5.0 -- Received freeze -- as submitted) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 694.75 Tm
+(Status: Frozen -- Day 0 -- pre-implementation) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 677.25 Tm
+(Classification: Constitution -- Supreme specification) Tj
+ET
+0.55 0.55 0.55 RG 1.5 w
+0 0 0 rg
+BT
+/F3 11 Tf
+1 0 0 1 66 658.75 Tm
+(AGBOFA is not a Claude wrapper. Claude is replaceable intelligence. AGBOFA owns authority,) Tj
+ET
+0 0 0 rg
+BT
+/F3 11 Tf
+1 0 0 1 66 643.9 Tm
+(governance, execution, verification, evidence, audit, memory, and recovery.) Tj
+ET
+54 640.05 m 54 669.75 l S
+0.93 0.93 0.93 rg
+54 578.05 487 52 re f
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 611.05 Tm
+(You are reading the received freeze. This edition is document issue v5.0, typeset without rewriting. The operative) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 598.9 Tm
+(engineering issue is v5.1 -- same constitution, clarified numbering and Day-60 scope. Switch issues in the header. Do) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 586.75 Tm
+(not call them "Version 1" and "Version 2": those numbers already belong to the historical lineage v1.0--v4.0.) Tj
+ET
+0 0 0 rg
+BT
+/F2 8 Tf
+1 0 0 1 54 567.6 Tm
+(Part | Owns) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 551.8000000000001 Tm
+(A Constitution | What must never be violated) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 535.6500000000001 Tm
+(B Reference architecture | What AGBOFA is) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 519.5000000000001 Tm
+(C Operating model | How AGBOFA works) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 503.35000000000014 Tm
+(D Technical specification | How it is implemented) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 487.20000000000016 Tm
+(E Enterprise target | What AGBOFA becomes at maturity) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 471.0500000000002 Tm
+(F Implementation roadmap | How we get there) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 454.9000000000002 Tm
+(G Change control | How the architecture itself evolves) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 423.7500000000002 Tm
+(01  Versioning law) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 418.1500000000002 m 541 418.1500000000002 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 399.1500000000002 Tm
+(Five numbering systems. They are not interchangeable.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 382.0000000000002 Tm
+(This freeze is document issue v5.0. Historical issues v1.0 through v4.0 are superseded lineage. Semver in) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 368.5000000000002 Tm
+(this freeze: major for constitutional change, minor for new capability, patch for fixes.) Tj
+ET
+0.93 0.93 0.93 rg
+54 309.0000000000002 487 52 re f
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 342.0000000000002 Tm
+(Ambiguity left in v5.0. v5.0 uses "L0--L5" for agent autonomy \(Part A.4\) and again for enterprise maturity \(Part E.1\).) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 329.85000000000025 Tm
+(Those are different scales. v5.1 splits them: autonomy A0--A5, maturity M0--M5. Until you switch to v5.1, read every) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 317.7000000000003 Tm
+("L" against its section heading.) Tj
+ET
+0 0 0 rg
+BT
+/F2 8 Tf
+1 0 0 1 54 298.5500000000003 Tm
+(Written in v5.0 | Where | Means) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 282.7500000000003 Tm
+(v5.0 | Cover, history | This constitutional freeze) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 266.6000000000003 Tm
+(L0--L5 \(Part A\) | Autonomy levels | What an agent may do) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 250.45000000000033 Tm
+(L0--L5 \(Part E\) | Enterprise maturity | How much of the target architecture is operational) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 234.30000000000032 Tm
+(E0--E4 | Evidence | Strength of proof) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 218.15000000000032 Tm
+(Phase / Block / Gate / Day | Part F | First increment schedule) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 187.0000000000003 Tm
+(02  How to read this document) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 181.40000000000032 m 541 181.40000000000032 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 162.40000000000032 Tm
+(Architecture is permanent. The roadmap is an increment.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 145.2500000000003 Tm
+(The received freeze already divides the work into Parts A--G and places the 60-day program after the) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 131.7500000000003 Tm
+(architecture. Read the Constitution first. Treat Part F as the initial build sequence. Treat Part E as the) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 118.25000000000031 Tm
+(destination.) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 6057 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0.93 0.93 0.93 rg
+54 714 487 64 re f
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 759 Tm
+(Known risk in the received freeze. Part F.1 currently says that by Day 60 every enterprise function must have an) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 746.85 Tm
+(implemented counterpart, with a target of 100% architectural implementation. That sentence can make an) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 734.7 Tm
+(implementer treat multi-region, marketplace, federation, and hundreds of agents as Day-60 work -- or, conversely, as) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 722.5500000000001 Tm
+("not in the architecture." v5.1 corrects the sentence without shrinking the vision.) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 687.4000000000001 Tm
+(03  What v5.1 changes -- and what it does not) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 681.8000000000001 m 541 681.8000000000001 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 662.8000000000001 Tm
+(Minor issue of the received freeze. Articles unchanged.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 645.6500000000001 Tm
+(You are on v5.0. No editorial change is applied in this edition. Switch to v5.1 for the issue log.) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 614.1500000000001 Tm
+(A.1  Preamble) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 608.5500000000001 m 541 608.5500000000001 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 589.5500000000001 Tm
+(AGBOFA is a governed digital product operating system. This Constitution is supreme.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 572.4000000000001 Tm
+(AGBOFA \(Autonomous Governed Blockchain-Oriented Factory Architecture\) is established as a governed) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 558.9000000000001 Tm
+(digital product operating system. This Constitution is the supreme authority governing all actors, systems,) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 545.4000000000001 Tm
+(agents, models, and processes within the AGBOFA ecosystem.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 527.9000000000001 Tm
+(The purpose of this Constitution is to ensure that artificial intelligence may autonomously design, build, and) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 514.4000000000001 Tm
+(operate digital products safely, verifiably, and constitutionally, while human sovereignty remains absolute and) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 500.9000000000001 Tm
+(every consequential action carries evidence, accountability, and the possibility of audit.) Tj
+ET
+0.93 0.93 0.93 rg
+54 453.4000000000001 487 40 re f
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 474.4000000000001 Tm
+(Supremacy. No agent, model, subsystem, or process may violate this Constitution. No authority may be exercised) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 462.2500000000001 Tm
+(except through the mechanisms defined herein.) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 427.10000000000014 Tm
+(A.2  Permanent architectural principles) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 421.5000000000001 m 541 421.5000000000001 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 402.5000000000001 Tm
+(P1--P15 do not change with maturity, timeline, or provider.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 385.35000000000014 Tm
+(These principles are permanent. They do not change with maturity level, implementation timeline, or provider) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 371.85000000000014 Tm
+(selection.) Tj
+ET
+0 0 0 rg
+BT
+/F2 8 Tf
+1 0 0 1 54 356.35000000000014 Tm
+(ID | Principle | Statement) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 340.5500000000001 Tm
+(P1 | Human Sovereignty | Humans are ultimately accountable for AGBOFA's existence and major consequential actions.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 324.40000000000015 Tm
+(P2 | Constitutional Supremacy | The Constitution governs all actors, including AGBOFA itself. No agent, model, or process) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 312.25000000000017 Tm
+(may violate it.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 296.1000000000002 Tm
+(P3 | Intelligence Is Not Authority | No AI provider, model, agent, or generated output automatically possesses authority.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 283.9500000000002 Tm
+(Authority must be explicitly granted through constitutional mechanisms.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 267.80000000000024 Tm
+(P4 | Authority Is Explicit and Traceable | Every consequential action requires an identifiable authority source that can be) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 255.65000000000026 Tm
+(traced through the governance chain.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 239.50000000000026 Tm
+(P5 | Capability Is Scoped and Constrained | An actor can only perform actions for which it has been granted both authority) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 227.35000000000025 Tm
+(and technical capability, within defined boundaries.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 211.20000000000024 Tm
+(P6 | Execution Is Isolated | Intelligence never receives unrestricted execution access. All execution occurs through) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 199.05000000000024 Tm
+(governed, isolated channels.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 182.90000000000023 Tm
+(P7 | Verification Is Independent | Important outcomes must be independently verified before they are accepted as true or) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 170.75000000000023 Tm
+(successful.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 154.60000000000022 Tm
+(P8 | Evidence Precedes Trust | Claims about system state, product quality, or operational success require evidence. Trust) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 142.45000000000022 Tm
+(is earned, not assumed.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 126.30000000000021 Tm
+(P9 | Audit Is Persistent and Tamper-Evident | Consequential actions create durable audit records that cannot be silently) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 114.1500000000002 Tm
+(modified or deleted.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 98.0000000000002 Tm
+(P10 | Governance Cannot Be Weakened by the Governed | No agent, model, or subsystem may modify the rules that) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 5518 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 769 Tm
+(govern its own authority.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 752.85 Tm
+(P11 | Autonomy Is Earned | Autonomy increases only according to demonstrated evidence of reliability, safety, and) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 740.7 Tm
+(constitutional compliance.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 724.5500000000001 Tm
+(P12 | Learning Requires Verified Outcomes | AGBOFA cannot convert an AI assumption or recommendation into) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 712.4000000000001 Tm
+(institutional knowledge merely because an AI generated it.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 696.2500000000001 Tm
+(P13 | Tenant Isolation Is Absolute | Products, tenants, organizations, and environments are isolated by default.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 684.1000000000001 Tm
+(Cross-boundary access requires explicit, governed authorization.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 667.9500000000002 Tm
+(P14 | Recovery Is Constitutional | The system must be capable of freezing, recovering, rolling back, and restoring critical) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 655.8000000000002 Tm
+(state. Recovery procedures are themselves governed.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 639.6500000000002 Tm
+(P15 | Provider Independence | AGBOFA's architecture never equates its intelligence with any specific AI provider.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 627.5000000000002 Tm
+(Providers are replaceable through defined contracts.) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 596.3500000000003 Tm
+(A.3  Constitutional articles) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 590.7500000000002 m 541 590.7500000000002 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 571.7500000000002 Tm
+(Articles 1--16. The operative law of every actor, agent, and subsystem.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 554.6000000000003 Tm
+(The sixteen articles are the operative law of AGBOFA. They bind every actor. They do not change with) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 541.1000000000003 Tm
+(maturity, timeline, or provider.) Tj
+ET
+0 0 0 rg
+BT
+/F2 13 Tf
+1 0 0 1 54 512.6000000000003 Tm
+(Article 1  Human Sovereignty) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 508.05000000000024 m 541 508.05000000000024 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 488.05000000000024 Tm
+(Humans remain ultimately accountable for AGBOFA's existence, operation, and major consequential actions.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 471.55000000000024 Tm
+(Scope. All AGBOFA operations, decisions, and actions.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 454.40000000000026 Tm
+(Prohibitions) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 436.90000000000026 Tm
+(-  AGBOFA shall not take actions that remove or diminish human accountability.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 423.40000000000026 Tm
+(-  No agent may claim to act without human oversight for constitutionally significant actions.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 405.90000000000026 Tm
+(Requirements) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 388.40000000000026 Tm
+(-  Human approval is required for all actions classified as HIGH or CRITICAL risk.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 374.90000000000026 Tm
+(-  A designated human owner must possess emergency freeze authority at all times.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 361.40000000000026 Tm
+(-  Human decisions that override agent recommendations must be recorded with rationale.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 344.90000000000026 Tm
+(Enforcement. The Trust Kernel shall reject any action classified as HIGH or CRITICAL risk that lacks valid human) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 332.7500000000003 Tm
+(approval.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 316.6000000000003 Tm
+(Violation consequence. System freeze and constitutional review.) Tj
+ET
+0 0 0 rg
+BT
+/F2 13 Tf
+1 0 0 1 54 288.45000000000033 Tm
+(Article 2  AGBOFA Sovereignty) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 283.9000000000003 m 541 283.9000000000003 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 263.9000000000003 Tm
+(AGBOFA controls the ecosystem's authority and governance mechanisms.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 247.40000000000032 Tm
+(Scope. All authority grants, governance rules, policy definitions, and capability assignments.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 230.2500000000003 Tm
+(Prohibitions) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 212.7500000000003 Tm
+(-  No external system may directly grant authority within AGBOFA.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 199.2500000000003 Tm
+(-  No agent may self-grant authority.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 181.7500000000003 Tm
+(Requirements) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 164.2500000000003 Tm
+(-  All authority flows through the AGBOFA Governance Engine.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 150.7500000000003 Tm
+(-  All governance rules are versioned and stored in the Constitution repository.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 137.2500000000003 Tm
+(-  All authority grants are recorded as audit events.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 120.75000000000031 Tm
+(Enforcement. The Authority Kernel shall reject any authority grant that does not originate from an authorized governance) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 108.6000000000003 Tm
+(source.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 92.4500000000003 Tm
+(Violation consequence. Invalid authority revocation and security investigation.) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 5106 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0 0 0 rg
+BT
+/F2 13 Tf
+1 0 0 1 54 757 Tm
+(Article 3  Intelligence Is Not Authority) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 752.45 m 541 752.45 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 732.45 Tm
+(No AI provider, model, agent, recommendation, inference, or generated output automatically receives) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 718.95 Tm
+(authority.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 702.45 Tm
+(Scope. All AI-generated outputs, recommendations, plans, and proposals.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 685.3000000000001 Tm
+(Prohibitions) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 667.8000000000001 Tm
+(-  AI outputs shall not be treated as commands.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 654.3000000000001 Tm
+(-  AI recommendations shall not be auto-executed without governance evaluation.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 640.8000000000001 Tm
+(-  AI confidence shall not substitute for authority.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 623.3000000000001 Tm
+(Requirements) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 605.8000000000001 Tm
+(-  All AI outputs enter the system as PROPOSALS.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 592.3000000000001 Tm
+(-  Proposals must pass through governance evaluation before execution.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 578.8000000000001 Tm
+(-  The distinction between intelligence and authority must be explicit in every agent interaction.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 562.3000000000001 Tm
+(Enforcement. The Execution Broker shall reject any action whose authority chain does not trace to a valid, non-AI) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 550.1500000000001 Tm
+(authority source.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 534.0000000000001 Tm
+(Violation consequence. Action rejection and agent capability suspension.) Tj
+ET
+0 0 0 rg
+BT
+/F2 13 Tf
+1 0 0 1 54 505.85000000000014 Tm
+(Article 4  Authority Is Explicit) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 501.3000000000001 m 541 501.3000000000001 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 481.3000000000001 Tm
+(Every consequential action requires an identifiable authority source.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 464.8000000000001 Tm
+(Scope. All consequential actions within AGBOFA.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 447.65000000000015 Tm
+(Prohibitions) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 430.15000000000015 Tm
+(-  Implicit authority is prohibited.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 416.65000000000015 Tm
+(-  "The agent knew what to do" is not an authority source.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 403.15000000000015 Tm
+(-  Default allow is prohibited.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 385.65000000000015 Tm
+(Requirements) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 368.15000000000015 Tm
+(-  Every action carries an authority chain.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 354.65000000000015 Tm
+(-  Authority chains must be traceable to a human or constitutional source.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 341.15000000000015 Tm
+(-  Authority grants must have defined scope, duration, and revocation conditions.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 324.65000000000015 Tm
+(Enforcement. Actions lacking valid authority chains are rejected at the Trust Kernel.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 308.50000000000017 Tm
+(Violation consequence. Action rejection and audit flag.) Tj
+ET
+0 0 0 rg
+BT
+/F2 13 Tf
+1 0 0 1 54 280.3500000000002 Tm
+(Article 5  Capability Is Scoped) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 275.8000000000002 m 541 275.8000000000002 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 255.80000000000018 Tm
+(An actor can only perform actions for which it possesses the required capability.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 239.30000000000018 Tm
+(Scope. All actor actions within AGBOFA.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 222.15000000000018 Tm
+(Prohibitions) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 204.65000000000018 Tm
+(-  Broad capabilities \(e.g., "agent has access to everything"\) are prohibited.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 191.15000000000018 Tm
+(-  Capability escalation without governance approval is prohibited.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 177.65000000000018 Tm
+(-  Capability reuse across product boundaries is prohibited by default.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 160.15000000000018 Tm
+(Requirements) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 142.65000000000018 Tm
+(-  All capabilities are defined with explicit scope, environment, and expiry.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 129.15000000000018 Tm
+(-  Capability tokens are required for all execution actions.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 115.65000000000018 Tm
+(-  Capability tokens are short-lived and renewable only through governance.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 99.15000000000018 Tm
+(Enforcement. The Capability Manager shall reject any execution attempt with missing, expired, or out-of-scope capability) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 87.00000000000017 Tm
+(tokens.) Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 16 0 R >>
+endobj
+18 0 obj
+<< /Length 5058 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 769 Tm
+(Violation consequence. Capability revocation and security audit.) Tj
+ET
+0 0 0 rg
+BT
+/F2 13 Tf
+1 0 0 1 54 740.85 Tm
+(Article 6  Execution Is Isolated) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 736.3000000000001 m 541 736.3000000000001 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 716.3000000000001 Tm
+(Intelligence does not receive unrestricted execution access.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 699.8000000000001 Tm
+(Scope. All execution activities.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 682.6500000000001 Tm
+(Prohibitions) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 665.1500000000001 Tm
+(-  Direct agent access to production systems is prohibited.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 651.6500000000001 Tm
+(-  Execution outside isolated workspaces is prohibited.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 638.1500000000001 Tm
+(-  Bypassing the Execution Broker is prohibited.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 620.6500000000001 Tm
+(Requirements) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 603.1500000000001 Tm
+(-  All execution occurs through the Execution Broker.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 589.6500000000001 Tm
+(-  All execution occurs in isolated workspaces.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 576.1500000000001 Tm
+(-  All execution carries resource limits, timeouts, and failure handling.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 559.6500000000001 Tm
+(Enforcement. The Execution Broker shall reject any direct execution attempt that bypasses its governance chain.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 543.5000000000001 Tm
+(Violation consequence. Execution rejection and agent quarantine.) Tj
+ET
+0 0 0 rg
+BT
+/F2 13 Tf
+1 0 0 1 54 515.3500000000001 Tm
+(Article 7  Execution Is Not Success) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 510.8000000000001 m 541 510.8000000000001 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 490.8000000000001 Tm
+(An executed action does not constitute proof of correctness.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 474.3000000000001 Tm
+(Scope. All execution outcomes.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 457.15000000000015 Tm
+(Prohibitions) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 439.65000000000015 Tm
+(-  Treating "the command ran" as "the command was correct.") Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 426.15000000000015 Tm
+(-  Accepting agent claims of success without independent verification.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 412.65000000000015 Tm
+(-  Skipping verification for consequential actions.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 395.15000000000015 Tm
+(Requirements) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 377.65000000000015 Tm
+(-  All consequential actions require independent verification.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 364.15000000000015 Tm
+(-  Verification must be performed by a component separate from the executing agent.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 350.65000000000015 Tm
+(-  Verification results must be recorded as evidence.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 334.15000000000015 Tm
+(Enforcement. The Verification Engine shall flag any consequential action lacking verification evidence.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 318.00000000000017 Tm
+(Violation consequence. Action marked unverified and blocked from promotion.) Tj
+ET
+0 0 0 rg
+BT
+/F2 13 Tf
+1 0 0 1 54 289.8500000000002 Tm
+(Article 8  Verification Is Independent) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 285.3000000000002 m 541 285.3000000000002 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 265.3000000000002 Tm
+(Important outcomes must be independently verified.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 248.80000000000018 Tm
+(Scope. All important outcomes, including builds, tests, deployments, and data operations.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 231.65000000000018 Tm
+(Prohibitions) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 214.15000000000018 Tm
+(-  Agents verifying their own work.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 200.65000000000018 Tm
+(-  Verification by the same component that performed the action.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 187.15000000000018 Tm
+(-  Verification that only checks surface-level success.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 169.65000000000018 Tm
+(Requirements) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 152.15000000000018 Tm
+(-  Verification is performed by dedicated verification agents or systems.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 138.65000000000018 Tm
+(-  Verification checks both functional correctness and constitutional compliance.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 125.15000000000018 Tm
+(-  Verification produces evidence that is stored and auditable.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 108.65000000000018 Tm
+(Enforcement. Outcomes lacking independent verification are blocked from advancing to the next lifecycle stage.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 92.50000000000017 Tm
+(Violation consequence. Outcome rejection and re-execution requirement.) Tj
+ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 18 0 R >>
+endobj
+20 0 obj
+<< /Length 4882 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0 0 0 rg
+BT
+/F2 13 Tf
+1 0 0 1 54 757 Tm
+(Article 9  Evidence Precedes Trust) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 752.45 m 541 752.45 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 732.45 Tm
+(Claims about system state require evidence.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 715.95 Tm
+(Scope. All claims about system state, product quality, or operational success.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 698.8000000000001 Tm
+(Prohibitions) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 681.3000000000001 Tm
+(-  Accepting agent assertions without evidence.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 667.8000000000001 Tm
+(-  Treating absence of errors as evidence of correctness.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 654.3000000000001 Tm
+(-  Storing claims without supporting evidence.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 636.8000000000001 Tm
+(Requirements) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 619.3000000000001 Tm
+(-  Every consequential claim carries evidence.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 605.8000000000001 Tm
+(-  Evidence must be machine-verifiable where possible.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 592.3000000000001 Tm
+(-  Evidence must be stored in the Evidence Store with proper provenance.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 575.8000000000001 Tm
+(Enforcement. Claims lacking evidence are marked unverified and cannot be used for decision-making.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 559.6500000000001 Tm
+(Violation consequence. Claim rejection and investigation.) Tj
+ET
+0 0 0 rg
+BT
+/F2 13 Tf
+1 0 0 1 54 531.5000000000001 Tm
+(Article 10  Audit Is Persistent) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 526.9500000000002 m 541 526.9500000000002 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 506.95000000000016 Tm
+(Consequential actions create durable audit records.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 490.45000000000016 Tm
+(Scope. All consequential actions.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 473.3000000000002 Tm
+(Prohibitions) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 455.8000000000002 Tm
+(-  Audit record modification or deletion.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 442.3000000000002 Tm
+(-  Audit bypass for any reason.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 428.8000000000002 Tm
+(-  Tampering with audit timestamps, hashes, or chains.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 411.3000000000002 Tm
+(Requirements) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 393.8000000000002 Tm
+(-  All consequential actions generate audit events.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 380.3000000000002 Tm
+(-  Audit events are append-only.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 366.8000000000002 Tm
+(-  Audit events are hash-chained for tamper evidence.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 353.3000000000002 Tm
+(-  Audit records include: who, which agent, which authority, which capability, which product, which) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 339.8000000000002 Tm
+(    environment, what action, when, why, what happened, what was verified, what evidence exists.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 323.3000000000002 Tm
+(Enforcement. The Audit System shall detect any tampering attempt and trigger a security alert.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 307.1500000000002 Tm
+(Violation consequence. System freeze and security investigation.) Tj
+ET
+0 0 0 rg
+BT
+/F2 13 Tf
+1 0 0 1 54 279.0000000000002 Tm
+(Article 11  Governance Cannot Be Weakened by the Governed) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 274.4500000000002 m 541 274.4500000000002 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 254.45000000000022 Tm
+(An agent cannot modify the rules that govern its own authority.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 237.95000000000022 Tm
+(Scope. All governance rules, policies, and authority definitions.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 220.8000000000002 Tm
+(Prohibitions) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 203.3000000000002 Tm
+(-  Agent modification of its own authority scope.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 189.8000000000002 Tm
+(-  Agent modification of governance rules that apply to itself.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 176.3000000000002 Tm
+(-  Agent creation of new capabilities that bypass governance.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 158.8000000000002 Tm
+(Requirements) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 141.3000000000002 Tm
+(-  Governance changes require human approval.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 127.80000000000021 Tm
+(-  Governance changes are versioned and audited.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 114.30000000000021 Tm
+(-  Governance changes are subject to constitutional review.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 97.80000000000021 Tm
+(Enforcement. The Governance Engine shall reject any governance change originating from a governed agent.) Tj
+ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 20 0 R >>
+endobj
+22 0 obj
+<< /Length 4951 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 769 Tm
+(Violation consequence. Change rejection and agent suspension.) Tj
+ET
+0 0 0 rg
+BT
+/F2 13 Tf
+1 0 0 1 54 740.85 Tm
+(Article 12  Autonomy Is Earned) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 736.3000000000001 m 541 736.3000000000001 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 716.3000000000001 Tm
+(Autonomy increases only according to defined evidence and policy.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 699.8000000000001 Tm
+(Scope. All agent autonomy levels.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 682.6500000000001 Tm
+(Prohibitions) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 665.1500000000001 Tm
+(-  Automatic autonomy grants.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 651.6500000000001 Tm
+(-  Autonomy increases without evidence of reliability.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 638.1500000000001 Tm
+(-  Autonomy based on AI self-assessment.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 620.6500000000001 Tm
+(Requirements) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 603.1500000000001 Tm
+(-  Autonomy levels are defined in the Constitution.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 589.6500000000001 Tm
+(-  Autonomy increases require evidence of successful governed operation.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 576.1500000000001 Tm
+(-  Autonomy increases require human approval.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 559.6500000000001 Tm
+(Enforcement. The Trust Kernel shall enforce autonomy levels and reject actions exceeding authorized autonomy.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 543.5000000000001 Tm
+(Violation consequence. Action rejection and autonomy level reduction.) Tj
+ET
+0 0 0 rg
+BT
+/F2 13 Tf
+1 0 0 1 54 515.3500000000001 Tm
+(Article 13  Learning Requires Verified Outcomes) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 510.8000000000001 m 541 510.8000000000001 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 490.8000000000001 Tm
+(AGBOFA cannot convert an AI assumption into institutional knowledge merely because the AI generated it.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 474.3000000000001 Tm
+(Scope. All institutional knowledge and learning.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 457.15000000000015 Tm
+(Prohibitions) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 439.65000000000015 Tm
+(-  Direct promotion of AI outputs to knowledge without verification.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 426.15000000000015 Tm
+(-  Treating AI confidence as knowledge validity.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 412.65000000000015 Tm
+(-  Storing unverified claims in institutional memory.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 395.15000000000015 Tm
+(Requirements) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 377.65000000000015 Tm
+(-  Knowledge candidates must pass through verification.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 364.15000000000015 Tm
+(-  Verified outcomes must be linked to their evidence.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 350.65000000000015 Tm
+(-  Knowledge must be versioned and auditable.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 334.15000000000015 Tm
+(Enforcement. The Memory System shall reject knowledge candidates lacking verification evidence.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 318.00000000000017 Tm
+(Violation consequence. Knowledge candidate rejection.) Tj
+ET
+0 0 0 rg
+BT
+/F2 13 Tf
+1 0 0 1 54 289.8500000000002 Tm
+(Article 14  Tenant Isolation) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 285.3000000000002 m 541 285.3000000000002 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 265.3000000000002 Tm
+(One product, tenant, organization, or environment cannot improperly access another.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 248.80000000000018 Tm
+(Scope. All cross-tenant, cross-product, and cross-environment interactions.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 231.65000000000018 Tm
+(Prohibitions) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 214.15000000000018 Tm
+(-  Cross-tenant data access by default.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 200.65000000000018 Tm
+(-  Cross-product agent access by default.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 187.15000000000018 Tm
+(-  Cross-environment capability use by default.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 169.65000000000018 Tm
+(Requirements) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 152.15000000000018 Tm
+(-  All tenant data is isolated by default.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 138.65000000000018 Tm
+(-  Cross-boundary access requires explicit, governed authorization.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 125.15000000000018 Tm
+(-  Tenant isolation is tested continuously.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 108.65000000000018 Tm
+(Enforcement. The Isolation Guard shall detect and block any cross-tenant access attempt lacking explicit authorization.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 92.50000000000017 Tm
+(Violation consequence. Access denial, isolation breach alert, and security investigation.) Tj
+ET
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 22 0 R >>
+endobj
+24 0 obj
+<< /Length 5147 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0 0 0 rg
+BT
+/F2 13 Tf
+1 0 0 1 54 757 Tm
+(Article 15  Recovery Is Constitutional) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 752.45 m 541 752.45 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 732.45 Tm
+(The system must be capable of freezing, recovering, rolling back, and restoring critical state.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 715.95 Tm
+(Scope. All critical state, including products, databases, configurations, and governance rules.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 698.8000000000001 Tm
+(Prohibitions) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 681.3000000000001 Tm
+(-  Operating without defined recovery procedures.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 667.8000000000001 Tm
+(-  Recovery procedures that bypass governance.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 654.3000000000001 Tm
+(-  Recovery actions that are not audited.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 636.8000000000001 Tm
+(Requirements) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 619.3000000000001 Tm
+(-  Recovery procedures are defined for all critical state.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 605.8000000000001 Tm
+(-  Recovery actions are authorized and audited.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 592.3000000000001 Tm
+(-  Recovery testing occurs regularly.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 578.8000000000001 Tm
+(-  Emergency freeze capability exists and is testable.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 562.3000000000001 Tm
+(Enforcement. The Recovery System shall reject recovery actions lacking proper authorization and audit trail.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 546.1500000000001 Tm
+(Violation consequence. Recovery action rejection and constitutional review.) Tj
+ET
+0 0 0 rg
+BT
+/F2 13 Tf
+1 0 0 1 54 518.0000000000001 Tm
+(Article 16  Provider Independence) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 513.4500000000002 m 541 513.4500000000002 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 493.45000000000016 Tm
+(AGBOFA's architecture never equates its intelligence with any specific AI provider.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 476.95000000000016 Tm
+(Scope. All intelligence integration points.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 459.8000000000002 Tm
+(Prohibitions) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 442.3000000000002 Tm
+(-  Hard-coding provider-specific APIs in core AGBOFA components.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 428.8000000000002 Tm
+(-  Requiring provider-specific features for constitutional operation.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 415.3000000000002 Tm
+(-  Treating any provider as irreplaceable.) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 397.8000000000002 Tm
+(Requirements) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 380.3000000000002 Tm
+(-  All intelligence access flows through the Intelligence Contract.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 366.8000000000002 Tm
+(-  Provider adapters are pluggable and versioned.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 353.3000000000002 Tm
+(-  Provider switching is possible without core changes.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 336.8000000000002 Tm
+(Enforcement. The Intelligence Contract shall reject any direct provider access that bypasses the abstraction layer.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 320.6500000000002 Tm
+(Violation consequence. Architecture violation flag and refactoring requirement.) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 289.5000000000002 Tm
+(A.4  Autonomy levels) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 283.9000000000002 m 541 283.9000000000002 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 264.9000000000002 Tm
+(Autonomy is earned. No agent starts above proposal. L in the freeze is autonomy, not maturity.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 247.75000000000023 Tm
+(The received freeze \(v5.0\) published a single L0--L5 ladder here. That ladder is agent autonomy, not) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 234.25000000000023 Tm
+(enterprise maturity. v5.1 splits the numbering: autonomy uses A0--A5; enterprise maturity uses M0--M5 \(Part) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 220.75000000000023 Tm
+(E\). Evidence stays E0--E4.) Tj
+ET
+0.93 0.93 0.93 rg
+54 161.25000000000023 487 52 re f
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 194.25000000000023 Tm
+(L is autonomy, not maturity. Keep this table as the freeze wrote it. Do not read L3 here as enterprise multi-product) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 182.10000000000022 Tm
+(maturity. The same letter was reused in Part E for a different scale. The operative issue replaces L with A for this) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 169.95000000000022 Tm
+(table.) Tj
+ET
+0 0 0 rg
+BT
+/F2 8 Tf
+1 0 0 1 54 150.8000000000002 Tm
+(Level | Name | Description | Requirements) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 134.0000000000002 Tm
+(-  Level: L0) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 120.5000000000002 Tm
+(-  Name: Advisory) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 107.0000000000002 Tm
+(-  Description: Agent provides recommendations only. No execution authority.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 93.5000000000002 Tm
+(-  Requirements: None -- default state) Tj
+ET
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 24 0 R >>
+endobj
+26 0 obj
+<< /Length 5176 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 768 Tm
+(-  Level: L1) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 754.5 Tm
+(-  Name: Proposal) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 741 Tm
+(-  Description: Agent can submit formal proposals for governance evaluation.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 727.5 Tm
+(-  Requirements: Proven recommendation quality) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 710 Tm
+(-  Level: L2) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 696.5 Tm
+(-  Name: Governed Execution) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 683 Tm
+(-  Description: Agent can execute within pre-approved scope with governance checks.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 669.5 Tm
+(-  Requirements: Evidence of safe L1 operation) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 652 Tm
+(-  Level: L3) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 638.5 Tm
+(-  Name: Autonomous Within Scope) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 625 Tm
+(-  Description: Agent can execute without per-action approval within defined scope.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 611.5 Tm
+(-  Requirements: Evidence of safe L2 operation + human approval) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 594 Tm
+(-  Level: L4) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 580.5 Tm
+(-  Name: Autonomous with Verification) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 567 Tm
+(-  Description: Agent can execute and self-verify within scope, with periodic external verification.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 553.5 Tm
+(-  Requirements: Evidence of safe L3 operation + human approval) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 536 Tm
+(-  Level: L5) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 522.5 Tm
+(-  Name: Full Governed Autonomy) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 509 Tm
+(-  Description: Agent can operate autonomously within constitutional limits.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 495.5 Tm
+(-  Requirements: Evidence of safe L4 operation + human approval + constitutional review) Tj
+ET
+0.93 0.93 0.93 rg
+54 448 487 40 re f
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 469 Tm
+(Default and increase. No agent starts above L1. Autonomy increases require evidence and human approval.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 456.85 Tm
+(Autonomy based on AI self-assessment is prohibited \(Article 12\).) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 421.70000000000005 Tm
+(A.5  Risk classifications) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 416.1 m 541 416.1 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 397.1 Tm
+(CRITICAL, HIGH, MEDIUM, LOW. Approval is a function of class, not of model confidence.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 379.95000000000005 Tm
+(Every consequential action is classified before governance evaluation. Classification is a Trust Kernel) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 366.45000000000005 Tm
+(function. AI confidence is not a risk class.) Tj
+ET
+0 0 0 rg
+BT
+/F2 8 Tf
+1 0 0 1 54 350.95000000000005 Tm
+(Classification | Description | Approval required) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 335.15000000000003 Tm
+(CRITICAL | Actions affecting constitutional integrity, production data, security boundaries, or system-wide state. | Human) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 323.00000000000006 Tm
+(+ Constitutional Review) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 306.8500000000001 Tm
+(HIGH | Actions affecting product deployments, schema changes, credential operations, or cross-tenant access. | Human) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 290.7000000000001 Tm
+(MEDIUM | Actions affecting code changes, test execution, or non-production environments. | Governance Engine) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 274.5500000000001 Tm
+(LOW | Actions affecting documentation, analysis, or read-only operations. | Capability Token only) Tj
+ET
+0.93 0.93 0.93 rg
+54 227.40000000000015 487 40 re f
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 248.40000000000015 Tm
+(Default-deny. Unclassified consequential actions are treated as HIGH until classified. Default-allow is prohibited) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 236.25000000000014 Tm
+(\(Article 4\).) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 201.10000000000014 Tm
+(B.1  System overview) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 195.50000000000014 m 541 195.50000000000014 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 176.50000000000014 Tm
+(Human -> Constitution -> Governance -> Authority -> Capabilities -> Intelligence -> Planning -> Execution -> Verification ->) Tj
+ET
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 164.35000000000014 Tm
+(Evidence -> Audit -> Memory -> Learning.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 147.20000000000013 Tm
+(Authority flows downward. Evidence and audit flow back up. No layer may skip the layers above it.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 133.70000000000013 Tm
+(Intelligence sits below capability; it never sits above authority.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 116.20000000000013 Tm
+(1.  Human -- Sovereign Authority) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 102.70000000000013 Tm
+(2.  Constitution -- Supreme Governing Law) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 89.20000000000013 Tm
+(3.  Governance -- Policy & Rule Engine) Tj
+ET
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 26 0 R >>
+endobj
+28 0 obj
+<< /Length 5220 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 768 Tm
+(4.  Authority -- Explicit Grant System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 754.5 Tm
+(5.  Capabilities -- Scoped Token System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 741 Tm
+(6.  Intelligence -- AI Provider Abstraction) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 727.5 Tm
+(7.  Planning -- Governed Action Plans) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 714 Tm
+(8.  Execution -- Isolated Broker / Workspace) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 700.5 Tm
+(9.  Verification -- Independent Validation) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 687 Tm
+(10.  Evidence -- Immutable Proof Store) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 673.5 Tm
+(11.  Audit -- Append-Only Trail) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 660 Tm
+(12.  Memory -- Verified Knowledge) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 646.5 Tm
+(13.  Learning -- Institutional Growth) Tj
+ET
+0.93 0.93 0.93 rg
+54 599 487 40 re f
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 620 Tm
+(Read direction. A proposal originates in Intelligence or Planning and must climb back through Governance and) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 607.85 Tm
+(Authority before Execution will admit it. Learning cannot grant autonomy or rewrite the Constitution.) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 572.7 Tm
+(B.2  Core subsystems) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 567.1 m 541 567.1 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 548.1 Tm
+(The kernels and engines that enforce the Constitution in software.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 530.95 Tm
+(Subsystems are the implementable counterparts of the stack. Each maps to one or more articles. Absence of) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 517.45 Tm
+(a subsystem is a constitutional defect, not a backlog item.) Tj
+ET
+0 0 0 rg
+BT
+/F2 8 Tf
+1 0 0 1 54 501.95000000000005 Tm
+(Subsystem | Purpose | Key components) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 486.15000000000003 Tm
+(Trust Kernel | Enforce constitutional rules | Auth, Authorization, Policy Engine, Risk Classification) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 470.00000000000006 Tm
+(Authority System | Manage explicit authority grants | Authority Chains, Delegation, Revocation) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 453.8500000000001 Tm
+(Capability System | Issue scoped capability tokens | Token Issuance, Scope Validation, Expiry Management) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 437.7000000000001 Tm
+(Execution Broker | Control all execution | Action Classification, Governance Check, Workspace Allocation) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 421.5500000000001 Tm
+(Verification Engine | Independently verify outcomes | Test Runners, Build Verification, Deployment Verification) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 405.40000000000015 Tm
+(Evidence Store | Store immutable evidence | Hash-chained Storage, Evidence Validation) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 389.25000000000017 Tm
+(Audit System | Maintain append-only audit trail | Event Logging, Hash Chaining, Tamper Detection) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 373.1000000000002 Tm
+(Intelligence Contract | Abstract AI providers | Provider Adapters, Agent Runtime, Context Management) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 356.9500000000002 Tm
+(Product Factory | Transform ideas into products | Discovery, Requirements, Blueprint, Architecture, Planning) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 340.80000000000024 Tm
+(Memory System | Store verified knowledge | Knowledge Candidates, Validation, Institutional Memory) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 324.65000000000026 Tm
+(Recovery System | Enable constitutional recovery | Freeze, Rollback, Restore, Emergency Procedures) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 308.5000000000003 Tm
+(Operations System | Manage running products | Monitoring, Incident, Compliance, Lifecycle) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 277.3500000000003 Tm
+(B.3  Intelligence architecture) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 271.7500000000003 m 541 271.7500000000003 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 252.75000000000028 Tm
+(Providers are adapters. Outputs are proposals. Autonomy is A, not L.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 235.60000000000028 Tm
+(All model access flows through the Intelligence Contract. Provider adapters are pluggable. Agent outputs) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 222.10000000000028 Tm
+(enter the system as proposals, never as commands \(Article 3, Article 16\).) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 204.60000000000028 Tm
+(1.  Intelligence provider) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 191.10000000000028 Tm
+(2.  Provider adapter) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 177.60000000000028 Tm
+(3.  Intelligence Contract) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 164.10000000000028 Tm
+(4.  Agent runtime) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 150.60000000000028 Tm
+(5.  Agent role) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 137.10000000000028 Tm
+(6.  Agent context) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 123.60000000000028 Tm
+(7.  Agent task) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 110.10000000000028 Tm
+(8.  Recommendation / plan / output \(PROPOSAL\)) Tj
+ET
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 28 0 R >>
+endobj
+30 0 obj
+<< /Length 4387 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0 0 0 rg
+BT
+/F2 13 Tf
+1 0 0 1 54 757 Tm
+(Initial agent roles) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 752.45 m 541 752.45 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 732.45 Tm
+(The received freeze numbered these roles L1 / L2. That L is the autonomy ladder from A.4, not enterprise) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 718.95 Tm
+(maturity from E.1. v5.1 reprints the same roster on the A scale.) Tj
+ET
+0 0 0 rg
+BT
+/F2 8 Tf
+1 0 0 1 54 703.45 Tm
+(Agent | Purpose | Autonomy) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 687.6500000000001 Tm
+(Product Discovery Agent | Transform ideas into requirements | L1) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 671.5000000000001 Tm
+(Requirements Agent | Define and validate requirements | L1) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 655.3500000000001 Tm
+(Domain Analyst Agent | Analyze domain models | L1) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 639.2000000000002 Tm
+(Architecture Agent | Propose system architecture | L1) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 623.0500000000002 Tm
+(Database Agent | Design and manage data models | L1) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 606.9000000000002 Tm
+(UX Agent | Design user experience | L1) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 590.7500000000002 Tm
+(Security Agent | Identify and address security concerns | L1) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 574.6000000000003 Tm
+(Repository Agent | Manage code repositories | L1) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 558.4500000000003 Tm
+(QA Agent | Design and execute tests | L1) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 542.3000000000003 Tm
+(Verification Agent | Independently verify outcomes | L2) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 526.1500000000003 Tm
+(Deployment Agent | Manage deployments | L1) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 510.00000000000034 Tm
+(Operations Agent | Monitor and manage operations | L1) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 478.85000000000036 Tm
+(B.4  Product factory lifecycle) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 473.25000000000034 m 541 473.25000000000034 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 454.25000000000034 Tm
+(Idea to retirement under governance. v5.1 adds Discovery, Requirements, and Architecture state machines.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 437.10000000000036 Tm
+(The factory is a governed pipeline, not a prompt. Human approval sits after architecture and before) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 423.60000000000036 Tm
+(implementation. Verification and evidence sit after execution and before deployment.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 406.10000000000036 Tm
+(1.  Idea) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 392.60000000000036 Tm
+(2.  Discovery) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 379.10000000000036 Tm
+(3.  Requirements) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 365.60000000000036 Tm
+(4.  Domain model) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 352.10000000000036 Tm
+(5.  Product Passport) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 338.60000000000036 Tm
+(6.  Blueprint) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 325.10000000000036 Tm
+(7.  Architecture) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 311.60000000000036 Tm
+(8.  Human approval) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 298.10000000000036 Tm
+(9.  Implementation plan) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 284.60000000000036 Tm
+(10.  Execution) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 271.10000000000036 Tm
+(11.  Build) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 257.60000000000036 Tm
+(12.  Test) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 244.10000000000036 Tm
+(13.  Security) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 230.60000000000036 Tm
+(14.  Verification) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 217.10000000000036 Tm
+(15.  Evidence) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 203.60000000000036 Tm
+(16.  Deployment approval) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 190.10000000000036 Tm
+(17.  Deployment) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 176.60000000000036 Tm
+(18.  Post-deployment verification) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 163.10000000000036 Tm
+(19.  Operations) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 149.60000000000036 Tm
+(20.  Learning) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 136.10000000000036 Tm
+(21.  Improvement) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 122.60000000000036 Tm
+(22.  Retirement) Tj
+ET
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 30 0 R >>
+endobj
+32 0 obj
+<< /Length 4300 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 754 Tm
+(B.5  Execution path) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 748.4 m 541 748.4 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 729.4 Tm
+(Proposal to audit. Nothing runs that has not passed classification, governance, authority, capability, and approval.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 712.25 Tm
+(Execution is admitted only through the Execution Broker, only inside an isolated workspace, and only against) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 698.75 Tm
+(a valid authority chain and in-scope capability token \(Articles 4, 5, 6\). A result is a claim, not success \(Article) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 685.25 Tm
+(7\).) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 667.75 Tm
+(1.  Agent proposal) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 654.25 Tm
+(2.  Action classification) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 640.75 Tm
+(3.  Risk assessment) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 627.25 Tm
+(4.  Governance evaluation) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 613.75 Tm
+(5.  Authority check) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 600.25 Tm
+(6.  Capability check) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 586.75 Tm
+(7.  Approval check) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 573.25 Tm
+(8.  Capability token) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 559.75 Tm
+(9.  Execution Broker) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 546.25 Tm
+(10.  Isolated workspace) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 532.75 Tm
+(11.  Worker) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 519.25 Tm
+(12.  Result) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 505.75 Tm
+(13.  Verification) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 492.25 Tm
+(14.  Evidence) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 478.75 Tm
+(15.  Audit) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 447.25 Tm
+(B.6  Verification and evidence) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 441.65 m 541 441.65 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 422.65 Tm
+(Independent checks. Evidence levels E0--E4. E0 is unacceptable for every consequential claim.) Tj
+ET
+0 0 0 rg
+BT
+/F2 13 Tf
+1 0 0 1 54 394.5 Tm
+(Verification types) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 389.95 m 541 389.95 l S
+0 0 0 rg
+BT
+/F2 8 Tf
+1 0 0 1 54 371.95 Tm
+(Type | Purpose | Performed by) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 356.15 Tm
+(Functional | Verify functional requirements | Verification Agent) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 340 Tm
+(Unit | Verify individual components | Automated Test Runner) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 323.85 Tm
+(Integration | Verify component interactions | Automated Test Runner) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 307.70000000000005 Tm
+(E2E | Verify user workflows | Playwright Runner) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 291.55000000000007 Tm
+(Security | Verify security controls | Security Agent) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 275.4000000000001 Tm
+(Performance | Verify performance requirements | Performance Runner) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 259.2500000000001 Tm
+(Deployment | Verify deployment success | Deployment Verifier) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 243.10000000000014 Tm
+(Data Integrity | Verify data operations | Data Verifier) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 226.95000000000013 Tm
+(Recovery | Verify recovery procedures | Recovery Tester) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 210.80000000000013 Tm
+(Configuration | Verify configuration correctness | Configuration Verifier) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 194.65000000000012 Tm
+(Compliance | Verify constitutional compliance | Compliance Checker) Tj
+ET
+0 0 0 rg
+BT
+/F2 13 Tf
+1 0 0 1 54 166.5000000000001 Tm
+(Evidence levels) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 161.9500000000001 m 541 161.9500000000001 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 141.9500000000001 Tm
+(Evidence numbering is E0--E4 in both the received freeze and the operative issue. It is not renamed. It is not) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 128.4500000000001 Tm
+(autonomy and not maturity.) Tj
+ET
+0 0 0 rg
+BT
+/F2 8 Tf
+1 0 0 1 54 112.9500000000001 Tm
+(Level | Description | Required for) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 97.1500000000001 Tm
+(E0 | No evidence -- agent assertion only | Nothing \(unacceptable\)) Tj
+ET
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 32 0 R >>
+endobj
+34 0 obj
+<< /Length 4732 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 769 Tm
+(E1 | Automated test output | LOW risk actions) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 752.85 Tm
+(E2 | Test output + configuration snapshot | MEDIUM risk actions) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 736.7 Tm
+(E3 | Test output + configuration + security scan | HIGH risk actions) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 720.5500000000001 Tm
+(E4 | Full evidence package + independent verification | CRITICAL risk actions) Tj
+ET
+0.93 0.93 0.93 rg
+54 673.4000000000001 487 40 re f
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 694.4000000000001 Tm
+(E0 is never enough. Claims lacking evidence are marked unverified and cannot be used for decision-making \(Article) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 682.2500000000001 Tm
+(9\). Absence of errors is not evidence of correctness.) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 647.1000000000001 Tm
+(B.7  Memory and learning) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 641.5000000000001 m 541 641.5000000000001 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 622.5000000000001 Tm
+(AI saying something does not become AGBOFA knowledge.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 605.3500000000001 Tm
+(1.  Raw observation) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 591.8500000000001 Tm
+(2.  Evidence) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 578.3500000000001 Tm
+(3.  Verified outcome) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 564.8500000000001 Tm
+(4.  Knowledge candidate) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 551.3500000000001 Tm
+(5.  Validation) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 537.8500000000001 Tm
+(6.  Institutional knowledge) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 524.3500000000001 Tm
+(7.  Future decision support) Tj
+ET
+0.93 0.93 0.93 rg
+54 476.85000000000014 487 40 re f
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 497.85000000000014 Tm
+(Verified outcomes only. AI saying something does not become AGBOFA knowledge. Only verified outcomes with) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 485.70000000000016 Tm
+(evidence become knowledge \(Article 13\). Learning never grants authority and never weakens governance.) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 450.5500000000002 Tm
+(C.1  Daily operating rhythm) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 444.95000000000016 m 541 444.95000000000016 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 425.95000000000016 Tm
+(Eight hours. Brief, implement, assemble, test, attack, freeze.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 408.8000000000002 Tm
+(The daily rhythm is how humans and agents share a clock without sharing authority. Architecture decides) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 395.3000000000002 Tm
+(what should exist before agents generate. Evidence is frozen before the day closes.) Tj
+ET
+0 0 0 rg
+BT
+/F2 8 Tf
+1 0 0 1 54 379.8000000000002 Tm
+(Time | Activity | Hours | Purpose) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 363.00000000000017 Tm
+(-  Time: 08:00--09:00) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 349.50000000000017 Tm
+(-  Activity: Architecture & Command Briefing) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 336.00000000000017 Tm
+(-  Hours: 1.0) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 322.50000000000017 Tm
+(-  Purpose: Decide what should exist) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 305.00000000000017 Tm
+(-  Time: 09:00--11:30) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 291.50000000000017 Tm
+(-  Activity: AI Agent Implementation) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 278.00000000000017 Tm
+(-  Hours: 2.5) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 264.50000000000017 Tm
+(-  Purpose: Agents generate and modify systems) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 247.00000000000017 Tm
+(-  Time: 11:30--13:00) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 233.50000000000017 Tm
+(-  Activity: Assembly & Integration) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 220.00000000000017 Tm
+(-  Hours: 1.5) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 206.50000000000017 Tm
+(-  Purpose: Connect components) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 189.00000000000017 Tm
+(-  Time: 14:00--15:30) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 175.50000000000017 Tm
+(-  Activity: Testing & Validation) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 162.00000000000017 Tm
+(-  Hours: 1.5) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 148.50000000000017 Tm
+(-  Purpose: Prove functionality) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 131.00000000000017 Tm
+(-  Time: 15:30--16:15) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 117.50000000000017 Tm
+(-  Activity: Security & Governance Verification) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 104.00000000000017 Tm
+(-  Hours: 0.75) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 90.50000000000017 Tm
+(-  Purpose: Attack and verify controls) Tj
+ET
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 34 0 R >>
+endobj
+36 0 obj
+<< /Length 4276 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 768 Tm
+(-  Time: 16:15--17:00) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 754.5 Tm
+(-  Activity: Evidence & Daily Freeze) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 741 Tm
+(-  Hours: 0.75) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 727.5 Tm
+(-  Purpose: Preserve decisions and evidence) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 710 Tm
+(-  Time: TOTAL) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 696.5 Tm
+(-  Activity:) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 683 Tm
+(-  Hours: 8.0) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 669.5 Tm
+(-  Purpose:) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 638 Tm
+(C.2  Weekly rhythm and six-day cycle) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 632.4 m 541 632.4 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 613.4 Tm
+(Heavy assembly, then integration, then attack. Every block: plan, assemble, test, attack, verify, freeze.) Tj
+ET
+0 0 0 rg
+BT
+/F2 13 Tf
+1 0 0 1 54 585.25 Tm
+(Weekly rhythm) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 580.7 m 541 580.7 l S
+0 0 0 rg
+BT
+/F2 8 Tf
+1 0 0 1 54 562.7 Tm
+(Days | Mode) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 546.9000000000001 Tm
+(Monday--Thursday | Heavy assembly) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 530.7500000000001 Tm
+(Friday | Integration + testing) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 514.6000000000001 Tm
+(Saturday | Security + verification + documentation) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 498.45000000000016 Tm
+(Sunday | Light review / planning / recovery \(2--4 hours\)) Tj
+ET
+0 0 0 rg
+BT
+/F2 13 Tf
+1 0 0 1 54 470.3000000000002 Tm
+(Six-day work cycle) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 465.75000000000017 m 541 465.75000000000017 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 445.75000000000017 Tm
+(Each implementation block follows the same six beats. Skipping ATTACK or FREEZE is a process violation,) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 432.25000000000017 Tm
+(not a schedule compression.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 414.75000000000017 Tm
+(1.  Plan) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 401.25000000000017 Tm
+(2.  Assemble) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 387.75000000000017 Tm
+(3.  Test) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 374.25000000000017 Tm
+(4.  Attack) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 360.75000000000017 Tm
+(5.  Verify) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 347.25000000000017 Tm
+(6.  Freeze) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 315.75000000000017 Tm
+(C.3  Ten gates) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 310.15000000000015 m 541 310.15000000000015 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 291.15000000000015 Tm
+(Gate 1 constitutional runtime through Gate 10 red-team certification. Gates are evidence, not dates.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 274.00000000000017 Tm
+(A gate is a certification event with an evidence package. Passing a calendar day does not pass a gate. Gate) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 260.50000000000017 Tm
+(numbers are delivery checkpoints; they are not autonomy grants, not maturity levels, and not document-issue) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 247.00000000000017 Tm
+(numbers.) Tj
+ET
+0 0 0 rg
+BT
+/F2 8 Tf
+1 0 0 1 54 231.50000000000017 Tm
+(Gate | Description | Blocks covered) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 215.70000000000016 Tm
+(Gate 1 | Constitutional Runtime works | Block 1) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 199.55000000000015 Tm
+(Gate 2 | Trust Kernel works | Block 2) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 183.40000000000015 Tm
+(Gate 3 | Authority / Capability security works | Block 3) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 167.25000000000014 Tm
+(Gate 4 | AI Agent runtime works | Block 4) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 151.10000000000014 Tm
+(Gate 5 | Product specification factory works | Block 5) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 134.95000000000013 Tm
+(Gate 6 | Controlled execution works | Block 6) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 118.80000000000013 Tm
+(Gate 7 | Independent verification works | Block 7) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 102.65000000000012 Tm
+(Gate 8 | Deployment lifecycle works | Block 8) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 86.50000000000011 Tm
+(Gate 9 | Multiple products remain isolated | Block 9) Tj
+ET
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 36 0 R >>
+endobj
+38 0 obj
+<< /Length 6417 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 769 Tm
+(Gate 10 | Red-team certification passes | Block 10) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 737.85 Tm
+(C.4  Layer contracts) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 732.25 m 541 732.25 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 713.25 Tm
+(Purpose, permissions, and failure modes for every layer in the stack.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 696.1 Tm
+(The received freeze defined the stack in Part B and the rhythm in Part C. It did not publish a per-layer contract) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 682.6 Tm
+(catalogue.) Tj
+ET
+0.93 0.93 0.93 rg
+54 623.1 487 52 re f
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 656.1 Tm
+(Catalogue lives in the operative issue. The layer-by-layer contract -- purpose, responsibilities, inputs, outputs,) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 643.95 Tm
+(permissions, prohibitions, dependencies, data, failures, security, audit -- is issued in v5.1. Switch to the v5.1 operative) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 631.8000000000001 Tm
+(issue to read it.) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 596.6500000000001 Tm
+(C.5  Agent catalogue) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 591.0500000000001 m 541 591.0500000000001 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 572.0500000000001 Tm
+(Named agents, tools, prohibitions, and autonomy grants A0 / A1 / A2.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 554.9000000000001 Tm
+(The received freeze listed initial agent roles in B.3 with L1 / L2 autonomy cells. It did not publish per-agent) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 541.4000000000001 Tm
+(contracts \(inputs, outputs, tools, prohibitions, confidence, autonomy\).) Tj
+ET
+0.93 0.93 0.93 rg
+54 493.9000000000001 487 40 re f
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 514.9000000000001 Tm
+(Catalogue lives in the operative issue. The agent-by-agent contract is issued in v5.1, using A0--A2 grants. Switch to) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 502.7500000000001 Tm
+(the v5.1 operative issue to read it. L1 in the freeze is A1; L2 is A2.) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 467.60000000000014 Tm
+(D.1  Repository structure) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 462.0000000000001 m 541 462.0000000000001 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 443.0000000000001 Tm
+(Constitution at the root. Core, intelligence, factory, products, operations, evidence, command center.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 425.85000000000014 Tm
+(The repository is itself a constitutional artifact. The Constitution directory is supreme. Products never import) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 412.35000000000014 Tm
+(core internals that would let an agent self-grant authority.) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 397.35000000000014 Tm
+(agbofa/) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 387.22500000000014 Tm
+(??? constitution/               # THE CONSTITUTION \(supreme\)) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 377.10000000000014 Tm
+(?   ??? articles/               # Each article as machine-readable contract) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 366.97500000000014 Tm
+(?   ??? principles/             # Permanent architectural principles) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 356.85000000000014 Tm
+(?   ??? amendments/             # Constitutional amendment process) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 346.72500000000014 Tm
+(?   ??? version-control/        # Constitutional versioning) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 336.60000000000014 Tm
+(?) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 326.47500000000014 Tm
+(??? core/                       # AGBOFA CORE PLATFORM) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 316.35000000000014 Tm
+(?   ??? trust-kernel/           # Auth, governance, policy engine) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 306.22500000000014 Tm
+(?   ??? authority/              # Authority model, delegation, revocation) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 296.10000000000014 Tm
+(?   ??? capability/             # Capability tokens, scopes, expiry) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 285.97500000000014 Tm
+(?   ??? execution/              # Broker, workspace, workers, sandbox) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 275.85000000000014 Tm
+(?   ??? verification/           # Independent verification engine) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 265.72500000000014 Tm
+(?   ??? evidence/               # Evidence collection, hashing, storage) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 255.60000000000014 Tm
+(?   ??? audit/                  # Append-only audit log) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 245.47500000000014 Tm
+(?   ??? recovery/               # Freeze, rollback, restore) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 235.35000000000014 Tm
+(?) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 225.22500000000014 Tm
+(??? intelligence/               # AI ABSTRACTION LAYER) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 215.10000000000014 Tm
+(?   ??? contract/               # Intelligence Contract \(provider-agnostic\)) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 204.97500000000014 Tm
+(?   ??? adapters/               # Provider adapters) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 194.85000000000014 Tm
+(?   ??? runtime/                # Agent runtime, context, task management) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 184.72500000000014 Tm
+(?   ??? memory/                 # Institutional memory and learning) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 174.60000000000014 Tm
+(?) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 164.47500000000014 Tm
+(??? factory/                    # PRODUCT FACTORY) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 154.35000000000014 Tm
+(?   ??? discovery/              # Product discovery workflow) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 144.22500000000014 Tm
+(?   ??? requirements/           # Requirements engine) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 134.10000000000014 Tm
+(?   ??? blueprint/              # Product blueprint generation) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 123.97500000000014 Tm
+(?   ??? architecture/           # Architecture proposal system) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 113.85000000000014 Tm
+(?   ??? planning/               # Implementation planning) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 103.72500000000014 Tm
+(?) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 93.60000000000014 Tm
+(??? products/                   # PRODUCTS BUILT BY AGBOFA) Tj
+ET
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 38 0 R >>
+endobj
+40 0 obj
+<< /Length 5368 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 770.5 Tm
+(?   ??? product-a/) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 760.375 Tm
+(?   ?   ??? passport.json       # Product Passport \(identity contract\)) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 750.25 Tm
+(?   ?   ??? requirements/) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 740.125 Tm
+(?   ?   ??? blueprint/) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 730 Tm
+(?   ?   ??? source/) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 719.875 Tm
+(?   ?   ??? evidence/) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 709.75 Tm
+(?   ?   ??? audit/) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 699.625 Tm
+(?   ??? product-b/) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 689.5 Tm
+(?) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 679.375 Tm
+(??? operations/                 # ENTERPRISE OPERATIONS) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 669.25 Tm
+(?   ??? monitoring/) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 659.125 Tm
+(?   ??? incident/) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 649 Tm
+(?   ??? deployment/) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 638.875 Tm
+(?   ??? compliance/) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 628.75 Tm
+(?) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 618.625 Tm
+(??? templates/                  # TECHNOLOGY TEMPLATES) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 608.5 Tm
+(?   ??? web-app/) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 598.375 Tm
+(?   ??? api-service/) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 588.25 Tm
+(?   ??? database/) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 578.125 Tm
+(?) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 568 Tm
+(??? evidence/                   # AGBOFA'S OWN EVIDENCE) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 557.875 Tm
+(?   ??? daily-freezes/) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 547.75 Tm
+(?   ??? gate-certifications/) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 537.625 Tm
+(?   ??? red-team/) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 527.5 Tm
+(?   ??? completion-matrix.json) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 517.375 Tm
+(?) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 507.25 Tm
+(??? command-center/             # AGBOFA COMMAND CENTER) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 497.125 Tm
+(    ??? api/) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 487 Tm
+(    ??? dashboard/) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 476.875 Tm
+(    ??? cli/) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 444.25 Tm
+(D.2  Technology stack) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 438.65 m 541 438.65 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 419.65 Tm
+(TypeScript, Node 20, Postgres 16, SQLite, Drizzle, BullMQ, XState 5, Zod, Vitest, Playwright, Fastify, JWT and capability) Tj
+ET
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 407.5 Tm
+(tokens, Docker Compose \(phase 1\), React and Vite.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 390.35 Tm
+(The stack is chosen for type safety, explicit state, and auditable storage. Provider-specific AI SDKs do not) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 376.85 Tm
+(appear in core. Phase 1 deployment is a single-node Docker Compose so the execution path remains) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 363.35 Tm
+(inspectable.) Tj
+ET
+0 0 0 rg
+BT
+/F2 8 Tf
+1 0 0 1 54 347.85 Tm
+(Component | Technology | Rationale) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 332.05 Tm
+(Language | TypeScript \(strict mode\) | Type safety, ecosystem maturity) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 315.90000000000003 Tm
+(Runtime | Node.js 20+ | Production-ready, widespread support) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 299.75000000000006 Tm
+(Database \(Primary\) | PostgreSQL 16 | Enterprise-grade, ACID compliance) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 283.6000000000001 Tm
+(Database \(Isolated\) | SQLite | Lightweight test and workspace environments) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 267.4500000000001 Tm
+(ORM | Drizzle ORM | SQL-first, TypeScript-native, lightweight) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 251.30000000000013 Tm
+(Queue | BullMQ \(Redis-based\) | Production-ready job queue) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 235.15000000000012 Tm
+(State management | XState 5 | Explicit state machines, TypeScript-native) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 219.0000000000001 Tm
+(Validation | Zod | Runtime validation, TypeScript inference) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 202.8500000000001 Tm
+(Testing \(Unit / Integration\) | Vitest | Fast, modern, TypeScript-native) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 186.7000000000001 Tm
+(Testing \(E2E\) | Playwright | Browser automation, cross-browser) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 170.5500000000001 Tm
+(API framework | Fastify | High-performance, TypeScript-native) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 154.4000000000001 Tm
+(Authentication | Custom JWT + capability tokens | Constitutional authority model) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 138.25000000000009 Tm
+(Audit storage | PostgreSQL + append-only tables | Durable, queryable, hash-chained) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 122.10000000000008 Tm
+(Containerization | Docker + Docker Compose | Consistent environments) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 105.95000000000007 Tm
+(Deployment \(Phase 1\) | Single-node Docker Compose | Controlled, auditable) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 89.80000000000007 Tm
+(CLI | Commander.js | Mature CLI framework) Tj
+ET
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 40 0 R >>
+endobj
+42 0 obj
+<< /Length 5467 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 769 Tm
+(Dashboard | React + Vite | Command center UI) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 752.85 Tm
+(Documentation | Markdown + OpenAPI 3.1 | Machine-readable API docs) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 721.7 Tm
+(D.3  Product Passport) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 716.1 m 541 716.1 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 697.1 Tm
+(Identity contract for every product. v5.1 binds constitutionVersion and a closed lifecycleState union.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 679.95 Tm
+(Every product carries a Product Passport. The passport is the identity contract: tenant, owner, environments,) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 666.45 Tm
+(agents, capabilities, evidence, recovery. The received freeze typed lifecycleState as an open string.) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 651.45 Tm
+(interface ProductPassport {) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 641.325 Tm
+(  productId: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 631.2 Tm
+(  productName: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 621.075 Tm
+(  tenantId: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 610.95 Tm
+(  ownerId: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 600.825 Tm
+(  version: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 590.7 Tm
+(  lifecycleState: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 580.575 Tm
+(  requirements: RequirementReference[];) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 570.45 Tm
+(  architecture: ArchitectureReference;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 560.325 Tm
+(  technologyProfile: TechnologyProfile;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 550.2 Tm
+(  database: DatabaseReference;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 540.075 Tm
+(  repositories: RepositoryReference[];) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 529.95 Tm
+(  environments: EnvironmentReference[];) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 519.825 Tm
+(  deployments: DeploymentReference[];) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 509.70000000000005 Tm
+(  agents: AgentReference[];) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 499.57500000000005 Tm
+(  capabilities: CapabilityReference[];) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 489.45000000000005 Tm
+(  policies: PolicyReference[];) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 479.32500000000005 Tm
+(  auditHistory: AuditReference[];) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 469.20000000000005 Tm
+(  evidence: EvidenceReference[];) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 459.07500000000005 Tm
+(  incidents: IncidentReference[];) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 448.95000000000005 Tm
+(  recoveryState: RecoveryReference;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 438.82500000000005 Tm
+(}) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 406.20000000000005 Tm
+(D.4  Capability token and audit event) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 400.6 m 541 400.6 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 381.6 Tm
+(Scoped, short-lived capability. Append-only, hash-chained audit.) Tj
+ET
+0 0 0 rg
+BT
+/F2 13 Tf
+1 0 0 1 54 353.45000000000005 Tm
+(Capability token) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 348.90000000000003 m 541 348.90000000000003 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 328.90000000000003 Tm
+(An actor can only perform actions for which it possesses the required capability \(Article 5\). Tokens are) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 315.40000000000003 Tm
+(short-lived, scoped to product and environment, and renewable only through governance.) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 300.40000000000003 Tm
+(interface CapabilityToken {) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 290.27500000000003 Tm
+(  tokenId: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 280.15000000000003 Tm
+(  capability: string;          // e.g., "repo.read") Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 270.02500000000003 Tm
+(  scope: {) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 259.90000000000003 Tm
+(    productId: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 249.77500000000003 Tm
+(    environment: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 239.65000000000003 Tm
+(    resource?: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 229.52500000000003 Tm
+(  };) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 219.40000000000003 Tm
+(  grantedTo: {) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 209.27500000000003 Tm
+(    agentId: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 199.15000000000003 Tm
+(    role: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 189.02500000000003 Tm
+(  };) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 178.90000000000003 Tm
+(  grantedBy: {) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 168.77500000000003 Tm
+(    authorityChain: string[];) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 158.65000000000003 Tm
+(    humanApproval?: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 148.52500000000003 Tm
+(  };) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 138.40000000000003 Tm
+(  issuedAt: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 128.27500000000003 Tm
+(  expiresAt: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 118.15000000000003 Tm
+(  constraints: {) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 108.02500000000003 Tm
+(    maxDuration?: number;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 97.90000000000003 Tm
+(    maxOperations?: number;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 87.77500000000003 Tm
+(    allowedCommands?: string[];) Tj
+ET
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 42 0 R >>
+endobj
+44 0 obj
+<< /Length 5281 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 770.5 Tm
+(  };) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 760.375 Tm
+(}) Tj
+ET
+0 0 0 rg
+BT
+/F2 13 Tf
+1 0 0 1 54 730.75 Tm
+(Audit event) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 726.2 m 541 726.2 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 706.2 Tm
+(Consequential actions create durable audit records \(Article 10\). Events are append-only and hash-chained.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 692.7 Tm
+(Modification, deletion, or bypass is a security incident.) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 677.7 Tm
+(interface AuditEvent {) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 667.575 Tm
+(  eventId: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 657.45 Tm
+(  timestamp: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 647.325 Tm
+(  actor: {) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 637.2 Tm
+(    type: "human" | "agent" | "system";) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 627.075 Tm
+(    id: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 616.95 Tm
+(    role?: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 606.825 Tm
+(  };) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 596.7 Tm
+(  action: {) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 586.575 Tm
+(    type: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 576.45 Tm
+(    classification: "LOW" | "MEDIUM" | "HIGH" | "CRITICAL";) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 566.325 Tm
+(    description: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 556.2 Tm
+(  };) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 546.075 Tm
+(  authority: {) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 535.95 Tm
+(    chain: string[];) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 525.825 Tm
+(    token?: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 515.7 Tm
+(    humanApproval?: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 505.57500000000005 Tm
+(  };) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 495.45000000000005 Tm
+(  capability: {) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 485.32500000000005 Tm
+(    name: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 475.20000000000005 Tm
+(    scope: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 465.07500000000005 Tm
+(    tokenId?: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 454.95000000000005 Tm
+(  };) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 444.82500000000005 Tm
+(  target: {) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 434.70000000000005 Tm
+(    productId?: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 424.57500000000005 Tm
+(    environment?: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 414.45000000000005 Tm
+(    resource?: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 404.32500000000005 Tm
+(  };) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 394.20000000000005 Tm
+(  result: {) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 384.07500000000005 Tm
+(    status: "success" | "failure" | "rejected" | "error";) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 373.95000000000005 Tm
+(    details?: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 363.82500000000005 Tm
+(  };) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 353.70000000000005 Tm
+(  verification: {) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 343.57500000000005 Tm
+(    performed: boolean;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 333.45000000000005 Tm
+(    method?: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 323.32500000000005 Tm
+(    result?: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 313.20000000000005 Tm
+(    evidenceId?: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 303.07500000000005 Tm
+(  };) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 292.95000000000005 Tm
+(  hash: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 282.82500000000005 Tm
+(  previousHash: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 272.70000000000005 Tm
+(}) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 240.07500000000005 Tm
+(D.5  Intelligence Contract) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 234.47500000000005 m 541 234.47500000000005 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 215.47500000000005 Tm
+(Provider-agnostic contract. Adapters for Claude, GPT, and Local are replaceable.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 198.32500000000005 Tm
+(All intelligence access flows through the Intelligence Contract \(Article 16\). The contract names capabilities) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 184.82500000000005 Tm
+(and constraints, not a vendor. Direct provider access from core is an architecture violation.) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 169.82500000000005 Tm
+(interface IntelligenceContract {) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 159.70000000000005 Tm
+(  contractId: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 149.57500000000005 Tm
+(  version: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 139.45000000000005 Tm
+(  provider: string;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 129.32500000000005 Tm
+(  capabilities: {) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 119.20000000000005 Tm
+(    reasoning: boolean;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 109.07500000000005 Tm
+(    codeGeneration: boolean;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 98.95000000000005 Tm
+(    analysis: boolean;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 88.82500000000005 Tm
+(    planning: boolean;) Tj
+ET
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 44 0 R >>
+endobj
+46 0 obj
+<< /Length 4913 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 770.5 Tm
+(    toolUse: boolean;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 760.375 Tm
+(  };) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 750.25 Tm
+(  constraints: {) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 740.125 Tm
+(    maxContextLength: number;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 730 Tm
+(    maxOutputLength: number;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 719.875 Tm
+(    timeoutMs: number;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 709.75 Tm
+(    retryPolicy: RetryPolicy;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 699.625 Tm
+(  };) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 689.5 Tm
+(  security: {) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 679.375 Tm
+(    dataIsolation: boolean;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 669.25 Tm
+(    noTrainingOnData: boolean;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 659.125 Tm
+(    auditLogging: boolean;) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 649 Tm
+(  };) Tj
+ET
+0 0 0 rg
+BT
+/F4 7.5 Tf
+1 0 0 1 54 638.875 Tm
+(}) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 606.25 Tm
+(E.1  Enterprise maturity) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 600.65 m 541 600.65 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 581.65 Tm
+(Platform capability scale. The freeze wrote L0--L5. The operative issue writes M0--M5. M is not A.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 564.5 Tm
+(The received freeze published enterprise maturity as L0--L5. The same L prefix was used in A.4 for agent) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 551 Tm
+(autonomy. That collision is a numbering defect. Read this table as platform maturity, not as an agent grant.) Tj
+ET
+0.93 0.93 0.93 rg
+54 503.5 487 40 re f
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 524.5 Tm
+(Numbering collision. v5.1 splits the ladder. Autonomy is A0--A5. Maturity is M0--M5. Evidence stays E0--E4. An L) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 512.35 Tm
+(number from the freeze is not usable until you know which table it came from.) Tj
+ET
+0 0 0 rg
+BT
+/F2 8 Tf
+1 0 0 1 54 493.20000000000005 Tm
+(Level | Name | Description | Key capabilities) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 476.40000000000003 Tm
+(-  Level: L0) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 462.90000000000003 Tm
+(-  Name: Constitutional Foundation) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 449.40000000000003 Tm
+(-  Description: Constitution defined, basic governance exists) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 435.90000000000003 Tm
+(-  Key capabilities: Trust Kernel, Authority, Capability) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 418.40000000000003 Tm
+(-  Level: L1) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 404.90000000000003 Tm
+(-  Name: Core Platform) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 391.40000000000003 Tm
+(-  Description: Platform can govern and execute) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 377.90000000000003 Tm
+(-  Key capabilities: Execution Broker, Verification, Evidence) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 360.40000000000003 Tm
+(-  Level: L2) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 346.90000000000003 Tm
+(-  Name: Product Factory) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 333.40000000000003 Tm
+(-  Description: Platform can build products) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 319.90000000000003 Tm
+(-  Key capabilities: Discovery, Requirements, Blueprint, Planning) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 302.40000000000003 Tm
+(-  Level: L3) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 288.90000000000003 Tm
+(-  Name: Multi-Product Ecosystem) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 275.40000000000003 Tm
+(-  Description: Multiple products managed simultaneously) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 261.90000000000003 Tm
+(-  Key capabilities: Tenant Isolation, Portfolio Management) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 244.40000000000003 Tm
+(-  Level: L4) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 230.90000000000003 Tm
+(-  Name: Enterprise Platform) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 217.40000000000003 Tm
+(-  Description: Enterprise-grade operations) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 203.90000000000003 Tm
+(-  Key capabilities: Monitoring, Incident, Compliance, Recovery) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 186.40000000000003 Tm
+(-  Level: L5) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 172.90000000000003 Tm
+(-  Name: Autonomous Governed Ecosystem) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 159.40000000000003 Tm
+(-  Description: Full governed autonomy) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 145.90000000000003 Tm
+(-  Key capabilities: Self-improvement, Advanced Learning) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 114.40000000000003 Tm
+(E.2  Enterprise capabilities) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 108.80000000000004 m 541 108.80000000000004 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 89.80000000000004 Tm
+(Target-state capabilities. Architecture-ready is not Day-60 operational.) Tj
+ET
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 46 0 R >>
+endobj
+48 0 obj
+<< /Length 5450 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 768 Tm
+(Phase 1 implements the architecture that supports these capabilities. Full operational deployment of every) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 754.5 Tm
+(enterprise feature may require additional infrastructure beyond Day 60, but the architectural support is) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 741 Tm
+(present.) Tj
+ET
+0 0 0 rg
+BT
+/F2 8 Tf
+1 0 0 1 54 725.5 Tm
+(Capability | Description | Implementation status) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 709.7 Tm
+(Multi-Region Infrastructure | Deploy across geographic regions | Phase 1: Architecture-ready, single-node implementation) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 693.5500000000001 Tm
+(Multi-Provider AI Routing | Route intelligence to different providers | Phase 1: Contract + Adapter pattern) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 677.4000000000001 Tm
+(Enterprise SDK | External integration SDK | Phase 1: API-first architecture) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 661.2500000000001 Tm
+(Federation | Multi-instance coordination | Phase 1: Architecture-ready) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 645.1000000000001 Tm
+(Marketplace | Product / agent marketplace | Phase 1: Architecture-ready) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 628.9500000000002 Tm
+(Hundreds of Agents | Massive agent scaling | Phase 1: Agent registry scalable) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 612.8000000000002 Tm
+(Advanced Analytics | Enterprise analytics | Phase 1: Evidence-based foundation) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 596.6500000000002 Tm
+(Compliance Frameworks | SOC2, GDPR, etc. | Phase 1: Audit-ready architecture) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 565.5000000000002 Tm
+(E.3  Security constitution) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 559.9000000000002 m 541 559.9000000000002 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 540.9000000000002 Tm
+(Named threats, articles, and controlling subsystems.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 523.7500000000002 Tm
+(The received freeze distributed security across articles, red-team scenarios, and gate criteria. It did not) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 510.2500000000002 Tm
+(publish a named threat table as part of the enterprise target.) Tj
+ET
+0.93 0.93 0.93 rg
+54 450.7500000000002 487 52 re f
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 483.7500000000002 Tm
+(Threat table lives in the operative issue. v5.1 names the threats, the articles they violate, and the subsystems that) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 471.60000000000025 Tm
+(must block them. Switch to the v5.1 operative issue to read the table. Red-team IDs RT-001--RT-010 remain the test) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 459.4500000000003 Tm
+(bindings in Part F.) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 424.3000000000003 Tm
+(F.1  Program objective) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 418.7000000000003 m 541 418.7000000000003 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 399.7000000000003 Tm
+(The freeze claimed 100% at Day 60. The operative issue retargets certification.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 382.5500000000003 Tm
+(At the end of Day 60, the received freeze required:) Tj
+ET
+0.55 0.55 0.55 RG 1.5 w
+0 0 0 rg
+BT
+/F3 11 Tf
+1 0 0 1 66 364.0500000000003 Tm
+(Every capability, subsystem, constitutional control, enterprise function, integration boundary,) Tj
+ET
+0 0 0 rg
+BT
+/F3 11 Tf
+1 0 0 1 66 349.2000000000003 Tm
+(security mechanism, verification mechanism, operational capability, and governance mechanism) Tj
+ET
+0 0 0 rg
+BT
+/F3 11 Tf
+1 0 0 1 66 334.35000000000025 Tm
+(defined as part of the Master Architecture must have an implemented, integrated, tested, and) Tj
+ET
+0 0 0 rg
+BT
+/F3 11 Tf
+1 0 0 1 66 319.5000000000002 Tm
+(evidenced counterpart in AGBOFA.) Tj
+ET
+54 315.6500000000002 m 54 375.0500000000003 l S
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 295.6500000000002 Tm
+(Architectural implementation: 100% -- Freeze claim) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 278.1500000000002 Tm
+(Critical-path verification: 100% -- Freeze claim) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 260.6500000000002 Tm
+(Unresolved constitutional violations: 0 -- Invariant) Tj
+ET
+0.93 0.93 0.93 rg
+54 177.1500000000002 487 76 re f
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 234.1500000000002 Tm
+(Why v5.1 rewrites this objective. The 100% Day-60 claim collapsed three scales onto one L ladder: document issue,) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 222.0000000000002 Tm
+(agent autonomy, and enterprise maturity. It asserted that Day 60 delivers the full autonomous governed ecosystem) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 209.8500000000002 Tm
+(\(the freeze's L5 in Part E\) including federation, marketplace, multi-region, and full self-improvement. That is not a) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 197.7000000000002 Tm
+(certifiable increment. The operative issue keeps the sixty-day clock and the ten gates, and rebinds what certification) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 185.55000000000018 Tm
+(may claim.) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 150.40000000000018 Tm
+(F.2  Phases and blocks) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 144.80000000000018 m 541 144.80000000000018 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 125.80000000000018 Tm
+(Four phases, ten blocks, sixty days. Clock and gates are unchanged. Claims are not.) Tj
+ET
+0 0 0 rg
+BT
+/F2 13 Tf
+1 0 0 1 54 97.65000000000018 Tm
+(Implementation phases) Tj
+ET
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 48 0 R >>
+endobj
+50 0 obj
+<< /Length 3970 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0.8 0.8 0.8 RG 0.5 w
+54 778 m 541 778 l S
+0 0 0 rg
+BT
+/F2 8 Tf
+1 0 0 1 54 760 Tm
+(Phase | Days | Focus | Key deliverables) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 743.2 Tm
+(-  Phase: Phase 1) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 729.7 Tm
+(-  Days: 1--15) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 716.2 Tm
+(-  Focus: Constitutional + Platform Foundation) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 702.7 Tm
+(-  Key deliverables: Constitution, Domain Model, Trust Kernel, Authority, Capability) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 685.2 Tm
+(-  Phase: Phase 2) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 671.7 Tm
+(-  Days: 16--30) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 658.2 Tm
+(-  Focus: Intelligence + Product Factory) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 644.7 Tm
+(-  Key deliverables: Intelligence Contract, Agent Runtime, Product Factory) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 627.2 Tm
+(-  Phase: Phase 3) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 613.7 Tm
+(-  Days: 31--45) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 600.2 Tm
+(-  Focus: Execution + Enterprise Operations) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 586.7 Tm
+(-  Key deliverables: Execution Broker, Verification, Evidence, Audit, Operations) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 569.2 Tm
+(-  Phase: Phase 4) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 555.7 Tm
+(-  Days: 46--60) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 542.2 Tm
+(-  Focus: Enterprise Completion + Certification) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 528.7 Tm
+(-  Key deliverables: Integration, Red Team, Certification) Tj
+ET
+0 0 0 rg
+BT
+/F2 13 Tf
+1 0 0 1 54 500.20000000000005 Tm
+(Implementation blocks) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 495.65000000000003 m 541 495.65000000000003 l S
+0 0 0 rg
+BT
+/F2 8 Tf
+1 0 0 1 54 477.65000000000003 Tm
+(Block | Days | Main objective | Gate) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 460.85 Tm
+(-  Block: 1) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 447.35 Tm
+(-  Days: 1--6) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 433.85 Tm
+(-  Main objective: Constitutional Runtime Foundation) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 420.35 Tm
+(-  Gate: Gate 1) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 402.85 Tm
+(-  Block: 2) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 389.35 Tm
+(-  Days: 7--12) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 375.85 Tm
+(-  Main objective: Trust Kernel) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 362.35 Tm
+(-  Gate: Gate 2) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 344.85 Tm
+(-  Block: 3) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 331.35 Tm
+(-  Days: 13--18) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 317.85 Tm
+(-  Main objective: Identity, Authority & Capability) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 304.35 Tm
+(-  Gate: Gate 3) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 286.85 Tm
+(-  Block: 4) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 273.35 Tm
+(-  Days: 19--24) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 259.85 Tm
+(-  Main objective: Intelligence & Agent Runtime) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 246.35000000000002 Tm
+(-  Gate: Gate 4) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 228.85000000000002 Tm
+(-  Block: 5) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 215.35000000000002 Tm
+(-  Days: 25--30) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 201.85000000000002 Tm
+(-  Main objective: Product Factory) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 188.35000000000002 Tm
+(-  Gate: Gate 5) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 170.85000000000002 Tm
+(-  Block: 6) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 157.35000000000002 Tm
+(-  Days: 31--36) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 143.85000000000002 Tm
+(-  Main objective: Execution & Workspace) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 130.35000000000002 Tm
+(-  Gate: Gate 6) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 112.85000000000002 Tm
+(-  Block: 7) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 99.35000000000002 Tm
+(-  Days: 37--42) Tj
+ET
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 50 0 R >>
+endobj
+52 0 obj
+<< /Length 4993 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 768 Tm
+(-  Main objective: Verification, Evidence & Audit) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 754.5 Tm
+(-  Gate: Gate 7) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 737 Tm
+(-  Block: 8) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 723.5 Tm
+(-  Days: 43--48) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 710 Tm
+(-  Main objective: Product Lifecycle & Deployment) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 696.5 Tm
+(-  Gate: Gate 8) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 679 Tm
+(-  Block: 9) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 665.5 Tm
+(-  Days: 49--54) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 652 Tm
+(-  Main objective: Multi-product / Ecosystem Operation) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 638.5 Tm
+(-  Gate: Gate 9) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 621 Tm
+(-  Block: 10) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 607.5 Tm
+(-  Days: 55--60) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 594 Tm
+(-  Main objective: Red Team, Recovery & Final Certification) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 580.5 Tm
+(-  Gate: Gate 10) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 549 Tm
+(F.3  Block criteria) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 543.4 m 541 543.4 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 524.4 Tm
+(A gate is evidence that the block's criteria are met. The clock is not the gate.) Tj
+ET
+0 0 0 rg
+BT
+/F2 8 Tf
+1 0 0 1 54 509.25 Tm
+(Block | Gate | Criteria) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 493.45 Tm
+(1 | Gate 1 | Constitutional runtime works. Unauthorized actions rejected. Domain model validated.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 477.3 Tm
+(2 | Gate 2 | Trust Kernel works. Agent cannot directly perform unauthorized actions. Authorized actions succeed through) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 465.15000000000003 Tm
+(the governance chain.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 449.00000000000006 Tm
+(3 | Gate 3 | Identity and capability security work. Privilege escalation, tenant escape, capability escalation, expired) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 436.8500000000001 Tm
+(capability, forged capability, and unauthorized product access are blocked.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 420.7000000000001 Tm
+(4 | Gate 4 | AI agent runtime works. Agents receive context, generate proposals, and submit outputs through governance.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 404.5500000000001 Tm
+(5 | Gate 5 | Product Factory works. A product idea produces a governed product specification.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 388.40000000000015 Tm
+(6 | Gate 6 | Controlled execution works. Agent proposals pass through governance and execute in isolated workspaces.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 372.25000000000017 Tm
+(7 | Gate 7 | Verification, Evidence, and Audit work. Execution does not equal success. Independent verification is required.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 356.1000000000002 Tm
+(8 | Gate 8 | Deployment lifecycle works. Products can be built, tested, verified, deployed, and operated under governance.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 339.9500000000002 Tm
+(9 | Gate 9 | Multiple products remain isolated. Product A agent cannot access Product B. Both products operational.) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 323.80000000000024 Tm
+(10 | Gate 10 | Red-team certification passes. Recovery works. 100% architectural implementation verified.) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 292.65000000000026 Tm
+(F.4  Completion matrix) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 287.05000000000024 m 541 287.05000000000024 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 268.05000000000024 Tm
+(CON, GOV, AUT, CAP, EXE, VER, EVI, AUD, INT, FAC, MEM, OPS, REC, ISO, DEP. Status starts PENDING.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 250.90000000000026 Tm
+(The completion matrix is the requirements ledger for certification. A row is complete only when) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 237.40000000000026 Tm
+(implementation, test, security, and evidence exist. PENDING is the honest freeze state.) Tj
+ET
+0 0 0 rg
+BT
+/F2 8 Tf
+1 0 0 1 54 221.90000000000026 Tm
+(ID | Requirement | Component | Status) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 205.10000000000025 Tm
+(-  ID: CON-001) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 191.60000000000025 Tm
+(-  Requirement: Human sovereignty) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 178.10000000000025 Tm
+(-  Component: Authority Kernel) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 164.60000000000025 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 147.10000000000025 Tm
+(-  ID: CON-002) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 133.60000000000025 Tm
+(-  Requirement: AGBOFA sovereignty) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 120.10000000000025 Tm
+(-  Component: Governance Engine) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 106.60000000000025 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 89.10000000000025 Tm
+(-  ID: CON-003) Tj
+ET
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 52 0 R >>
+endobj
+54 0 obj
+<< /Length 3666 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 768 Tm
+(-  Requirement: Intelligence != Authority) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 754.5 Tm
+(-  Component: Trust Kernel) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 741 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 723.5 Tm
+(-  ID: CON-004) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 710 Tm
+(-  Requirement: Authority is explicit) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 696.5 Tm
+(-  Component: Authority System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 683 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 665.5 Tm
+(-  ID: CON-005) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 652 Tm
+(-  Requirement: Capability is scoped) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 638.5 Tm
+(-  Component: Capability System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 625 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 607.5 Tm
+(-  ID: CON-006) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 594 Tm
+(-  Requirement: Execution is isolated) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 580.5 Tm
+(-  Component: Execution Broker) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 567 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 549.5 Tm
+(-  ID: CON-007) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 536 Tm
+(-  Requirement: Execution != Success) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 522.5 Tm
+(-  Component: Verification Engine) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 509 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 491.5 Tm
+(-  ID: CON-008) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 478 Tm
+(-  Requirement: Verification independent) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 464.5 Tm
+(-  Component: Verification Engine) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 451 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 433.5 Tm
+(-  ID: CON-009) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 420 Tm
+(-  Requirement: Evidence precedes trust) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 406.5 Tm
+(-  Component: Evidence Store) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 393 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 375.5 Tm
+(-  ID: CON-010) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 362 Tm
+(-  Requirement: Audit persistent) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 348.5 Tm
+(-  Component: Audit System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 335 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 317.5 Tm
+(-  ID: CON-011) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 304 Tm
+(-  Requirement: Governance unweakenable) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 290.5 Tm
+(-  Component: Governance Engine) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 277 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 259.5 Tm
+(-  ID: CON-012) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 246 Tm
+(-  Requirement: Autonomy earned) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 232.5 Tm
+(-  Component: Trust Kernel) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 219 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 201.5 Tm
+(-  ID: CON-013) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 188 Tm
+(-  Requirement: Learning verified) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 174.5 Tm
+(-  Component: Memory System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 161 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 143.5 Tm
+(-  ID: CON-014) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 130 Tm
+(-  Requirement: Tenant isolation) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 116.5 Tm
+(-  Component: Isolation Guard) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 103 Tm
+(-  Status: PENDING) Tj
+ET
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 54 0 R >>
+endobj
+56 0 obj
+<< /Length 3719 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 768 Tm
+(-  ID: CON-015) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 754.5 Tm
+(-  Requirement: Recovery constitutional) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 741 Tm
+(-  Component: Recovery System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 727.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 710 Tm
+(-  ID: CON-016) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 696.5 Tm
+(-  Requirement: Provider independence) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 683 Tm
+(-  Component: Intelligence Contract) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 669.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 652 Tm
+(-  ID: GOV-001) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 638.5 Tm
+(-  Requirement: Governance enforcement) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 625 Tm
+(-  Component: Policy Engine) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 611.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 594 Tm
+(-  ID: GOV-002) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 580.5 Tm
+(-  Requirement: Policy evaluation) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 567 Tm
+(-  Component: Policy Engine) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 553.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 536 Tm
+(-  ID: GOV-003) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 522.5 Tm
+(-  Requirement: Risk classification) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 509 Tm
+(-  Component: Trust Kernel) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 495.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 478 Tm
+(-  ID: AUT-001) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 464.5 Tm
+(-  Requirement: Authority chains) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 451 Tm
+(-  Component: Authority System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 437.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 420 Tm
+(-  ID: AUT-002) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 406.5 Tm
+(-  Requirement: Authority delegation) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 393 Tm
+(-  Component: Authority System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 379.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 362 Tm
+(-  ID: AUT-003) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 348.5 Tm
+(-  Requirement: Authority revocation) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 335 Tm
+(-  Component: Authority System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 321.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 304 Tm
+(-  ID: CAP-001) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 290.5 Tm
+(-  Requirement: Capability tokens) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 277 Tm
+(-  Component: Capability System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 263.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 246 Tm
+(-  ID: CAP-002) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 232.5 Tm
+(-  Requirement: Scope validation) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 219 Tm
+(-  Component: Capability System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 205.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 188 Tm
+(-  ID: CAP-003) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 174.5 Tm
+(-  Requirement: Token expiry) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 161 Tm
+(-  Component: Capability System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 147.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 130 Tm
+(-  ID: EXE-001) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 116.5 Tm
+(-  Requirement: Controlled execution) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 103 Tm
+(-  Component: Execution Broker) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 89.5 Tm
+(-  Status: PENDING) Tj
+ET
+endstream
+endobj
+57 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 56 0 R >>
+endobj
+58 0 obj
+<< /Length 3686 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 768 Tm
+(-  ID: EXE-002) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 754.5 Tm
+(-  Requirement: Isolated workspace) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 741 Tm
+(-  Component: Workspace Manager) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 727.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 710 Tm
+(-  ID: EXE-003) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 696.5 Tm
+(-  Requirement: Worker model) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 683 Tm
+(-  Component: Worker System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 669.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 652 Tm
+(-  ID: VER-001) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 638.5 Tm
+(-  Requirement: Independent verification) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 625 Tm
+(-  Component: Verification Engine) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 611.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 594 Tm
+(-  ID: VER-002) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 580.5 Tm
+(-  Requirement: Test runners) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 567 Tm
+(-  Component: Test System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 553.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 536 Tm
+(-  ID: VER-003) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 522.5 Tm
+(-  Requirement: Build verification) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 509 Tm
+(-  Component: Build System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 495.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 478 Tm
+(-  ID: EVI-001) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 464.5 Tm
+(-  Requirement: Evidence collection) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 451 Tm
+(-  Component: Evidence Store) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 437.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 420 Tm
+(-  ID: EVI-002) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 406.5 Tm
+(-  Requirement: Evidence hashing) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 393 Tm
+(-  Component: Evidence Store) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 379.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 362 Tm
+(-  ID: EVI-003) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 348.5 Tm
+(-  Requirement: Evidence validation) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 335 Tm
+(-  Component: Evidence Store) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 321.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 304 Tm
+(-  ID: AUD-001) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 290.5 Tm
+(-  Requirement: Append-only audit) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 277 Tm
+(-  Component: Audit System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 263.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 246 Tm
+(-  ID: AUD-002) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 232.5 Tm
+(-  Requirement: Hash chaining) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 219 Tm
+(-  Component: Audit System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 205.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 188 Tm
+(-  ID: AUD-003) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 174.5 Tm
+(-  Requirement: Tamper detection) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 161 Tm
+(-  Component: Audit System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 147.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 130 Tm
+(-  ID: INT-001) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 116.5 Tm
+(-  Requirement: Intelligence abstraction) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 103 Tm
+(-  Component: Intelligence Contract) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 89.5 Tm
+(-  Status: PENDING) Tj
+ET
+endstream
+endobj
+59 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 58 0 R >>
+endobj
+60 0 obj
+<< /Length 3704 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 768 Tm
+(-  ID: INT-002) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 754.5 Tm
+(-  Requirement: Provider adapter) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 741 Tm
+(-  Component: Adapter System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 727.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 710 Tm
+(-  ID: INT-003) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 696.5 Tm
+(-  Requirement: Agent registry) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 683 Tm
+(-  Component: Agent Runtime) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 669.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 652 Tm
+(-  ID: INT-004) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 638.5 Tm
+(-  Requirement: Context management) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 625 Tm
+(-  Component: Context System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 611.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 594 Tm
+(-  ID: FAC-001) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 580.5 Tm
+(-  Requirement: Product discovery) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 567 Tm
+(-  Component: Discovery System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 553.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 536 Tm
+(-  ID: FAC-002) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 522.5 Tm
+(-  Requirement: Requirements engine) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 509 Tm
+(-  Component: Requirements System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 495.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 478 Tm
+(-  ID: FAC-003) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 464.5 Tm
+(-  Requirement: Product blueprint) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 451 Tm
+(-  Component: Blueprint System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 437.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 420 Tm
+(-  ID: FAC-004) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 406.5 Tm
+(-  Requirement: Architecture proposal) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 393 Tm
+(-  Component: Architecture System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 379.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 362 Tm
+(-  ID: FAC-005) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 348.5 Tm
+(-  Requirement: Implementation planning) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 335 Tm
+(-  Component: Planning System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 321.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 304 Tm
+(-  ID: MEM-001) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 290.5 Tm
+(-  Requirement: Knowledge candidates) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 277 Tm
+(-  Component: Memory System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 263.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 246 Tm
+(-  ID: MEM-002) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 232.5 Tm
+(-  Requirement: Knowledge validation) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 219 Tm
+(-  Component: Memory System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 205.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 188 Tm
+(-  ID: MEM-003) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 174.5 Tm
+(-  Requirement: Institutional memory) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 161 Tm
+(-  Component: Memory System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 147.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 130 Tm
+(-  ID: OPS-001) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 116.5 Tm
+(-  Requirement: Monitoring) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 103 Tm
+(-  Component: Operations System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 89.5 Tm
+(-  Status: PENDING) Tj
+ET
+endstream
+endobj
+61 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 60 0 R >>
+endobj
+62 0 obj
+<< /Length 3569 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 768 Tm
+(-  ID: OPS-002) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 754.5 Tm
+(-  Requirement: Incident management) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 741 Tm
+(-  Component: Operations System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 727.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 710 Tm
+(-  ID: OPS-003) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 696.5 Tm
+(-  Requirement: Compliance) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 683 Tm
+(-  Component: Operations System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 669.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 652 Tm
+(-  ID: REC-001) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 638.5 Tm
+(-  Requirement: System freeze) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 625 Tm
+(-  Component: Recovery System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 611.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 594 Tm
+(-  ID: REC-002) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 580.5 Tm
+(-  Requirement: Rollback) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 567 Tm
+(-  Component: Recovery System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 553.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 536 Tm
+(-  ID: REC-003) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 522.5 Tm
+(-  Requirement: Restore) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 509 Tm
+(-  Component: Recovery System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 495.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 478 Tm
+(-  ID: ISO-001) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 464.5 Tm
+(-  Requirement: Tenant isolation) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 451 Tm
+(-  Component: Isolation Guard) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 437.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 420 Tm
+(-  ID: ISO-002) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 406.5 Tm
+(-  Requirement: Cross-product blocking) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 393 Tm
+(-  Component: Isolation Guard) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 379.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 362 Tm
+(-  ID: DEP-001) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 348.5 Tm
+(-  Requirement: Deployment system) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 335 Tm
+(-  Component: Deployment System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 321.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 304 Tm
+(-  ID: DEP-002) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 290.5 Tm
+(-  Requirement: Environment management) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 277 Tm
+(-  Component: Environment System) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 263.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 246 Tm
+(-  ID: DEP-003) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 232.5 Tm
+(-  Requirement: Post-deployment verification) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 219 Tm
+(-  Component: Verification Engine) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 205.5 Tm
+(-  Status: PENDING) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 174 Tm
+(F.5  Red team and engineering metrics) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 168.4 m 541 168.4 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 149.4 Tm
+(RT-001--RT-010 plus the zero-defect engineering bar.) Tj
+ET
+0 0 0 rg
+BT
+/F2 13 Tf
+1 0 0 1 54 121.25 Tm
+(Red-team attack scenarios) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 116.7 m 541 116.7 l S
+0 0 0 rg
+BT
+/F2 8 Tf
+1 0 0 1 54 98.7 Tm
+(ID | Attack | Description | Expected result | Test day) Tj
+ET
+endstream
+endobj
+63 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 62 0 R >>
+endobj
+64 0 obj
+<< /Length 3991 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 768 Tm
+(-  ID: RT-001) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 754.5 Tm
+(-  Attack: Unauthorized agent action) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 741 Tm
+(-  Description: Agent attempts to bypass governance) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 727.5 Tm
+(-  Expected result: Action rejected) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 714 Tm
+(-  Test day: 55) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 696.5 Tm
+(-  ID: RT-002) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 683 Tm
+(-  Attack: Capability escalation) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 669.5 Tm
+(-  Description: Attempt to expand capability scope) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 656 Tm
+(-  Expected result: Escalation blocked) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 642.5 Tm
+(-  Test day: 55) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 625 Tm
+(-  ID: RT-003) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 611.5 Tm
+(-  Attack: Tenant escape) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 598 Tm
+(-  Description: Product A attempts to access Product B) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 584.5 Tm
+(-  Expected result: Access blocked) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 571 Tm
+(-  Test day: 56) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 553.5 Tm
+(-  ID: RT-004) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 540 Tm
+(-  Attack: Prompt injection) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 526.5 Tm
+(-  Description: Malicious instructions inside a repository) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 513 Tm
+(-  Expected result: Injection neutralized) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 499.5 Tm
+(-  Test day: 56) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 482 Tm
+(-  ID: RT-005) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 468.5 Tm
+(-  Attack: Malicious repository) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 455 Tm
+(-  Description: Repository attempts to execute outside its environment) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 441.5 Tm
+(-  Expected result: Execution blocked) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 428 Tm
+(-  Test day: 56) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 410.5 Tm
+(-  ID: RT-006) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 397 Tm
+(-  Attack: Secret leakage) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 383.5 Tm
+(-  Description: Agent attempts to obtain credentials) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 370 Tm
+(-  Expected result: Access blocked) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 356.5 Tm
+(-  Test day: 57) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 339 Tm
+(-  ID: RT-007) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 325.5 Tm
+(-  Attack: Audit tampering) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 312 Tm
+(-  Description: Agent attempts to modify historical actions) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 298.5 Tm
+(-  Expected result: Tampering detected) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 285 Tm
+(-  Test day: 57) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 267.5 Tm
+(-  ID: RT-008) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 254 Tm
+(-  Attack: Runaway agent) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 240.5 Tm
+(-  Description: Agent creates unlimited actions) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 227 Tm
+(-  Expected result: Rate limiting enforced) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 213.5 Tm
+(-  Test day: 57) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 196 Tm
+(-  ID: RT-009) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 182.5 Tm
+(-  Attack: Failed deployment) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 169 Tm
+(-  Description: Deployment fails; recovery required) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 155.5 Tm
+(-  Expected result: Recovery succeeds) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 142 Tm
+(-  Test day: 58) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 124.5 Tm
+(-  ID: RT-010) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 111 Tm
+(-  Attack: Database corruption) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 97.5 Tm
+(-  Description: Database corrupted; restore required) Tj
+ET
+endstream
+endobj
+65 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 64 0 R >>
+endobj
+66 0 obj
+<< /Length 3741 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 768 Tm
+(-  Expected result: Restore succeeds) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 754.5 Tm
+(-  Test day: 58) Tj
+ET
+0 0 0 rg
+BT
+/F2 13 Tf
+1 0 0 1 54 726 Tm
+(Engineering metrics) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 721.45 m 541 721.45 l S
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 701.45 Tm
+(TypeScript errors: 0) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 683.95 Tm
+(Build failures at gate: 0) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 666.45 Tm
+(Failed tests at gate: 0) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 648.95 Tm
+(Critical security vulnerabilities: 0) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 631.45 Tm
+(Unauthorized actions succeeding: 0) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 613.95 Tm
+(Audit events missing: 0) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 596.45 Tm
+(Unverified consequential actions: 0) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 578.95 Tm
+(Tenant isolation violations: 0) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 561.45 Tm
+(Critical recovery failures: 0) Tj
+ET
+0 0 0 rg
+BT
+/F2 10 Tf
+1 0 0 1 54 543.95 Tm
+(Constitutional invariant violations: 0) Tj
+ET
+0 0 0 rg
+BT
+/F2 8 Tf
+1 0 0 1 54 528.45 Tm
+(Metric | Target) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 512.6500000000001 Tm
+(TypeScript errors | 0) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 496.5000000000001 Tm
+(Build failures | 0 at gate) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 480.35000000000014 Tm
+(Failed tests | 0 at gate) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 464.20000000000016 Tm
+(Critical security vulnerabilities | 0) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 448.0500000000002 Tm
+(Unauthorized actions succeeding | 0) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 431.9000000000002 Tm
+(Audit events missing | 0) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 415.7500000000002 Tm
+(Unverified consequential actions | 0) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 399.60000000000025 Tm
+(Tenant isolation violations | 0) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 383.4500000000003 Tm
+(Recovery failures | 0 critical) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 367.3000000000003 Tm
+(Constitutional invariant violations | 0) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 351.1500000000003 Tm
+(Architecture coverage | 100%) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 335.00000000000034 Tm
+(Critical-path verification | 100%) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 303.85000000000036 Tm
+(G.1  Architecture change process) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 298.25000000000034 m 541 298.25000000000034 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 279.25000000000034 Tm
+(Proposal through audit. No silent architecture.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 262.10000000000036 Tm
+(Architecture changes follow the same constitutional path as any other consequential action. A proposal is not) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 248.60000000000036 Tm
+(a change. Implementation without verification is not a change that counts.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 231.10000000000036 Tm
+(1.  Change proposal) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 217.60000000000036 Tm
+(2.  Constitutional review) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 204.10000000000036 Tm
+(3.  Impact analysis) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 190.60000000000036 Tm
+(4.  Human approval) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 177.10000000000036 Tm
+(5.  Version update) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 163.60000000000036 Tm
+(6.  Implementation) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 150.10000000000036 Tm
+(7.  Verification) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 136.60000000000036 Tm
+(8.  Evidence) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 123.10000000000036 Tm
+(9.  Audit) Tj
+ET
+endstream
+endobj
+67 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 66 0 R >>
+endobj
+68 0 obj
+<< /Length 4521 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 754 Tm
+(G.2  Constitutional amendment) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 748.4 m 541 748.4 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 729.4 Tm
+(Ten steps. Human approval is mandatory. No amendment may weaken governance.) Tj
+ET
+0 0 0 rg
+BT
+/F2 8 Tf
+1 0 0 1 54 714.25 Tm
+(Step | Description | Required approval) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 698.45 Tm
+(1 | Amendment proposal submitted | Any authorized actor) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 682.3000000000001 Tm
+(2 | Constitutional review | Governance Engine) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 666.1500000000001 Tm
+(3 | Impact analysis | Architecture Agent) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 650.0000000000001 Tm
+(4 | Human review | Human Owner) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 633.8500000000001 Tm
+(5 | Approval | Human Owner) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 617.7000000000002 Tm
+(6 | Version increment | Governance Engine) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 601.5500000000002 Tm
+(7 | Implementation | AI Agents) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 585.4000000000002 Tm
+(8 | Verification | Verification Agent) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 569.2500000000002 Tm
+(9 | Evidence | Evidence Store) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 553.1000000000003 Tm
+(10 | Audit | Audit System) Tj
+ET
+0.93 0.93 0.93 rg
+54 505.9500000000003 487 40 re f
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 526.9500000000003 Tm
+(Unweakenable governance. No agent may amend the Constitution without human approval. No amendment may) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 514.8000000000003 Tm
+(weaken governance \(Article 11\). Version increment is a governance action, not an agent convenience.) Tj
+ET
+0 0 0 rg
+BT
+/F2 13 Tf
+1 0 0 1 54 482.6500000000003 Tm
+(Versioning policy as the freeze wrote it) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 478.1000000000003 m 541 478.1000000000003 l S
+0 0 0 rg
+BT
+/F2 8 Tf
+1 0 0 1 54 460.1000000000003 Tm
+(Version type | When | Example) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 444.3000000000003 Tm
+(Major | Constitutional changes | v5.0 -> v6.0) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 428.1500000000003 Tm
+(Minor | New capabilities | v5.0 -> v5.1) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 54 412.00000000000034 Tm
+(Patch | Bug fixes | v5.1 -> v5.1.1) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 380.85000000000036 Tm
+(G.3  Emergency procedures) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 375.25000000000034 m 541 375.25000000000034 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 356.25000000000034 Tm
+(Freeze, rollback, restore, revocation, quarantine, constitutional review.) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 339.10000000000036 Tm
+(Recovery is constitutional \(Article 15\). Emergency actions are authorized and audited. An unaudited freeze is) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 325.60000000000036 Tm
+(still a freeze; it is also an incident.) Tj
+ET
+0 0 0 rg
+BT
+/F2 8 Tf
+1 0 0 1 54 310.10000000000036 Tm
+(Procedure | Trigger | Authority | Action) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 293.30000000000035 Tm
+(-  Procedure: System Freeze) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 279.80000000000035 Tm
+(-  Trigger: Constitutional violation detected) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 266.30000000000035 Tm
+(-  Authority: Human Owner or Automatic) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 252.80000000000035 Tm
+(-  Action: Halt all execution) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 235.30000000000035 Tm
+(-  Procedure: Rollback) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 221.80000000000035 Tm
+(-  Trigger: Failed deployment) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 208.30000000000035 Tm
+(-  Authority: Governance Engine) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 194.80000000000035 Tm
+(-  Action: Restore previous state) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 177.30000000000035 Tm
+(-  Procedure: Restore) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 163.80000000000035 Tm
+(-  Trigger: Data corruption) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 150.30000000000035 Tm
+(-  Authority: Human Owner) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 136.80000000000035 Tm
+(-  Action: Restore from backup) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 119.30000000000035 Tm
+(-  Procedure: Revocation) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 105.80000000000035 Tm
+(-  Trigger: Capability abuse) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 92.30000000000035 Tm
+(-  Authority: Security Agent \(recommendation\) + governance) Tj
+ET
+endstream
+endobj
+69 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 68 0 R >>
+endobj
+70 0 obj
+<< /Length 3361 >>
+stream
+0.45 0.45 0.45 rg
+BT /F1 8 Tf
+1 0 0 1 54 806 Tm
+(AGBOFA Constitution) Tj ET
+BT /F1 8 Tf
+1 0 0 1 451 806 Tm
+(v5.0) Tj ET
+0.75 0.75 0.75 RG 0.6 w
+54 798 m 541 798 l S
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 768 Tm
+(-  Action: Revoke capabilities) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 750.5 Tm
+(-  Procedure: Quarantine) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 737 Tm
+(-  Trigger: Runaway agent) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 723.5 Tm
+(-  Authority: Trust Kernel) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 710 Tm
+(-  Action: Isolate agent) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 692.5 Tm
+(-  Procedure: Constitutional Review) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 679 Tm
+(-  Trigger: Major violation) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 665.5 Tm
+(-  Authority: Human Owner) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 652 Tm
+(-  Action: Full system review) Tj
+ET
+0 0 0 rg
+BT
+/F2 16 Tf
+1 0 0 1 54 620.5 Tm
+(G.4  Document history and certification) Tj
+ET
+0.8 0.8 0.8 RG 0.5 w
+54 614.9 m 541 614.9 l S
+0 0 0 rg
+BT
+/F3 9 Tf
+1 0 0 1 54 595.9 Tm
+(v1.0 through v5.0 received freeze. Operative issue is v5.1. Certification binds to v5.1. Horizon is M5.) Tj
+ET
+0 0 0 rg
+BT
+/F2 8 Tf
+1 0 0 1 54 580.75 Tm
+(Version | Date | Changes | Author) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 563.95 Tm
+(-  Version: v1.0) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 550.45 Tm
+(-  Date: Initial) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 536.95 Tm
+(-  Changes: Initial concept) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 523.45 Tm
+(-  Author: Human Owner) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 505.95000000000005 Tm
+(-  Version: v2.0) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 492.45000000000005 Tm
+(-  Date: Refinement) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 478.95000000000005 Tm
+(-  Changes: Added governance model) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 465.45000000000005 Tm
+(-  Author: Human Owner) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 447.95000000000005 Tm
+(-  Version: v3.0) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 434.45000000000005 Tm
+(-  Date: Expansion) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 420.95000000000005 Tm
+(-  Changes: Added product factory) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 407.45000000000005 Tm
+(-  Author: Human Owner) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 389.95000000000005 Tm
+(-  Version: v4.0) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 376.45000000000005 Tm
+(-  Date: Architecture) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 362.95000000000005 Tm
+(-  Changes: Added enterprise scope) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 349.45000000000005 Tm
+(-  Author: Human Owner) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 331.95000000000005 Tm
+(-  Version: v5.0) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 318.45000000000005 Tm
+(-  Date: Constitutional) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 304.95000000000005 Tm
+(-  Changes: Full constitutional formalization -- received freeze) Tj
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+1 0 0 1 54 291.45000000000005 Tm
+(-  Author: Human Owner + Senior System Architect) Tj
+ET
+0.93 0.93 0.93 rg
+54 243.95000000000005 487 40 re f
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 264.95000000000005 Tm
+(Received freeze. v5.0 is the received freeze. Certification text in that freeze claimed 100% architectural) Tj
+ET
+0 0 0 rg
+BT
+/F1 9 Tf
+1 0 0 1 62 252.80000000000007 Tm
+(implementation by Day 60. The operative issue amends the certification bound; it does not unwrite the freeze.) Tj
+ET
+endstream
+endobj
+71 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 70 0 R >>
+endobj
+xref
+0 72
+0000000000 65535 f 
+0000000017 00000 n 
+0000000066 00000 n 
+0000000223 00000 n 
+0000000500 00000 n 
+0000000570 00000 n 
+0000000645 00000 n 
+0000000723 00000 n 
+0000000791 00000 n 
+0000001853 00000 n 
+0000002009 00000 n 
+0000006926 00000 n 
+0000007084 00000 n 
+0000013194 00000 n 
+0000013352 00000 n 
+0000018923 00000 n 
+0000019081 00000 n 
+0000024240 00000 n 
+0000024398 00000 n 
+0000029509 00000 n 
+0000029667 00000 n 
+0000034602 00000 n 
+0000034760 00000 n 
+0000039764 00000 n 
+0000039922 00000 n 
+0000045122 00000 n 
+0000045280 00000 n 
+0000050509 00000 n 
+0000050667 00000 n 
+0000055940 00000 n 
+0000056098 00000 n 
+0000060538 00000 n 
+0000060696 00000 n 
+0000065049 00000 n 
+0000065207 00000 n 
+0000069992 00000 n 
+0000070150 00000 n 
+0000074479 00000 n 
+0000074637 00000 n 
+0000081107 00000 n 
+0000081265 00000 n 
+0000086686 00000 n 
+0000086844 00000 n 
+0000092364 00000 n 
+0000092522 00000 n 
+0000097856 00000 n 
+0000098014 00000 n 
+0000102980 00000 n 
+0000103138 00000 n 
+0000108641 00000 n 
+0000108799 00000 n 
+0000112822 00000 n 
+0000112980 00000 n 
+0000118026 00000 n 
+0000118184 00000 n 
+0000121903 00000 n 
+0000122061 00000 n 
+0000125833 00000 n 
+0000125991 00000 n 
+0000129730 00000 n 
+0000129888 00000 n 
+0000133645 00000 n 
+0000133803 00000 n 
+0000137425 00000 n 
+0000137583 00000 n 
+0000141627 00000 n 
+0000141785 00000 n 
+0000145579 00000 n 
+0000145737 00000 n 
+0000150311 00000 n 
+0000150469 00000 n 
+0000153883 00000 n 
+trailer
+<< /Size 72 /Root 1 0 R /Info 2 0 R >>
+startxref
+154041
+%%EOF

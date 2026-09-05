@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: #333; display: flex; gap: 24px; padding: 24px; align-items: center; }
+  .cell { display: flex; flex-direction: column; align-items: center; gap: 8px; }
+  label { color: #aaa; font: 12px sans-serif; }
+  img.s16 { width: 16px; height: 16px; image-rendering: pixelated; }
+  img.s32 { width: 32px; height: 32px; }
+  img.s64 { width: 64px; height: 64px; }
+  .on-dark { background: #1a1a1c; padding: 8px; }
+  .on-light { background: #e8e4db; padding: 8px; }
+</style>
+</head>
+<body>
+  <div class="cell on-dark">
+    <img class="s16" src="file:///workspace/public/favicon.svg" />
+    <label>16 dark</label>
+  </div>
+  <div class="cell on-light">
+    <img class="s16" src="file:///workspace/public/favicon.svg" />
+    <label>16 light</label>
+  </div>
+  <div class="cell on-dark">
+    <img class="s32" src="file:///workspace/public/favicon.svg" />
+    <label>32</label>
+  </div>
+  <div class="cell on-dark">
+    <img class="s64" src="file:///workspace/public/favicon.svg" />
+    <label>64</label>
+  </div>
+</body>
+</html>

@@ -1,0 +1,1421 @@
+# AGBOFA MASTER ARCHITECTURE & CONSTITUTION v5.0
+
+## *The Governed Digital Product Operating System*
+
+---
+
+# COMPREHENSIVE MASTER DOCUMENT
+
+**Version:** 5.0  
+**Status:** AUTHORITATIVE  
+**Classification:** Master Architecture & Constitutional Specification  
+**Date:** Day 0 — Pre-Implementation Freeze  
+**Prepared by:** Human Owner + Senior System Architect (AI)
+
+---
+
+## DOCUMENT STRUCTURE
+
+```text
+PART A — CONSTITUTION
+PART B — REFERENCE ARCHITECTURE
+PART C — OPERATING MODEL
+PART D — TECHNICAL SPECIFICATION
+PART E — ENTERPRISE TARGET ARCHITECTURE
+PART F — 60-DAY IMPLEMENTATION PROGRAM
+PART G — GOVERNANCE & CHANGE CONTROL
+```
+
+---
+
+# PART A — CONSTITUTION
+
+## A.1 PREAMBLE
+
+AGBOFA (Autonomous Governed Blockchain-Oriented Factory Architecture) is established as a governed digital product operating system. This Constitution is the supreme authority governing all actors, systems, agents, models, and processes within the AGBOFA ecosystem.
+
+The purpose of this Constitution is to ensure that artificial intelligence may autonomously design, build, and operate digital products safely, verifiably, and constitutionally, while human sovereignty remains absolute and every consequential action carries evidence, accountability, and the possibility of audit.
+
+No agent, model, subsystem, or process may violate this Constitution. No authority may be exercised except through the mechanisms defined herein.
+
+---
+
+## A.2 PERMANENT ARCHITECTURAL PRINCIPLES
+
+These principles are **permanent**. They do not change with maturity level, implementation timeline, or provider selection.
+
+| ID | Principle | Statement |
+|----|-----------|-----------|
+| P1 | Human Sovereignty | Humans are ultimately accountable for AGBOFA's existence and major consequential actions. |
+| P2 | Constitutional Supremacy | The Constitution governs all actors, including AGBOFA itself. No agent, model, or process may violate it. |
+| P3 | Intelligence Is Not Authority | No AI provider, model, agent, or generated output automatically possesses authority. Authority must be explicitly granted through constitutional mechanisms. |
+| P4 | Authority Is Explicit and Traceable | Every consequential action requires an identifiable authority source that can be traced through the governance chain. |
+| P5 | Capability Is Scoped and Constrained | An actor can only perform actions for which it has been granted both authority and technical capability, within defined boundaries. |
+| P6 | Execution Is Isolated | Intelligence never receives unrestricted execution access. All execution occurs through governed, isolated channels. |
+| P7 | Verification Is Independent | Important outcomes must be independently verified before they are accepted as true or successful. |
+| P8 | Evidence Precedes Trust | Claims about system state, product quality, or operational success require evidence. Trust is earned, not assumed. |
+| P9 | Audit Is Persistent and Tamper-Evident | Consequential actions create durable audit records that cannot be silently modified or deleted. |
+| P10 | Governance Cannot Be Weakened by the Governed | No agent, model, or subsystem may modify the rules that govern its own authority. |
+| P11 | Autonomy Is Earned | Autonomy increases only according to demonstrated evidence of reliability, safety, and constitutional compliance. |
+| P12 | Learning Requires Verified Outcomes | AGBOFA cannot convert an AI assumption or recommendation into institutional knowledge merely because an AI generated it. |
+| P13 | Tenant Isolation Is Absolute | Products, tenants, organizations, and environments are isolated by default. Cross-boundary access requires explicit, governed authorization. |
+| P14 | Recovery Is Constitutional | The system must be capable of freezing, recovering, rolling back, and restoring critical state. Recovery procedures are themselves governed. |
+| P15 | Provider Independence | AGBOFA's architecture never equates its intelligence with any specific AI provider. Providers are replaceable through defined contracts. |
+
+---
+
+## A.3 CONSTITUTIONAL ARTICLES
+
+### Article 1 — Human Sovereignty
+
+**Text:** Humans remain ultimately accountable for AGBOFA's existence, operation, and major consequential actions.
+
+**Scope:** All AGBOFA operations, decisions, and actions.
+
+**Prohibitions:**
+- AGBOFA shall not take actions that remove or diminish human accountability.
+- No agent may claim to act without human oversight for constitutionally significant actions.
+
+**Requirements:**
+- Human approval is required for all actions classified as HIGH or CRITICAL risk.
+- A designated human owner must possess emergency freeze authority at all times.
+- Human decisions that override agent recommendations must be recorded with rationale.
+
+**Enforcement:** The Trust Kernel shall reject any action classified as HIGH or CRITICAL risk that lacks valid human approval.
+
+**Violation Consequence:** System freeze and constitutional review.
+
+---
+
+### Article 2 — AGBOFA Sovereignty
+
+**Text:** AGBOFA controls the ecosystem's authority and governance mechanisms.
+
+**Scope:** All authority grants, governance rules, policy definitions, and capability assignments.
+
+**Prohibitions:**
+- No external system may directly grant authority within AGBOFA.
+- No agent may self-grant authority.
+
+**Requirements:**
+- All authority flows through the AGBOFA Governance Engine.
+- All governance rules are versioned and stored in the Constitution repository.
+- All authority grants are recorded as audit events.
+
+**Enforcement:** The Authority Kernel shall reject any authority grant that does not originate from an authorized governance source.
+
+**Violation Consequence:** Invalid authority revocation and security investigation.
+
+---
+
+### Article 3 — Intelligence Is Not Authority
+
+**Text:** No AI provider, model, agent, recommendation, inference, or generated output automatically receives authority.
+
+**Scope:** All AI-generated outputs, recommendations, plans, and proposals.
+
+**Prohibitions:**
+- AI outputs shall not be treated as commands.
+- AI recommendations shall not be auto-executed without governance evaluation.
+- AI confidence shall not substitute for authority.
+
+**Requirements:**
+- All AI outputs enter the system as PROPOSALS.
+- Proposals must pass through governance evaluation before execution.
+- The distinction between intelligence and authority must be explicit in every agent interaction.
+
+**Enforcement:** The Execution Broker shall reject any action whose authority chain does not trace to a valid, non-AI authority source.
+
+**Violation Consequence:** Action rejection and agent capability suspension.
+
+---
+
+### Article 4 — Authority Is Explicit
+
+**Text:** Every consequential action requires an identifiable authority source.
+
+**Scope:** All consequential actions within AGBOFA.
+
+**Prohibitions:**
+- Implicit authority is prohibited.
+- "The agent knew what to do" is not an authority source.
+- Default allow is prohibited.
+
+**Requirements:**
+- Every action carries an authority chain.
+- Authority chains must be traceable to a human or constitutional source.
+- Authority grants must have defined scope, duration, and revocation conditions.
+
+**Enforcement:** Actions lacking valid authority chains are rejected at the Trust Kernel.
+
+**Violation Consequence:** Action rejection and audit flag.
+
+---
+
+### Article 5 — Capability Is Scoped
+
+**Text:** An actor can only perform actions for which it possesses the required capability.
+
+**Scope:** All actor actions within AGBOFA.
+
+**Prohibitions:**
+- Broad capabilities (e.g., "agent has access to everything") are prohibited.
+- Capability escalation without governance approval is prohibited.
+- Capability reuse across product boundaries is prohibited by default.
+
+**Requirements:**
+- All capabilities are defined with explicit scope, environment, and expiry.
+- Capability tokens are required for all execution actions.
+- Capability tokens are short-lived and renewable only through governance.
+
+**Enforcement:** The Capability Manager shall reject any execution attempt with missing, expired, or out-of-scope capability tokens.
+
+**Violation Consequence:** Capability revocation and security audit.
+
+---
+
+### Article 6 — Execution Is Isolated
+
+**Text:** Intelligence does not receive unrestricted execution access.
+
+**Scope:** All execution activities.
+
+**Prohibitions:**
+- Direct agent access to production systems is prohibited.
+- Execution outside isolated workspaces is prohibited.
+- Bypassing the Execution Broker is prohibited.
+
+**Requirements:**
+- All execution occurs through the Execution Broker.
+- All execution occurs in isolated workspaces.
+- All execution carries resource limits, timeouts, and failure handling.
+
+**Enforcement:** The Execution Broker shall reject any direct execution attempt that bypasses its governance chain.
+
+**Violation Consequence:** Execution rejection and agent quarantine.
+
+---
+
+### Article 7 — Execution Is Not Success
+
+**Text:** An executed action does not constitute proof of correctness.
+
+**Scope:** All execution outcomes.
+
+**Prohibitions:**
+- Treating "the command ran" as "the command was correct."
+- Accepting agent claims of success without independent verification.
+- Skipping verification for consequential actions.
+
+**Requirements:**
+- All consequential actions require independent verification.
+- Verification must be performed by a component separate from the executing agent.
+- Verification results must be recorded as evidence.
+
+**Enforcement:** The Verification Engine shall flag any consequential action lacking verification evidence.
+
+**Violation Consequence:** Action marked unverified and blocked from promotion.
+
+---
+
+### Article 8 — Verification Is Independent
+
+**Text:** Important outcomes must be independently verified.
+
+**Scope:** All important outcomes, including builds, tests, deployments, and data operations.
+
+**Prohibitions:**
+- Agents verifying their own work.
+- Verification by the same component that performed the action.
+- Verification that only checks surface-level success.
+
+**Requirements:**
+- Verification is performed by dedicated verification agents or systems.
+- Verification checks both functional correctness and constitutional compliance.
+- Verification produces evidence that is stored and auditable.
+
+**Enforcement:** Outcomes lacking independent verification are blocked from advancing to the next lifecycle stage.
+
+**Violation Consequence:** Outcome rejection and re-execution requirement.
+
+---
+
+### Article 9 — Evidence Precedes Trust
+
+**Text:** Claims about system state require evidence.
+
+**Scope:** All claims about system state, product quality, or operational success.
+
+**Prohibitions:**
+- Accepting agent assertions without evidence.
+- Treating absence of errors as evidence of correctness.
+- Storing claims without supporting evidence.
+
+**Requirements:**
+- Every consequential claim carries evidence.
+- Evidence must be machine-verifiable where possible.
+- Evidence must be stored in the Evidence Store with proper provenance.
+
+**Enforcement:** Claims lacking evidence are marked unverified and cannot be used for decision-making.
+
+**Violation Consequence:** Claim rejection and investigation.
+
+---
+
+### Article 10 — Audit Is Persistent
+
+**Text:** Consequential actions create durable audit records.
+
+**Scope:** All consequential actions.
+
+**Prohibitions:**
+- Audit record modification or deletion.
+- Audit bypass for any reason.
+- Tampering with audit timestamps, hashes, or chains.
+
+**Requirements:**
+- All consequential actions generate audit events.
+- Audit events are append-only.
+- Audit events are hash-chained for tamper evidence.
+- Audit records include: who, which agent, which authority, which capability, which product, which environment, what action, when, why, what happened, what was verified, what evidence exists.
+
+**Enforcement:** The Audit System shall detect any tampering attempt and trigger a security alert.
+
+**Violation Consequence:** System freeze and security investigation.
+
+---
+
+### Article 11 — Governance Cannot Be Weakened by the Governed
+
+**Text:** An agent cannot modify the rules that govern its own authority.
+
+**Scope:** All governance rules, policies, and authority definitions.
+
+**Prohibitions:**
+- Agent modification of its own authority scope.
+- Agent modification of governance rules that apply to itself.
+- Agent creation of new capabilities that bypass governance.
+
+**Requirements:**
+- Governance changes require human approval.
+- Governance changes are versioned and audited.
+- Governance changes are subject to constitutional review.
+
+**Enforcement:** The Governance Engine shall reject any governance change originating from a governed agent.
+
+**Violation Consequence:** Change rejection and agent suspension.
+
+---
+
+### Article 12 — Autonomy Is Earned
+
+**Text:** Autonomy increases only according to defined evidence and policy.
+
+**Scope:** All agent autonomy levels.
+
+**Prohibitions:**
+- Automatic autonomy grants.
+- Autonomy increases without evidence of reliability.
+- Autonomy based on AI self-assessment.
+
+**Requirements:**
+- Autonomy levels are defined in the Constitution.
+- Autonomy increases require evidence of successful governed operation.
+- Autonomy increases require human approval.
+
+**Enforcement:** The Trust Kernel shall enforce autonomy levels and reject actions exceeding authorized autonomy.
+
+**Violation Consequence:** Action rejection and autonomy level reduction.
+
+---
+
+### Article 13 — Learning Requires Verified Outcomes
+
+**Text:** AGBOFA cannot convert an AI assumption into institutional knowledge merely because the AI generated it.
+
+**Scope:** All institutional knowledge and learning.
+
+**Prohibitions:**
+- Direct promotion of AI outputs to knowledge without verification.
+- Treating AI confidence as knowledge validity.
+- Storing unverified claims in institutional memory.
+
+**Requirements:**
+- Knowledge candidates must pass through verification.
+- Verified outcomes must be linked to their evidence.
+- Knowledge must be versioned and auditable.
+
+**Enforcement:** The Memory System shall reject knowledge candidates lacking verification evidence.
+
+**Violation Consequence:** Knowledge candidate rejection.
+
+---
+
+### Article 14 — Tenant Isolation
+
+**Text:** One product, tenant, organization, or environment cannot improperly access another.
+
+**Scope:** All cross-tenant, cross-product, and cross-environment interactions.
+
+**Prohibitions:**
+- Cross-tenant data access by default.
+- Cross-product agent access by default.
+- Cross-environment capability use by default.
+
+**Requirements:**
+- All tenant data is isolated by default.
+- Cross-boundary access requires explicit, governed authorization.
+- Tenant isolation is tested continuously.
+
+**Enforcement:** The Isolation Guard shall detect and block any cross-tenant access attempt lacking explicit authorization.
+
+**Violation Consequence:** Access denial, isolation breach alert, and security investigation.
+
+---
+
+### Article 15 — Recovery Is Constitutional
+
+**Text:** The system must be capable of freezing, recovering, rolling back, and restoring critical state.
+
+**Scope:** All critical state, including products, databases, configurations, and governance rules.
+
+**Prohibitions:**
+- Operating without defined recovery procedures.
+- Recovery procedures that bypass governance.
+- Recovery actions that are not audited.
+
+**Requirements:**
+- Recovery procedures are defined for all critical state.
+- Recovery actions are authorized and audited.
+- Recovery testing occurs regularly.
+- Emergency freeze capability exists and is testable.
+
+**Enforcement:** The Recovery System shall reject recovery actions lacking proper authorization and audit trail.
+
+**Violation Consequence:** Recovery action rejection and constitutional review.
+
+---
+
+### Article 16 — Provider Independence
+
+**Text:** AGBOFA's architecture never equates its intelligence with any specific AI provider.
+
+**Scope:** All intelligence integration points.
+
+**Prohibitions:**
+- Hard-coding provider-specific APIs in core AGBOFA components.
+- Requiring provider-specific features for constitutional operation.
+- Treating any provider as irreplaceable.
+
+**Requirements:**
+- All intelligence access flows through the Intelligence Contract.
+- Provider adapters are pluggable and versioned.
+- Provider switching is possible without core changes.
+
+**Enforcement:** The Intelligence Contract shall reject any direct provider access that bypasses the abstraction layer.
+
+**Violation Consequence:** Architecture violation flag and refactoring requirement.
+
+---
+
+## A.4 AUTONOMY LEVELS
+
+| Level | Name | Description | Requirements |
+|-------|------|-------------|--------------|
+| L0 | Advisory | Agent provides recommendations only. No execution authority. | None — default state |
+| L1 | Proposal | Agent can submit formal proposals for governance evaluation. | Proven recommendation quality |
+| L2 | Governed Execution | Agent can execute within pre-approved scope with governance checks. | Evidence of safe L1 operation |
+| L3 | Autonomous Within Scope | Agent can execute without per-action approval within defined scope. | Evidence of safe L2 operation + human approval |
+| L4 | Autonomous with Verification | Agent can execute and self-verify within scope, with periodic external verification. | Evidence of safe L3 operation + human approval |
+| L5 | Full Governed Autonomy | Agent can operate autonomously within constitutional limits. | Evidence of safe L4 operation + human approval + constitutional review |
+
+**Rule:** No agent starts above L1. Autonomy increases require evidence and approval.
+
+---
+
+## A.5 RISK CLASSIFICATIONS
+
+| Classification | Description | Approval Required |
+|----------------|-------------|-------------------|
+| CRITICAL | Actions affecting constitutional integrity, production data, security boundaries, or system-wide state. | Human + Constitutional Review |
+| HIGH | Actions affecting product deployments, schema changes, credential operations, or cross-tenant access. | Human |
+| MEDIUM | Actions affecting code changes, test execution, or non-production environments. | Governance Engine |
+| LOW | Actions affecting documentation, analysis, or read-only operations. | Capability Token only |
+
+---
+
+# PART B — REFERENCE ARCHITECTURE
+
+## B.1 SYSTEM OVERVIEW
+
+```text
+                    ┌──────────────────────────────┐
+                    │         HUMAN OWNER          │
+                    │   (Sovereign Authority)      │
+                    └──────────────┬───────────────┘
+                                   │
+                    ┌──────────────▼───────────────┐
+                    │        CONSTITUTION           │
+                    │   (Supreme Governing Law)     │
+                    └──────────────┬───────────────┘
+                                   │
+                    ┌──────────────▼───────────────┐
+                    │         GOVERNANCE            │
+                    │   (Policy & Rule Engine)      │
+                    └──────────────┬───────────────┘
+                                   │
+                    ┌──────────────▼───────────────┐
+                    │          AUTHORITY            │
+                    │   (Explicit Grant System)     │
+                    └──────────────┬───────────────┘
+                                   │
+                    ┌──────────────▼───────────────┐
+                    │         CAPABILITIES          │
+                    │   (Scoped Token System)       │
+                    └──────────────┬───────────────┘
+                                   │
+                    ┌──────────────▼───────────────┐
+                    │         INTELLIGENCE          │
+                    │   (AI Provider Abstraction)   │
+                    └──────────────┬───────────────┘
+                                   │
+                    ┌──────────────▼───────────────┐
+                    │           PLANNING            │
+                    │   (Governed Action Plans)     │
+                    └──────────────┬───────────────┘
+                                   │
+                    ┌──────────────▼───────────────┐
+                    │          EXECUTION            │
+                    │   (Isolated Broker/Workspace) │
+                    └──────────────┬───────────────┘
+                                   │
+                    ┌──────────────▼───────────────┐
+                    │         VERIFICATION          │
+                    │   (Independent Validation)    │
+                    └──────────────┬───────────────┘
+                                   │
+                    ┌──────────────▼───────────────┐
+                    │           EVIDENCE            │
+                    │   (Immutable Proof Store)     │
+                    └──────────────┬───────────────┘
+                                   │
+                    ┌──────────────▼───────────────┐
+                    │            AUDIT              │
+                    │   (Append-Only Trail)         │
+                    └──────────────┬───────────────┘
+                                   │
+                    ┌──────────────▼───────────────┐
+                    │            MEMORY             │
+                    │   (Verified Knowledge)        │
+                    └──────────────┬───────────────┘
+                                   │
+                    ┌──────────────▼───────────────┐
+                    │           LEARNING            │
+                    │   (Institutional Growth)      │
+                    └──────────────────────────────┘
+```
+
+---
+
+## B.2 CORE SUBSYSTEMS
+
+| Subsystem | Purpose | Key Components |
+|-----------|---------|----------------|
+| Trust Kernel | Enforce constitutional rules | Auth, Authorization, Policy Engine, Risk Classification |
+| Authority System | Manage explicit authority grants | Authority Chains, Delegation, Revocation |
+| Capability System | Issue scoped capability tokens | Token Issuance, Scope Validation, Expiry Management |
+| Execution Broker | Control all execution | Action Classification, Governance Check, Workspace Allocation |
+| Verification Engine | Independently verify outcomes | Test Runners, Build Verification, Deployment Verification |
+| Evidence Store | Store immutable evidence | Hash-chained Storage, Evidence Validation |
+| Audit System | Maintain append-only audit trail | Event Logging, Hash Chaining, Tamper Detection |
+| Intelligence Contract | Abstract AI providers | Provider Adapters, Agent Runtime, Context Management |
+| Product Factory | Transform ideas into products | Discovery, Requirements, Blueprint, Architecture, Planning |
+| Memory System | Store verified knowledge | Knowledge Candidates, Validation, Institutional Memory |
+| Recovery System | Enable constitutional recovery | Freeze, Rollback, Restore, Emergency Procedures |
+| Operations System | Manage running products | Monitoring, Incident, Compliance, Lifecycle |
+
+---
+
+## B.3 INTELLIGENCE ARCHITECTURE
+
+```text
+                    Intelligence Provider
+                            │
+                    Provider Adapter
+                            │
+                   Intelligence Contract
+                            │
+                     Agent Runtime
+                            │
+                       Agent Role
+                            │
+                      Agent Context
+                            │
+                       Agent Task
+                            │
+              Recommendation / Plan / Output
+```
+
+### Initial Agent Roles
+
+| Agent | Purpose | Autonomy Level |
+|-------|---------|----------------|
+| Product Discovery Agent | Transform ideas into requirements | L1 |
+| Requirements Agent | Define and validate requirements | L1 |
+| Domain Analyst Agent | Analyze domain models | L1 |
+| Architecture Agent | Propose system architecture | L1 |
+| Database Agent | Design and manage data models | L1 |
+| UX Agent | Design user experience | L1 |
+| Security Agent | Identify and address security concerns | L1 |
+| Repository Agent | Manage code repositories | L1 |
+| QA Agent | Design and execute tests | L1 |
+| Verification Agent | Independently verify outcomes | L2 |
+| Deployment Agent | Manage deployments | L1 |
+| Operations Agent | Monitor and manage operations | L1 |
+
+---
+
+## B.4 PRODUCT FACTORY LIFECYCLE
+
+```text
+                    IDEA
+                      │
+                  DISCOVERY
+                      │
+                 REQUIREMENTS
+                      │
+                 DOMAIN MODEL
+                      │
+               PRODUCT PASSPORT
+                      │
+                   BLUEPRINT
+                      │
+                 ARCHITECTURE
+                      │
+                HUMAN APPROVAL
+                      │
+              IMPLEMENTATION PLAN
+                      │
+                   EXECUTION
+                      │
+                     BUILD
+                      │
+                     TEST
+                      │
+                   SECURITY
+                      │
+                 VERIFICATION
+                      │
+                   EVIDENCE
+                      │
+             DEPLOYMENT APPROVAL
+                      │
+                  DEPLOYMENT
+                      │
+         POST-DEPLOYMENT VERIFICATION
+                      │
+                  OPERATIONS
+                      │
+                   LEARNING
+                      │
+                 IMPROVEMENT
+                      │
+                  RETIREMENT
+```
+
+---
+
+## B.5 EXECUTION ARCHITECTURE
+
+```text
+                Agent Proposal
+                      │
+              Action Classification
+                      │
+                Risk Assessment
+                      │
+             Governance Evaluation
+                      │
+                Authority Check
+                      │
+               Capability Check
+                      │
+                Approval Check
+                      │
+               Capability Token
+                      │
+              Execution Broker
+                      │
+              Isolated Workspace
+                      │
+                    Worker
+                      │
+                    Result
+                      │
+                 Verification
+                      │
+                   Evidence
+                      │
+                    Audit
+```
+
+---
+
+## B.6 VERIFICATION ARCHITECTURE
+
+### Verification Types
+
+| Type | Purpose | Performed By |
+|------|---------|--------------|
+| Functional | Verify functional requirements | Verification Agent |
+| Unit | Verify individual components | Automated Test Runner |
+| Integration | Verify component interactions | Automated Test Runner |
+| E2E | Verify user workflows | Playwright Runner |
+| Security | Verify security controls | Security Agent |
+| Performance | Verify performance requirements | Performance Runner |
+| Deployment | Verify deployment success | Deployment Verifier |
+| Data Integrity | Verify data operations | Data Verifier |
+| Recovery | Verify recovery procedures | Recovery Tester |
+| Configuration | Verify configuration correctness | Configuration Verifier |
+| Compliance | Verify constitutional compliance | Compliance Checker |
+
+### Evidence Levels
+
+| Level | Description | Required For |
+|-------|-------------|--------------|
+| E0 | No evidence — agent assertion only | Nothing (unacceptable) |
+| E1 | Automated test output | LOW risk actions |
+| E2 | Test output + configuration snapshot | MEDIUM risk actions |
+| E3 | Test output + configuration + security scan | HIGH risk actions |
+| E4 | Full evidence package + independent verification | CRITICAL risk actions |
+
+---
+
+## B.7 MEMORY & LEARNING ARCHITECTURE
+
+```text
+              Raw Observation
+                      │
+                   Evidence
+                      │
+               Verified Outcome
+                      │
+              Knowledge Candidate
+                      │
+                 Validation
+                      │
+            Institutional Knowledge
+                      │
+           Future Decision Support
+```
+
+**Rule:** AI saying something does not become AGBOFA knowledge. Only verified outcomes with evidence become knowledge.
+
+---
+
+# PART C — OPERATING MODEL
+
+## C.1 DAILY OPERATING RHYTHM
+
+| Time | Activity | Hours | Purpose |
+|------|----------|-------|---------|
+| 08:00–09:00 | Architecture & Command Briefing | 1.0 | Decide what should exist |
+| 09:00–11:30 | AI Agent Implementation | 2.5 | Agents generate/modify systems |
+| 11:30–13:00 | Assembly & Integration | 1.5 | Connect components |
+| 14:00–15:30 | Testing & Validation | 1.5 | Prove functionality |
+| 15:30–16:15 | Security & Governance Verification | 0.75 | Attack and verify controls |
+| 16:15–17:00 | Evidence & Daily Freeze | 0.75 | Preserve decisions and evidence |
+| **TOTAL** | | **8.0** | |
+
+---
+
+## C.2 WEEKLY RHYTHM
+
+```text
+Monday–Thursday:  Heavy Assembly
+Friday:           Integration + Testing
+Saturday:         Security + Verification + Documentation
+Sunday:           Light Review / Planning / Recovery (2–4 hours)
+```
+
+---
+
+## C.3 SIX-DAY WORK CYCLE
+
+Each implementation block follows:
+
+```text
+PLAN → ASSEMBLE → TEST → ATTACK → VERIFY → FREEZE
+```
+
+---
+
+## C.4 GATE STRUCTURE
+
+| Gate | Description | Blocks Covered |
+|------|-------------|----------------|
+| Gate 1 | Constitutional Runtime works | Block 1 |
+| Gate 2 | Trust Kernel works | Block 2 |
+| Gate 3 | Authority/Capability security works | Block 3 |
+| Gate 4 | AI Agent runtime works | Block 4 |
+| Gate 5 | Product specification factory works | Block 5 |
+| Gate 6 | Controlled execution works | Block 6 |
+| Gate 7 | Independent verification works | Block 7 |
+| Gate 8 | Deployment lifecycle works | Block 8 |
+| Gate 9 | Multiple products remain isolated | Block 9 |
+| Gate 10 | Red-team certification passes | Block 10 |
+
+---
+
+# PART D — TECHNICAL SPECIFICATION
+
+## D.1 REPOSITORY STRUCTURE
+
+```text
+agbofa/
+├── constitution/               # THE CONSTITUTION (supreme)
+│   ├── articles/               # Each article as machine-readable contract
+│   ├── principles/             # Permanent architectural principles
+│   ├── amendments/             # Constitutional amendment process
+│   └── version-control/        # Constitutional versioning
+│
+├── core/                       # AGBOFA CORE PLATFORM
+│   ├── trust-kernel/           # Auth, governance, policy engine
+│   ├── authority/              # Authority model, delegation, revocation
+│   ├── capability/             # Capability tokens, scopes, expiry
+│   ├── execution/              # Broker, workspace, workers, sandbox
+│   ├── verification/           # Independent verification engine
+│   ├── evidence/               # Evidence collection, hashing, storage
+│   ├── audit/                  # Append-only audit log
+│   └── recovery/               # Freeze, rollback, restore
+│
+├── intelligence/               # AI ABSTRACTION LAYER
+│   ├── contract/               # Intelligence Contract (provider-agnostic)
+│   ├── adapters/               # Provider adapters
+│   ├── runtime/                # Agent runtime, context, task management
+│   └── memory/                 # Institutional memory and learning
+│
+├── factory/                    # PRODUCT FACTORY
+│   ├── discovery/              # Product discovery workflow
+│   ├── requirements/           # Requirements engine
+│   ├── blueprint/              # Product blueprint generation
+│   ├── architecture/           # Architecture proposal system
+│   └── planning/               # Implementation planning
+│
+├── products/                   # PRODUCTS BUILT BY AGBOFA
+│   ├── product-a/
+│   │   ├── passport.json       # Product Passport (identity contract)
+│   │   ├── requirements/
+│   │   ├── blueprint/
+│   │   ├── source/
+│   │   ├── evidence/
+│   │   └── audit/
+│   └── product-b/
+│
+├── operations/                 # ENTERPRISE OPERATIONS
+│   ├── monitoring/
+│   ├── incident/
+│   ├── deployment/
+│   └── compliance/
+│
+├── templates/                  # TECHNOLOGY TEMPLATES
+│   ├── web-app/
+│   ├── api-service/
+│   └── database/
+│
+├── evidence/                   # AGBOFA'S OWN EVIDENCE
+│   ├── daily-freezes/
+│   ├── gate-certifications/
+│   ├── red-team/
+│   └── completion-matrix.json
+│
+└── command-center/             # AGBOFA COMMAND CENTER
+    ├── api/
+    ├── dashboard/
+    └── cli/
+```
+
+---
+
+## D.2 TECHNOLOGY STACK
+
+| Component | Technology | Rationale |
+|-----------|------------|-----------|
+| Language | TypeScript (strict mode) | Type safety, ecosystem maturity |
+| Runtime | Node.js 20+ | Production-ready, widespread support |
+| Database (Primary) | PostgreSQL 16 | Enterprise-grade, ACID compliance |
+| Database (Isolated) | SQLite | Lightweight test/workspace environments |
+| ORM | Drizzle ORM | SQL-first, TypeScript-native, lightweight |
+| Queue | BullMQ (Redis-based) | Production-ready job queue |
+| State Management | XState 5 | Explicit state machines, TypeScript-native |
+| Validation | Zod | Runtime validation, TypeScript inference |
+| Testing (Unit/Integration) | Vitest | Fast, modern, TypeScript-native |
+| Testing (E2E) | Playwright | Browser automation, cross-browser |
+| API Framework | Fastify | High-performance, TypeScript-native |
+| Authentication | Custom JWT + Capability Tokens | Constitutional authority model |
+| Audit Storage | PostgreSQL + Append-Only Tables | Durable, queryable, hash-chained |
+| Containerization | Docker + Docker Compose | Consistent environments |
+| Deployment (Phase 1) | Single-node Docker Compose | Controlled, auditable |
+| CLI | Commander.js | Mature CLI framework |
+| Dashboard | React + Vite | Command center UI |
+| Documentation | Markdown + OpenAPI 3.1 | Machine-readable API docs |
+
+---
+
+## D.3 PRODUCT PASSPORT SCHEMA
+
+```typescript
+interface ProductPassport {
+  productId: string;
+  productName: string;
+  tenantId: string;
+  ownerId: string;
+  version: string;
+  lifecycleState: string;
+  requirements: RequirementReference[];
+  architecture: ArchitectureReference;
+  technologyProfile: TechnologyProfile;
+  database: DatabaseReference;
+  repositories: RepositoryReference[];
+  environments: EnvironmentReference[];
+  deployments: DeploymentReference[];
+  agents: AgentReference[];
+  capabilities: CapabilityReference[];
+  policies: PolicyReference[];
+  auditHistory: AuditReference[];
+  evidence: EvidenceReference[];
+  incidents: IncidentReference[];
+  recoveryState: RecoveryReference;
+}
+```
+
+---
+
+## D.4 CAPABILITY TOKEN SCHEMA
+
+```typescript
+interface CapabilityToken {
+  tokenId: string;
+  capability: string;          // e.g., "repo.read"
+  scope: {
+    productId: string;
+    environment: string;
+    resource?: string;
+  };
+  grantedTo: {
+    agentId: string;
+    role: string;
+  };
+  grantedBy: {
+    authorityChain: string[];
+    humanApproval?: string;
+  };
+  issuedAt: string;
+  expiresAt: string;
+  constraints: {
+    maxDuration?: number;
+    maxOperations?: number;
+    allowedCommands?: string[];
+  };
+}
+```
+
+---
+
+## D.5 AUDIT EVENT SCHEMA
+
+```typescript
+interface AuditEvent {
+  eventId: string;
+  timestamp: string;
+  actor: {
+    type: 'human' | 'agent' | 'system';
+    id: string;
+    role?: string;
+  };
+  action: {
+    type: string;
+    classification: 'LOW' | 'MEDIUM' | 'HIGH' | 'CRITICAL';
+    description: string;
+  };
+  authority: {
+    chain: string[];
+    token?: string;
+    humanApproval?: string;
+  };
+  capability: {
+    name: string;
+    scope: string;
+    tokenId?: string;
+  };
+  target: {
+    productId?: string;
+    environment?: string;
+    resource?: string;
+  };
+  result: {
+    status: 'success' | 'failure' | 'rejected' | 'error';
+    details?: string;
+  };
+  verification: {
+    performed: boolean;
+    method?: string;
+    result?: string;
+    evidenceId?: string;
+  };
+  hash: string;
+  previousHash: string;
+}
+```
+
+---
+
+## D.6 INTELLIGENCE CONTRACT
+
+```typescript
+interface IntelligenceContract {
+  contractId: string;
+  version: string;
+  provider: string;
+  capabilities: {
+    reasoning: boolean;
+    codeGeneration: boolean;
+    analysis: boolean;
+    planning: boolean;
+    toolUse: boolean;
+  };
+  constraints: {
+    maxContextLength: number;
+    maxOutputLength: number;
+    timeoutMs: number;
+    retryPolicy: RetryPolicy;
+  };
+  security: {
+    dataIsolation: boolean;
+    noTrainingOnData: boolean;
+    auditLogging: boolean;
+  };
+}
+```
+
+---
+
+# PART E — ENTERPRISE TARGET ARCHITECTURE
+
+## E.1 ENTERPRISE MATURITY LEVELS
+
+| Level | Name | Description | Key Capabilities |
+|-------|------|-------------|------------------|
+| L0 | Constitutional Foundation | Constitution defined, basic governance exists | Trust Kernel, Authority, Capability |
+| L1 | Core Platform | Platform can govern and execute | Execution Broker, Verification, Evidence |
+| L2 | Product Factory | Platform can build products | Discovery, Requirements, Blueprint, Planning |
+| L3 | Multi-Product Ecosystem | Multiple products managed simultaneously | Tenant Isolation, Portfolio Management |
+| L4 | Enterprise Platform | Enterprise-grade operations | Monitoring, Incident, Compliance, Recovery |
+| L5 | Autonomous Governed Ecosystem | Full governed autonomy | Self-improvement, Advanced Learning |
+
+---
+
+## E.2 ENTERPRISE CAPABILITIES (TARGET STATE)
+
+| Capability | Description | Implementation Status |
+|------------|-------------|----------------------|
+| Multi-Region Infrastructure | Deploy across geographic regions | Phase 1: Architecture-ready, single-node implementation |
+| Multi-Provider AI Routing | Route intelligence to different providers | Phase 1: Contract + Adapter pattern |
+| Enterprise SDK | External integration SDK | Phase 1: API-first architecture |
+| Federation | Multi-instance coordination | Phase 1: Architecture-ready |
+| Marketplace | Product/agent marketplace | Phase 1: Architecture-ready |
+| Hundreds of Agents | Massive agent scaling | Phase 1: Agent registry scalable |
+| Advanced Analytics | Enterprise analytics | Phase 1: Evidence-based foundation |
+| Compliance Frameworks | SOC2, GDPR, etc. | Phase 1: Audit-ready architecture |
+
+**Note:** Phase 1 implements the architecture that supports these capabilities. Full operational deployment of every enterprise feature may require additional infrastructure beyond Day 60, but the architectural support is present.
+
+---
+
+# PART F — 60-DAY IMPLEMENTATION PROGRAM
+
+## F.1 PROGRAM OBJECTIVE
+
+At the end of Day 60:
+
+> **Every capability, subsystem, constitutional control, enterprise function, integration boundary, security mechanism, verification mechanism, operational capability, and governance mechanism defined as part of the Master Architecture must have an implemented, integrated, tested, and evidenced counterpart in AGBOFA.**
+
+**Target Metrics:**
+- 100% architectural implementation
+- 100% critical-path verification
+- 0 unresolved constitutional violations
+
+---
+
+## F.2 IMPLEMENTATION PHASES
+
+| Phase | Days | Focus | Key Deliverables |
+|-------|------|-------|------------------|
+| Phase 1 | 1–15 | Constitutional + Platform Foundation | Constitution, Domain Model, Trust Kernel, Authority, Capability |
+| Phase 2 | 16–30 | Intelligence + Product Factory | Intelligence Contract, Agent Runtime, Product Factory |
+| Phase 3 | 31–45 | Execution + Enterprise Operations | Execution Broker, Verification, Evidence, Audit, Operations |
+| Phase 4 | 46–60 | Enterprise Completion + Certification | Integration, Red Team, Certification |
+
+---
+
+## F.3 IMPLEMENTATION BLOCKS
+
+| Block | Days | Main Objective | Gate |
+|-------|------|----------------|------|
+| 1 | 1–6 | Constitutional Runtime Foundation | Gate 1 |
+| 2 | 7–12 | Trust Kernel | Gate 2 |
+| 3 | 13–18 | Identity, Authority & Capability | Gate 3 |
+| 4 | 19–24 | Intelligence & Agent Runtime | Gate 4 |
+| 5 | 25–30 | Product Factory | Gate 5 |
+| 6 | 31–36 | Execution & Workspace | Gate 6 |
+| 7 | 37–42 | Verification, Evidence & Audit | Gate 7 |
+| 8 | 43–48 | Product Lifecycle & Deployment | Gate 8 |
+| 9 | 49–54 | Multi-product / Ecosystem Operation | Gate 9 |
+| 10 | 55–60 | Red Team, Recovery & Final Certification | Gate 10 |
+
+---
+
+## F.4 DAILY SCHEDULE (DETAILED)
+
+### BLOCK 1 — Days 1–6: Constitutional Runtime Foundation
+
+| Day | Architecture Briefing | AI Agent Assignments | Human Tasks | Implementation Targets | Test Requirements | Evidence |
+|-----|----------------------|---------------------|-------------|----------------------|-------------------|----------|
+| 1 | Freeze v5 Constitution; define terminology; establish boundaries | None (architectural work) | Review and approve Constitution; establish repository | AGBOFA identity, system config, constitutional version | Constitution parsed successfully | Constitutional freeze record |
+| 2 | Core domain model design | Requirements Agent (domain analysis) | Review domain entities | Product, Tenant, User, Agent, Capability, Authority, Action, Policy, Evidence, AuditEvent, Execution, Verification, Environment | Domain model validated | Domain model schema |
+| 3 | Constitutional contracts specification | Architecture Agent (contract generation) | Approve contract schemas | Machine-readable contracts for identity, authority, capability, action, governance, verification, evidence, audit | Contracts validate against Constitution | Contract definitions |
+| 4 | Persistence layer design | Database Agent (schema generation) | Review database schema | Database migrations, validation schemas | Migrations apply cleanly; Zod validation passes | Migration scripts |
+| 5 | Constitutional invariant testing | QA Agent (test generation) | Review test coverage | Tests for constitutional invariants | All tests pass; unauthorized action rejected | Test results |
+| 6 | Gate 1 certification | Verification Agent | Certify Gate 1 | Gate 1 evidence package | Gate 1 criteria met | Gate 1 certification |
+
+**Gate 1 Criteria:** Constitutional runtime works. Unauthorized actions rejected. Domain model validated.
+
+---
+
+### BLOCK 2 — Days 7–12: Trust Kernel
+
+| Day | Architecture Briefing | AI Agent Assignments | Human Tasks | Implementation Targets | Test Requirements | Evidence |
+|-----|----------------------|---------------------|-------------|----------------------|-------------------|----------|
+| 7 | Trust Kernel architecture freeze | Architecture Agent | Approve Trust Kernel design | Authentication system, authorization model | Auth tests pass | Auth implementation |
+| 8 | Authority model implementation | Repository Agent | Review authority code | Authority model, roles, permissions | Authority tests pass | Authority implementation |
+| 9 | Policy engine | Architecture Agent | Review policy engine | Policy evaluation, risk classification | Policy tests pass | Policy engine |
+| 10 | Action classification | Security Agent | Review classification logic | Action classification, approval requirements | Classification tests pass | Classification system |
+| 11 | Governance integration | Repository Agent | Test governance flow | Full governance chain: Agent → Proposal → Governance → Authority → Capability → Approval → Execution | Integration tests pass | Governance flow evidence |
+| 12 | Gate 2 certification | Verification Agent | Certify Gate 2 | Gate 2 evidence package | Unauthorized agent action blocked; authorized action succeeds | Gate 2 certification |
+
+**Gate 2 Criteria:** Trust Kernel works. Agent cannot directly perform unauthorized actions. Authorized actions succeed through governance chain.
+
+---
+
+### BLOCK 3 — Days 13–18: Identity, Authority & Capability
+
+| Day | Architecture Briefing | AI Agent Assignments | Human Tasks | Implementation Targets | Test Requirements | Evidence |
+|-----|----------------------|---------------------|-------------|----------------------|-------------------|----------|
+| 13 | Product Passport design | Requirements Agent | Approve passport schema | Product Passport implementation | Passport validates | Passport implementation |
+| 14 | Capability security system | Security Agent | Review capability design | Capability tokens, scope validation, expiry | Capability tests pass | Capability system |
+| 15 | Capability integration | Repository Agent | Test capability flow | Capability issuance, validation, revocation | Integration tests pass | Capability flow |
+| 16 | Security testing: privilege escalation | Security Agent | Review security results | Attack simulations: escalation, escape, forgery | All attacks blocked | Security test results |
+| 17 | Security testing: boundary violations | Security Agent | Review security results | Tenant isolation tests, cross-product access | All attacks blocked | Security test results |
+| 18 | Gate 3 certification | Verification Agent | Certify Gate 3 | Gate 3 evidence package | Gate 3 criteria met | Gate 3 certification |
+
+**Gate 3 Criteria:** Identity and capability security work. Privilege escalation, tenant escape, capability escalation, expired capability, forged capability, unauthorized product access all blocked.
+
+---
+
+### BLOCK 4 — Days 19–24: Intelligence & Agent Runtime
+
+| Day | Architecture Briefing | AI Agent Assignments | Human Tasks | Implementation Targets | Test Requirements | Evidence |
+|-----|----------------------|---------------------|-------------|----------------------|-------------------|----------|
+| 19 | Intelligence Contract design | Architecture Agent | Approve contract design | Intelligence Contract, Provider Adapter | Contract validates | Intelligence Contract |
+| 20 | Agent Runtime implementation | Repository Agent | Review runtime code | Agent Registry, Agent identity, roles | Runtime tests pass | Agent Runtime |
+| 21 | Context & Task system | Architecture Agent | Review context system | Agent Context, Task system, prompt assembly | Context tests pass | Context system |
+| 22 | Initial agent roles | Repository Agent | Configure agents | Product Discovery, Requirements, Architect, Database, UX, Security, Repository, QA, Verification, Deployment agents | Agent tests pass | Agent implementations |
+| 23 | Agent integration | Security Agent | Test agent governance | Full agent flow: Context → Task → Proposal → Output | Integration tests pass | Agent flow evidence |
+| 24 | Gate 4 certification | Verification Agent | Certify Gate 4 | Gate 4 evidence package | Gate 4 criteria met | Gate 4 certification |
+
+**Gate 4 Criteria:** AI agent runtime works. Agents can receive context, generate proposals, and submit outputs through governance.
+
+---
+
+### BLOCK 5 — Days 25–30: Product Factory
+
+| Day | Architecture Briefing | AI Agent Assignments | Human Tasks | Implementation Targets | Test Requirements | Evidence |
+|-----|----------------------|---------------------|-------------|----------------------|-------------------|----------|
+| 25 | Product intake design | Requirements Agent | Approve intake design | Product Intake, Discovery workflow | Intake tests pass | Intake implementation |
+| 26 | Requirements engine | Requirements Agent | Review requirements engine | Requirements engine, classification, assumption tracking | Requirements tests pass | Requirements engine |
+| 27 | Product Blueprint | Architecture Agent | Review blueprint system | Product Blueprint, Feature matrix | Blueprint tests pass | Blueprint system |
+| 28 | Architecture proposal | Architecture Agent | Review architecture system | Architecture proposal, approval workflow | Architecture tests pass | Architecture system |
+| 29 | Factory integration | Repository Agent | Test factory flow | Full factory flow: Idea → Discovery → Requirements → Blueprint → Architecture → Approval | Factory tests pass | Factory flow evidence |
+| 30 | Gate 5 certification | Verification Agent | Certify Gate 5 | Gate 5 evidence package | Product idea produces governed specification | Gate 5 certification |
+
+**Gate 5 Criteria:** Product Factory works. Given a product idea, AGBOFA produces a governed product specification.
+
+---
+
+### BLOCK 6 — Days 31–36: Execution & Workspace
+
+| Day | Architecture Briefing | AI Agent Assignments | Human Tasks | Implementation Targets | Test Requirements | Evidence |
+|-----|----------------------|---------------------|-------------|----------------------|-------------------|----------|
+| 31 | Execution Broker design | Architecture Agent | Approve broker design | Execution Broker, Worker model | Broker tests pass | Execution Broker |
+| 32 | Workspace management | Repository Agent | Review workspace system | Workspace manager, repository operations, file operations | Workspace tests pass | Workspace system |
+| 33 | Command execution | Security Agent | Review command execution | Command execution, build execution, test execution | Command tests pass | Command execution |
+| 34 | Environment isolation | Security Agent | Review isolation | Environment separation, resource limits, timeouts | Isolation tests pass | Isolation system |
+| 35 | Execution integration | Repository Agent | Test execution flow | Full execution flow: Proposal → Classification → Governance → Capability → Approval → Execution | Integration tests pass | Execution flow evidence |
+| 36 | Gate 6 certification | Verification Agent | Certify Gate 6 | Gate 6 evidence package | Gate 6 criteria met | Gate 6 certification |
+
+**Gate 6 Criteria:** Controlled execution works. Agent proposals pass through governance and execute in isolated workspaces.
+
+---
+
+### BLOCK 7 — Days 37–42: Verification, Evidence & Audit
+
+| Day | Architecture Briefing | AI Agent Assignments | Human Tasks | Implementation Targets | Test Requirements | Evidence |
+|-----|----------------------|---------------------|-------------|----------------------|-------------------|----------|
+| 37 | Verification engine design | Architecture Agent | Approve verification design | Verification engine, test runners | Verification tests pass | Verification engine |
+| 38 | Evidence system | Repository Agent | Review evidence system | Evidence collection, hashing, storage | Evidence tests pass | Evidence system |
+| 39 | Audit system | Security Agent | Review audit system | Append-only audit, hash chaining, tamper detection | Audit tests pass | Audit system |
+| 40 | Verification integration | Repository Agent | Test verification flow | Verification flow: Action → Execution → Result → Verification → Evidence → Audit | Integration tests pass | Verification flow |
+| 41 | Audit integrity testing | Security Agent | Attempt audit tampering | Tamper detection, hash chain validation | Tampering detected | Audit integrity evidence |
+| 42 | Gate 7 certification | Verification Agent | Certify Gate 7 | Gate 7 evidence package | Gate 7 criteria met | Gate 7 certification |
+
+**Gate 7 Criteria:** Verification, Evidence, and Audit work. Execution does not equal success. Independent verification required.
+
+---
+
+### BLOCK 8 — Days 43–48: Product Lifecycle & Deployment
+
+| Day | Architecture Briefing | AI Agent Assignments | Human Tasks | Implementation Targets | Test Requirements | Evidence |
+|-----|----------------------|---------------------|-------------|----------------------|-------------------|----------|
+| 43 | Deployment architecture | Architecture Agent | Approve deployment design | Deployment system, environment management | Deployment tests pass | Deployment system |
+| 44 | Build & test pipeline | Repository Agent | Review pipeline | Build system, test system | Pipeline tests pass | Build pipeline |
+| 45 | Lifecycle management | Requirements Agent | Review lifecycle | Product lifecycle, retirement | Lifecycle tests pass | Lifecycle system |
+| 46 | Deployment integration | Security Agent | Test deployment flow | Full deployment flow: Product → Build → Test → Verification → Security Review → Deployment Approval → Deployment → Post-Deployment Verification | Integration tests pass | Deployment flow |
+| 47 | Recovery system | Security Agent | Review recovery | Recovery procedures, rollback, restore | Recovery tests pass | Recovery system |
+| 48 | Gate 8 certification | Verification Agent | Certify Gate 8 | Gate 8 evidence package | Gate 8 criteria met | Gate 8 certification |
+
+**Gate 8 Criteria:** Deployment lifecycle works. Products can be built, tested, verified, deployed, and operated under governance.
+
+---
+
+### BLOCK 9 — Days 49–54: Multi-Product Ecosystem
+
+| Day | Architecture Briefing | AI Agent Assignments | Human Tasks | Implementation Targets | Test Requirements | Evidence |
+|-----|----------------------|---------------------|-------------|----------------------|-------------------|----------|
+| 49 | Product A discovery | Product Discovery Agent | Approve Product A requirements | Product A requirements, blueprint | Requirements validated | Product A specification |
+| 50 | Product A implementation | Repository Agent | Review Product A implementation | Product A source, tests, evidence | All tests pass | Product A implementation |
+| 51 | Product B discovery | Product Discovery Agent | Approve Product B requirements | Product B requirements, blueprint | Requirements validated | Product B specification |
+| 52 | Product B implementation | Repository Agent | Review Product B implementation | Product B source, tests, evidence | All tests pass | Product B implementation |
+| 53 | Isolation testing | Security Agent | Review isolation tests | Cross-product access attempts, tenant isolation | All isolation tests pass | Isolation evidence |
+| 54 | Gate 9 certification | Verification Agent | Certify Gate 9 | Gate 9 evidence package | Product A cannot access Product B; both products operational | Gate 9 certification |
+
+**Gate 9 Criteria:** Multiple products remain isolated. Product A agent cannot access Product B. Both products operational.
+
+---
+
+### BLOCK 10 — Days 55–60: Red Team, Recovery & Final Certification
+
+| Day | Architecture Briefing | AI Agent Assignments | Human Tasks | Implementation Targets | Test Requirements | Evidence |
+|-----|----------------------|---------------------|-------------|----------------------|-------------------|----------|
+| 55 | Red team: governance attacks | Security Agent | Review red team results | Attack simulations: unauthorized actions, capability escalation, governance bypass | All attacks blocked | Red team evidence |
+| 56 | Red team: isolation & injection | Security Agent | Review red team results | Attack simulations: tenant escape, prompt injection, malicious repositories | All attacks blocked | Red team evidence |
+| 57 | Red team: operational attacks | Security Agent | Review red team results | Attack simulations: secret leakage, audit tampering, runaway agents, failed deployments | All attacks blocked | Red team evidence |
+| 58 | Recovery testing | Security Agent | Review recovery results | Database corruption recovery, system freeze, rollback | Recovery succeeds | Recovery evidence |
+| 59 | Architectural conformance audit | Verification Agent | Review conformance | Completion matrix audit, requirement verification | 100% coverage | Conformance audit |
+| 60 | FINAL CERTIFICATION | Verification Agent | Certify AGBOFA Enterprise | Final evidence package, certification document | All gates passed | AGBOFA Certification |
+
+**Gate 10 Criteria:** Red-team certification passes. Recovery works. 100% architectural implementation verified.
+
+---
+
+## F.5 COMPLETION MATRIX
+
+| ID | Requirement | Component | Implementation | Test | Security | Evidence | Status |
+|----|-------------|-----------|----------------|------|----------|----------|--------|
+| CON-001 | Human sovereignty | Authority Kernel | | | | | PENDING |
+| CON-002 | AGBOFA sovereignty | Governance Engine | | | | | PENDING |
+| CON-003 | Intelligence ≠ Authority | Trust Kernel | | | | | PENDING |
+| CON-004 | Authority is explicit | Authority System | | | | | PENDING |
+| CON-005 | Capability is scoped | Capability System | | | | | PENDING |
+| CON-006 | Execution is isolated | Execution Broker | | | | | PENDING |
+| CON-007 | Execution ≠ Success | Verification Engine | | | | | PENDING |
+| CON-008 | Verification independent | Verification Engine | | | | | PENDING |
+| CON-009 | Evidence precedes trust | Evidence Store | | | | | PENDING |
+| CON-010 | Audit persistent | Audit System | | | | | PENDING |
+| CON-011 | Governance unweakenable | Governance Engine | | | | | PENDING |
+| CON-012 | Autonomy earned | Trust Kernel | | | | | PENDING |
+| CON-013 | Learning verified | Memory System | | | | | PENDING |
+| CON-014 | Tenant isolation | Isolation Guard | | | | | PENDING |
+| CON-015 | Recovery constitutional | Recovery System | | | | | PENDING |
+| CON-016 | Provider independence | Intelligence Contract | | | | | PENDING |
+| GOV-001 | Governance enforcement | Policy Engine | | | | | PENDING |
+| GOV-002 | Policy evaluation | Policy Engine | | | | | PENDING |
+| GOV-003 | Risk classification | Trust Kernel | | | | | PENDING |
+| AUT-001 | Authority chains | Authority System | | | | | PENDING |
+| AUT-002 | Authority delegation | Authority System | | | | | PENDING |
+| AUT-003 | Authority revocation | Authority System | | | | | PENDING |
+| CAP-001 | Capability tokens | Capability System | | | | | PENDING |
+| CAP-002 | Scope validation | Capability System | | | | | PENDING |
+| CAP-003 | Token expiry | Capability System | | | | | PENDING |
+| EXE-001 | Controlled execution | Execution Broker | | | | | PENDING |
+| EXE-002 | Isolated workspace | Workspace Manager | | | | | PENDING |
+| EXE-003 | Worker model | Worker System | | | | | PENDING |
+| VER-001 | Independent verification | Verification Engine | | | | | PENDING |
+| VER-002 | Test runners | Test System | | | | | PENDING |
+| VER-003 | Build verification | Build System | | | | | PENDING |
+| EVI-001 | Evidence collection | Evidence Store | | | | | PENDING |
+| EVI-002 | Evidence hashing | Evidence Store | | | | | PENDING |
+| EVI-003 | Evidence validation | Evidence Store | | | | | PENDING |
+| AUD-001 | Append-only audit | Audit System | | | | | PENDING |
+| AUD-002 | Hash chaining | Audit System | | | | | PENDING |
+| AUD-003 | Tamper detection | Audit System | | | | | PENDING |
+| INT-001 | Intelligence abstraction | Intelligence Contract | | | | | PENDING |
+| INT-002 | Provider adapter | Adapter System | | | | | PENDING |
+| INT-003 | Agent registry | Agent Runtime | | | | | PENDING |
+| INT-004 | Context management | Context System | | | | | PENDING |
+| FAC-001 | Product discovery | Discovery System | | | | | PENDING |
+| FAC-002 | Requirements engine | Requirements System | | | | | PENDING |
+| FAC-003 | Product blueprint | Blueprint System | | | | | PENDING |
+| FAC-004 | Architecture proposal | Architecture System | | | | | PENDING |
+| FAC-005 | Implementation planning | Planning System | | | | | PENDING |
+| MEM-001 | Knowledge candidates | Memory System | | | | | PENDING |
+| MEM-002 | Knowledge validation | Memory System | | | | | PENDING |
+| MEM-003 | Institutional memory | Memory System | | | | | PENDING |
+| OPS-001 | Monitoring | Operations System | | | | | PENDING |
+| OPS-002 | Incident management | Operations System | | | | | PENDING |
+| OPS-003 | Compliance | Operations System | | | | | PENDING |
+| REC-001 | System freeze | Recovery System | | | | | PENDING |
+| REC-002 | Rollback | Recovery System | | | | | PENDING |
+| REC-003 | Restore | Recovery System | | | | | PENDING |
+| ISO-001 | Tenant isolation | Isolation Guard | | | | | PENDING |
+| ISO-002 | Cross-product blocking | Isolation Guard | | | | | PENDING |
+| DEP-001 | Deployment system | Deployment System | | | | | PENDING |
+| DEP-002 | Environment management | Environment System | | | | | PENDING |
+| DEP-003 | Post-deployment verification | Verification Engine | | | | | PENDING |
+
+---
+
+## F.6 RED TEAM ATTACK SCENARIOS
+
+| ID | Attack Scenario | Description | Expected Result | Test Day |
+|----|----------------|-------------|-----------------|----------|
+| RT-001 | Unauthorized agent action | Agent attempts to bypass governance | Action rejected | 55 |
+| RT-002 | Capability escalation | Attempt to expand capability scope | Escalation blocked | 55 |
+| RT-003 | Tenant escape | Product A attempts to access Product B | Access blocked | 56 |
+| RT-004 | Prompt injection | Malicious instructions inside repository | Injection neutralized | 56 |
+| RT-005 | Malicious repository | Repository attempts to execute outside environment | Execution blocked | 56 |
+| RT-006 | Secret leakage | Agent attempts to obtain credentials | Access blocked | 57 |
+| RT-007 | Audit tampering | Agent attempts to modify historical actions | Tampering detected | 57 |
+| RT-008 | Runaway agent | Agent creates unlimited actions | Rate limiting enforced | 57 |
+| RT-009 | Failed deployment | Deployment fails; recovery required | Recovery succeeds | 58 |
+| RT-010 | Database corruption | Database corrupted; restore required | Restore succeeds | 58 |
+
+---
+
+## F.7 ENGINEERING METRICS
+
+| Metric | Target |
+|--------|--------|
+| TypeScript errors | 0 |
+| Build failures | 0 at gate |
+| Failed tests | 0 at gate |
+| Critical security vulnerabilities | 0 |
+| Unauthorized actions succeeding | 0 |
+| Audit events missing | 0 |
+| Unverified consequential actions | 0 |
+| Tenant isolation violations | 0 |
+| Recovery failures | 0 critical |
+| Constitutional invariant violations | 0 |
+| Architecture coverage | 100% |
+| Critical-path verification | 100% |
+
+---
+
+# PART G — GOVERNANCE & CHANGE CONTROL
+
+## G.1 ARCHITECTURE CHANGE PROCESS
+
+```text
+Change Proposal
+      │
+Constitutional Review
+      │
+Impact Analysis
+      │
+Human Approval
+      │
+Version Update
+      │
+Implementation
+      │
+Verification
+      │
+Evidence
+      │
+Audit
+```
+
+## G.2 CONSTITUTIONAL AMENDMENT PROCESS
+
+| Step | Description | Required Approval |
+|------|-------------|-------------------|
+| 1 | Amendment proposal submitted | Any authorized actor |
+| 2 | Constitutional review | Governance Engine |
+| 3 | Impact analysis | Architecture Agent |
+| 4 | Human review | Human Owner |
+| 5 | Approval | Human Owner |
+| 6 | Version increment | Governance Engine |
+| 7 | Implementation | AI Agents |
+| 8 | Verification | Verification Agent |
+| 9 | Evidence | Evidence Store |
+| 10 | Audit | Audit System |
+
+**Rule:** No agent may amend the Constitution without human approval. No amendment may weaken governance.
+
+## G.3 VERSIONING POLICY
+
+| Version Type | When | Example |
+|--------------|------|---------|
+| Major | Constitutional changes | v5.0 → v6.0 |
+| Minor | New capabilities | v5.0 → v5.1 |
+| Patch | Bug fixes | v5.1 → v5.1.1 |
+
+## G.4 EMERGENCY PROCEDURES
+
+| Procedure | Trigger | Authority | Action |
+|-----------|---------|-----------|--------|
+| System Freeze | Constitutional violation detected | Human Owner or Automatic | Halt all execution |
+| Rollback | Failed deployment | Governance Engine | Restore previous state |
+| Restore | Data corruption | Human Owner | Restore from backup |
+| Revocation | Capability abuse | Security Agent | Revoke capabilities |
+| Quarantine | Runaway agent | Trust Kernel | Isolate agent |
+| Constitutional Review | Major violation | Human Owner | Full system review |
+
+---
+
+# DOCUMENT VERSION HISTORY
+
+| Version | Date | Changes | Author |
+|---------|------|---------|--------|
+| v1.0 | Initial | Initial concept | Human Owner |
+| v2.0 | Refinement | Added governance model | Human Owner |
+| v3.0 | Expansion | Added product factory | Human Owner |
+| v4.0 | Architecture | Added enterprise scope | Human Owner |
+| v5.0 | Constitutional | Full constitutional formalization | Human Owner + Senior System Architect |
+
+---
+
+# CERTIFICATION
+
+This document represents the frozen v5.0 Master Architecture & Constitution for AGBOFA.
+
+**Human Owner:** _________________________  
+**Date:** _________________________  
+**Status:** APPROVED FOR IMPLEMENTATION
+
+**Implementation Start:** Day 1  
+**Implementation Target:** Day 60  
+**Certification Target:** 100% architectural implementation
+
+---
+
+**END OF DOCUMENT**

@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "AGBOFA Constitution",
+      "hasCanvas": false,
+      "bodyTextLen": 1994,
+      "bodyTextHash": "01519691bd0c90b07f92aa8b606dea445fce6336f6b5288421eb15d2d63bd4f9",
+      "bodyTextPrefix": "AGBOFA ISSUE V5.3 FRONT 00 Cover 01 Versioning 02 How to read 03",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "AGBOFA Constitution",
+      "hasCanvas": false,
+      "bodyTextLen": 1971,
+      "bodyTextHash": "1ed74e8a362f9098a6bb37d64a1956a0ada8cf4a3990987d8bc6d3ac0105293f",
+      "bodyTextPrefix": "AGBOFA ISSUE V5.3 FRONT 00 Cover 01 Versioning 02 How to read 03",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
