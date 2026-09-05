@@ -3,7 +3,6 @@ import { readFileSync } from "node:fs";
 import { describe, it } from "node:test";
 import { ARTICLES } from "./articles.ts";
 import { LEDGER, VERSION } from "./ledger.ts";
-import { PHASE11_A11 } from "../doc/sections-phase11-a11.ts";
 import {
   ARTICLE_11_STATUS,
   ATTACK_ORACLE,
@@ -25,14 +24,18 @@ describe("Article 11 draft — constitutional oracle, not a Governance Engine", 
     assert.match(pasted, /An agent cannot modify the rules that govern its own authority\./);
   });
 
-  it("Article 11 is DRAFTED, not LOCKED, and Article 12 remains COMPACT", () => {
+  it("Article 11 and Article 12 are DRAFTED, not LOCKED", () => {
     const art11 = ARTICLES.find((a) => a.n === 11);
     const art12 = ARTICLES.find((a) => a.n === 12);
     assert.equal(art11?.status, "DRAFTED");
     assert.equal(ARTICLE_11_STATUS, "DRAFTED");
-    assert.equal(art12?.status, "COMPACT");
+    assert.equal(art12?.status, "DRAFTED");
     assert.equal(
       LEDGER.find((r) => r.n === "11")?.status,
+      "DRAFT — OWNER REVIEW REQUIRED",
+    );
+    assert.equal(
+      LEDGER.find((r) => r.n === "12")?.status,
       "DRAFT — OWNER REVIEW REQUIRED",
     );
     assert.equal(VERSION, "v5.3");
@@ -44,8 +47,12 @@ describe("Article 11 draft — constitutional oracle, not a Governance Engine", 
     }
   });
 
-  it("phase-11 draft carries four-problem split, act split, and INV-11-A1..A8", () => {
-    const hay = JSON.stringify(PHASE11_A11);
+  it("Article 11 draft carries four-problem split, act split, and INV-11-A1..A8", () => {
+    const art11 = ARTICLES.find((a) => a.n === 11);
+    const hay = JSON.stringify({
+      article: art11,
+      ledger11: LEDGER.find((r) => r.n === "11"),
+    });
     for (const needle of [
       "GOVERNANCE MODIFICATION",
       "GOVERNANCE ADMINISTRATION",
