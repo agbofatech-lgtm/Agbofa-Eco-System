@@ -10,7 +10,7 @@ That handover is the source of truth for successor agents. Do not rely on chat h
 | Article 10 kernel | In-memory, non-cryptographic increment — not a production Audit System |
 | Article 11 | DRAFT — OWNER REVIEW REQUIRED — not locked; oracle ≠ Governance Engine |
 | Article 12 | DRAFT — OWNER REVIEW REQUIRED — not locked; A0–A5 only; oracle ≠ Autonomy Engine |
-| Article 13 | COMPACT / ANALYSIS ONLY — see docs/ARTICLE-13-PREDRAFT-ANALYSIS.md |
+| Article 13 | COMPACT / NOT AUTHORIZED — analysis-only; no separate analysis file in this tree |
 | Articles 14–16 | Compact / not authorized |
 | Version | v5.3 — no v5.4 |
 | Runtime | SPECIFIED ≠ IMPLEMENTED |
