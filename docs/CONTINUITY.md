@@ -7,10 +7,11 @@
 | --- | --- |
 | Constitution version | v5.3 (no v5.4 authorized) |
 | Checkpoint date | 2026-09-05 |
-| Baseline commit | `78cb9d14c41b4467556cf63f37b8fc60409228cd` on `main` — `feat(constitution): mark Articles 11 and 12 DRAFTED in reader source` |
+| Law last changed | `78cb9d14c41b4467556cf63f37b8fc60409228cd` — Articles 11 and 12 marked DRAFTED in reader source |
+| Hygiene parent | `dcd4ab48c80a941e2a59a8ff9e6bc00f00339c95` — Article 11 tests aligned to ledger |
 | Runtime | SPECIFIED ≠ IMPLEMENTED |
 | Reader | Constitution Reader is a **document interface**, not the AGBOFA platform |
-| Gate | OPTION B — RECTIFY FIRST (hygiene). Runtime Phase 1 is **not** authorized by this checkpoint |
+| Gate | Baseline freeze after H5/H6 reader consistency. Runtime Phase 1 is **not** started by this checkpoint |
 
 ---
 
@@ -112,16 +113,15 @@ Intelligence ≠ authority. Capability ≠ authority. Execution ≠ success. No 
 
 ## G. Next authorized step
 
-Hygiene in this checkpoint only: keep continuity, README, reader copy, and tests aligned with the ledger at the baseline SHA.
+Reader copy is derived from `ledger.ts`. Dual-catalogue roles are labelled. Constitutional tests of the kernel and Article 11 are wired.
 
 Do **not** begin Runtime Phase 1 automatically. Do not lock Articles 11–16. Do not start Product Intelligence. Do not implement horizon items.
 
-Owner decisions still open:
+Owner decisions that do not block a baseline freeze:
 
-1. Confirm lock truth: 1–10 LOCKED; 11–12 DRAFT; 13–16 COMPACT.
-2. Article 5 compact: restore A.3 wording, or accept the current LOCKED-module short form.
-3. Whether named INV-X-* identifiers may be added as law.
-4. Whether Runtime Phase 1 (Identity / Authority / Capability skeleton) is authorized after hygiene.
+1. Article 5 compact: restore A.3 wording, or accept the current LOCKED-module short form.
+2. Whether named INV-X-* identifiers may be added as an index to existing article prose.
+3. Whether Runtime Phase 1 (Identity / Authority / Capability skeleton) is authorized.
 
 ---
 
