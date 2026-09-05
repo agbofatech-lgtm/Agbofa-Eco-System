@@ -169,7 +169,7 @@ export const ARTICLES: Article[] = [
     n: 10,
     title: "Audit Is Persistent",
     compact: "Consequential actions create durable audit records.",
-    status: "READY",
+    status: "LOCKED",
     purpose: "Constitutional history cannot be rewritten to manufacture SUCCESS, authority, or innocence.",
     rule:
       "Every consequential action generates an append-only, hash-chained AuditEvent distinguishing what was requested, authorized, admitted, executed, resulted, verified, and determined. Audit bypass is prohibited. Tamper → freeze and investigation. Audit records may reference evidence; they are not evidence and not grants.",
@@ -179,8 +179,13 @@ export const ARTICLES: Article[] = [
       "Rollback, recovery, and DESTROY do not erase that events occurred.",
       "Orchestration plans are audited as proposals, not as admissions.",
       "Audit cannot be used to rewrite FAILED → SUCCESS.",
+      "AUDIT ≠ AUTHORITY ≠ GRANT ≠ EVIDENCE ≠ SUCCESS ≠ VERIFICATION.",
+      "Current kernel increment: in-process KernelAuditRecord list, FNV-1a 32-bit over previousHash|requestId|why, non-cryptographic, non-durable, process-trusted KernelStore. Not a production Audit System.",
+      "Partial hash coverage: unhashed payload fields may mutate without failing the present chain verifier. tryRewriteAudit/tryDeleteAudit are prohibition stubs, not hardened storage.",
+      "auditFrozen denies admission after detected chain failure; it does not mint authority, SUCCESS, or sovereignty. Process restart resets in-memory state.",
     ],
-    future: "New domains extend the audit subject catalog; they do not get an unaudited plane.",
+    future:
+      "Production durable storage, cryptographic tamper evidence, and the full AuditEvent field set remain future implementation. Evidence Store remains Article 9 and unimplemented. New domains extend the audit subject catalog; they do not get an unaudited plane.",
     invariants: [
       "INV-10-01: Consequential action without audit is constitutionally incomplete and cannot promote.",
       "INV-10-02: Audit is append-only.",
@@ -191,7 +196,7 @@ export const ARTICLES: Article[] = [
     n: 11,
     title: "Governance Cannot Be Weakened by the Governed",
     compact: "An agent cannot modify the rules that govern its own authority.",
-    status: "READY",
+    status: "COMPACT",
     purpose: "The governed cannot rewrite the Constitution, policy, or their own grants.",
     rule:
       "Governance changes require Human approval, versioning, audit, and constitutional review. Agents, workers, orchestrators, knowledge systems, and connectors cannot create capabilities that bypass governance or mint a second sovereignty path. A new market category is not an amendment.",
@@ -210,7 +215,7 @@ export const ARTICLES: Article[] = [
     n: 12,
     title: "Autonomy Is Earned",
     compact: "Autonomy increases only according to defined evidence and policy.",
-    status: "READY",
+    status: "COMPACT",
     purpose: "A0–A5 are grants, not achievements of intelligence or product-market fit.",
     rule:
       "Autonomy is not automatic, not based on self-assessment, and not implied by orchestration, volume, or uptime. Increases require verified governed operation and Human approval. A2 duty=verify is not an execution duty. Agent-as-product still earns autonomy; it does not inherit factory A-levels.",
@@ -230,7 +235,7 @@ export const ARTICLES: Article[] = [
     title: "Learning Requires Verified Outcomes",
     compact:
       "AGBOFA cannot convert an AI assumption into institutional knowledge merely because the AI generated it.",
-    status: "READY",
+    status: "COMPACT",
     purpose: "Knowledge, memory, retrieval, and embeddings remain non-authoritative.",
     rule:
       "Knowledge candidates must pass verification and link to evidence. Unverified claims shall not enter institutional memory. Knowledge may inform, contextualize, recommend, and support planning or verification. Knowledge shall not grant access, capability, execution, SUCCESS, or override verified evidence.",
@@ -249,7 +254,7 @@ export const ARTICLES: Article[] = [
     n: 14,
     title: "Tenant Isolation",
     compact: "One product, tenant, organization, or environment cannot improperly access another.",
-    status: "READY",
+    status: "COMPACT",
     purpose: "Default-deny across tenant, product, and environment, including knowledge, connectors, and workflows.",
     rule:
       "Cross-boundary access requires explicit governed authorization. Technical reachability is not permission. Isolation Guard blocks unauthorized cross-tenant access. Connectors, corpora, work items, and generated artifacts inherit the same bounds.",
@@ -268,7 +273,7 @@ export const ARTICLES: Article[] = [
     n: 15,
     title: "Recovery Is Constitutional",
     compact: "The system must be capable of freezing, recovering, rolling back, and restoring critical state.",
-    status: "READY",
+    status: "COMPACT",
     purpose: "Recovery restores governed state. It is not a bypass, a deletion tool, or a Worker resurrection.",
     rule:
       "Recovery actions are authorized and audited. Recovery shall not bypass Articles 1–6. Emergency freeze remains Human. Rollback does not erase audit or required evidence. Workers are not recovered as identities; work items and product state are.",
@@ -287,7 +292,7 @@ export const ARTICLES: Article[] = [
     n: 16,
     title: "Provider Independence",
     compact: "AGBOFA's architecture never equates its intelligence with any specific AI provider.",
-    status: "READY",
+    status: "COMPACT",
     purpose: "No vendor is constitutional. Connectors are capabilities or implementation.",
     rule:
       "All intelligence access flows through the Intelligence Contract. Provider adapters are pluggable. Provider permission ≠ AGBOFA authority. Hard-coding provider APIs into core constitutional operation is forbidden. Switching providers shall not require rewriting Articles 1–16.",

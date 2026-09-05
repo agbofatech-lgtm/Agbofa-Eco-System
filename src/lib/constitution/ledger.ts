@@ -13,13 +13,13 @@ export const LEDGER: LedgerRow[] = [
   { n: "7", title: "Execution Is Not Success", status: "LOCKED / HUMAN ACCEPTED" },
   { n: "8", title: "Verification Is Independent", status: "LOCKED / HUMAN ACCEPTED" },
   { n: "9", title: "Evidence Precedes Trust", status: "LOCKED / HUMAN ACCEPTED" },
-  { n: "10", title: "Audit Is Persistent", status: "DRAFTED — NOT LOCKED" },
-  { n: "11", title: "Governance Cannot Be Weakened by the Governed", status: "DRAFTED — READY FOR HUMAN ACCEPTANCE" },
-  { n: "12", title: "Autonomy Is Earned", status: "DRAFTED — READY FOR HUMAN ACCEPTANCE" },
-  { n: "13", title: "Learning Requires Verified Outcomes", status: "DRAFTED — READY FOR HUMAN ACCEPTANCE" },
-  { n: "14", title: "Tenant Isolation", status: "DRAFTED — READY FOR HUMAN ACCEPTANCE" },
-  { n: "15", title: "Recovery Is Constitutional", status: "DRAFTED — READY FOR HUMAN ACCEPTANCE" },
-  { n: "16", title: "Provider Independence", status: "DRAFTED — READY FOR HUMAN ACCEPTANCE" },
+  { n: "10", title: "Audit Is Persistent", status: "LOCKED / HUMAN ACCEPTED" },
+  { n: "11", title: "Governance Cannot Be Weakened by the Governed", status: "COMPACT / NOT AUTHORIZED" },
+  { n: "12", title: "Autonomy Is Earned", status: "COMPACT / NOT AUTHORIZED" },
+  { n: "13", title: "Learning Requires Verified Outcomes", status: "COMPACT / NOT AUTHORIZED" },
+  { n: "14", title: "Tenant Isolation", status: "COMPACT / NOT AUTHORIZED" },
+  { n: "15", title: "Recovery Is Constitutional", status: "COMPACT / NOT AUTHORIZED" },
+  { n: "16", title: "Provider Independence", status: "COMPACT / NOT AUTHORIZED" },
 ];
 
 export const PATH = [

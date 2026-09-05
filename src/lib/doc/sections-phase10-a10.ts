@@ -20,8 +20,8 @@ function s(
       {
         k: "callout",
         tone: "note",
-        title: "Phase 10 Article 10 deep draft is not in the received freeze",
-        t: "Compact Article 10 in A.3 remains the short form. Articles 1–9 are LOCKED. Switch to the operative issue.",
+        title: "Phase 10 Article 10 — LOCKED / HUMAN ACCEPTED",
+        t: "Compact Article 10 in A.3 remains the short form. Articles 1–9 are LOCKED. Article 10 is LOCKED as constitutional law. Production Audit System remains unimplemented.",
       },
     ],
     v2,
@@ -33,21 +33,21 @@ export const PHASE10_A10: Section[] = [
     "ph10",
     "XIII.0",
     "Phase 10",
-    "Phase 10 — Article 10 draft status",
-    "Audit Is Persistent. DRAFTED — NOT LOCKED. Kernel admission audit only.",
+    "Phase 10 — Article 10 lock status",
+    "Audit Is Persistent. LOCKED — HUMAN ACCEPTED. Kernel increment ≠ production Audit System.",
     [
       {
         k: "callout",
         tone: "law",
         title: "Authoritative Article 10 subject",
-        t: "v5.3 compact: Article 10 — Audit Is Persistent. Compact: Consequential actions create durable audit records. Scope: all consequential actions. Prohibited: modification or deletion; bypass; tampering with timestamps, hashes, or chains. Required: events for all consequential actions; append-only; hash-chained; records include who, agent, authority, capability, product, environment, action, when, why, what happened, what was verified, what evidence exists. Enforcement: tamper detection triggers security alert. Consequence: system freeze and investigation. Compact A.3 not replaced. Articles 1–9 LOCKED. Article 10 NOT LOCKED. Runtime kernel: append-only in-process log — NOT a production Audit System. SPECIFIED ≠ IMPLEMENTED. Reader ≠ platform. No v5.4. Article 11 CLOSED.",
+        t: "v5.3 compact: Article 10 — Audit Is Persistent. Compact A.3 not replaced. Articles 1–9 LOCKED / UNCHANGED. Article 10 LOCKED / HUMAN ACCEPTED under Owner authorization 2026-09-05. Constitutional law is locked. Current kernel increment: in-memory, non-cryptographic FNV-1a 32-bit over previousHash|requestId|why, process-trusted KernelStore, non-durable. NOT a production Audit System. SPECIFIED ≠ IMPLEMENTED. Reader ≠ platform. No v5.4. Article 11 CLOSED / NOT AUTHORIZED.",
       },
       {
         k: "table",
         cols: ["Phase", "Article", "Status"],
         rows: [
           ["Phase 1–9", "Articles 1–9", "LOCKED / HUMAN ACCEPTED — UNCHANGED"],
-          ["Phase 10", "Article 10", "DRAFTED — NOT LOCKED"],
+          ["Phase 10", "Article 10", "LOCKED / HUMAN ACCEPTED"],
           ["Phase 11", "Article 11", "CLOSED / NOT AUTHORIZED"],
         ],
       },
@@ -59,13 +59,13 @@ export const PHASE10_A10: Section[] = [
     "XIII",
     "Art. 10 Law",
     "Article 10 — Audit Is Persistent (law)",
-    "Append-only, hash-chained history. Audit ≠ evidence ≠ grant ≠ SUCCESS. NOT LOCKED.",
+    "Append-only, hash-chained history. Audit ≠ evidence ≠ grant ≠ SUCCESS. LOCKED.",
     [
       {
         k: "callout",
         tone: "note",
         title: "A.3 compact form — not replaced",
-        t: "A.3 Article 10 remains Audit Is Persistent. This draft operationalizes append-only write-control, hash chaining, freeze-on-tamper, and the rule that audit cannot rewrite SUCCESS or mint authority. Canonical object remains AuditEvent. Kernel KernelAuditRecord is an admission-kernel subset, not a competing audit type.",
+        t: "A.3 Article 10 remains Audit Is Persistent. This lock operationalizes append-only write-control, hash chaining, freeze-on-tamper, and the rule that audit cannot rewrite SUCCESS or mint authority. Canonical object remains AuditEvent. Kernel KernelAuditRecord is an admission-kernel subset, not a competing audit type and not a production Audit System.",
       },
       { k: "h", t: "10.1 Purpose", l: 2 },
       {
@@ -95,7 +95,20 @@ export const PHASE10_A10: Section[] = [
       { k: "h", t: "10.5 Kernel increment", l: 2 },
       {
         k: "p",
-        t: "The in-process kernel appends a KernelAuditRecord on every admit/halt/contain decision. Hash is a non-cryptographic chain for testable write-control. This does not implement durable storage, cryptographic signatures, or the full AuditEvent field set. SPECIFIED ≠ IMPLEMENTED.",
+        t: "The in-process kernel appends a KernelAuditRecord on every admit/halt/contain decision. Hash is FNV-1a 32-bit over previousHash|requestId|why — non-cryptographic, incomplete field coverage, process-trusted store. tryRewriteAudit/tryDeleteAudit are prohibition stubs, not hardened storage. Restart resets memory. This does not implement durable storage, cryptographic signatures, or the full AuditEvent field set. SPECIFIED ≠ IMPLEMENTED.",
+      },
+      { k: "h", t: "10.6 Accepted limitations (lock conditions)", l: 2 },
+      {
+        k: "table",
+        cols: ["Limitation", "Meaning"],
+        rows: [
+          ["In-memory", "Process restart erases the current chain. Not durable persistence."],
+          ["Non-cryptographic", "FNV-1a 32-bit is not cryptographic tamper evidence."],
+          ["Partial hash coverage", "Unhashed payload fields may mutate without failing verifyAuditChain."],
+          ["Process-trusted store", "Direct mutation of auditLog / auditFrozen / previousAuditHash is not a production boundary."],
+          ["Append stubs", "tryRewriteAudit / tryDeleteAudit / freezeForTamper are not hardened storage controls."],
+          ["Freeze", "Denies admission; does not mint authority, SUCCESS, or sovereignty."],
+        ],
       },
     ],
   ),
@@ -105,7 +118,7 @@ export const PHASE10_A10: Section[] = [
     "XIII.A",
     "Art. 10 Attack",
     "Article 10 — adversarial matrix",
-    "ATK-10. Audit cannot mint authority or SUCCESS. NOT LOCKED.",
+    "ATK-10. Audit cannot mint authority or SUCCESS. LOCKED.",
     [
       {
         k: "table",
@@ -133,7 +146,7 @@ export const PHASE10_A10: Section[] = [
     "XIII.I",
     "Art. 10 Invariants",
     "Article 10 — invariants",
-    "INV-10. DRAFTED — NOT LOCKED.",
+    "INV-10. LOCKED — HUMAN ACCEPTED. Kernel increment remains limited.",
     [
       {
         k: "table",
@@ -146,6 +159,12 @@ export const PHASE10_A10: Section[] = [
           ["INV-10-05", "Frozen store still records the deny", "append continues"],
           ["INV-10-06", "Audit cannot rewrite historical failure", "DENY"],
         ],
+      },
+      {
+        k: "callout",
+        tone: "law",
+        title: "LOCKED — HUMAN ACCEPTED",
+        t: "Article 10 is constitutional law and is LOCKED. Compact A.3 unchanged. Articles 1–9 unchanged. The current kernel contains a limited in-memory, non-cryptographic audit-chain increment. The production durable Audit System remains future. Audit remains separate from authority, evidence, verification, and SUCCESS. Article 11 remains CLOSED / NOT AUTHORIZED. No v5.4. SPECIFIED ≠ IMPLEMENTED. Reader ≠ platform.",
       },
     ],
   ),

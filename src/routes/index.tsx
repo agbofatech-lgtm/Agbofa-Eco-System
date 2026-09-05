@@ -27,8 +27,15 @@ type Tab = "ledger" | "path" | "article" | "future";
 
 function statusTone(s: string) {
   if (s.startsWith("LOCKED")) return "text-locked";
+  if (s.includes("NOT AUTHORIZED") || s === "COMPACT") return "text-muted";
   if (s.includes("READY")) return "text-draft";
   return "text-muted";
+}
+
+function articleStatusLabel(status: string): string {
+  if (status === "LOCKED") return "LOCKED / HUMAN ACCEPTED";
+  if (status === "COMPACT") return "COMPACT / NOT AUTHORIZED";
+  return "DRAFTED — NOT LOCKED";
 }
 
 function Home() {
@@ -311,8 +318,8 @@ function ArticleView({ article }: { article: (typeof ARTICLES)[number] }) {
     <article>
       <p className="text-xs uppercase tracking-[0.2em] text-brass">Article {article.n}</p>
       <h1 className="mt-2 font-display text-4xl leading-tight text-law md:text-5xl">{article.title}</h1>
-      <p className={cn("mt-3 text-sm font-medium", locked ? "text-locked" : "text-draft")}>
-        {locked ? "LOCKED / HUMAN ACCEPTED" : "DRAFTED — READY FOR HUMAN ACCEPTANCE / NOT LOCKED"}
+      <p className={cn("mt-3 text-sm font-medium", locked ? "text-locked" : "text-muted")}>
+        {articleStatusLabel(article.status)}
       </p>
       <blockquote className="mt-8 border-l-2 border-brass pl-4 font-display text-xl italic leading-snug text-fg">
         {article.compact}

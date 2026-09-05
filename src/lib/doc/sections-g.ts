@@ -242,6 +242,18 @@ export const PART_G: Section[] = [
             "Article 8 — Verification Is Independent LOCKED / HUMAN ACCEPTED. Compact A.3 unchanged. Articles 1–7 unchanged. Law milestone only. Runtime remains SPECIFIED — RUNTIME IMPLEMENTATION PENDING.",
             "Human Owner",
           ],
+          [
+            "v5.3",
+            "Constitutional lock (not a version bump)",
+            "Article 9 — Evidence Precedes Trust LOCKED / HUMAN ACCEPTED. Compact A.3 unchanged. Articles 1–8 unchanged. Runtime Evidence Store remains unimplemented.",
+            "Human Owner",
+          ],
+          [
+            "v5.3",
+            "Constitutional lock (not a version bump)",
+            "Article 10 — Audit Is Persistent LOCKED / HUMAN ACCEPTED. Compact A.3 unchanged. Articles 1–9 unchanged. Kernel increment is in-memory, non-cryptographic FNV-1a 32-bit, process-trusted, non-durable. Production Audit System remains unimplemented. Article 11 not authorized.",
+            "Human Owner",
+          ],
         ],
       },
       {

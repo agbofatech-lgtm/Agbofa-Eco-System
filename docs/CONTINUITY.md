@@ -7,7 +7,7 @@
 | --- | --- |
 | Constitution version | v5.3 (no v5.4 authorized) |
 | Checkpoint date | 2026-09-05 |
-| Baseline commit | `9472356e4acb34c1d1002fb026be511584dec8bc` |
+| Baseline commit | this lock commit on `main` — `docs(constitution): lock Article 10 after human acceptance` |
 | Runtime | SPECIFIED ≠ IMPLEMENTED |
 | Reader | Constitution Reader is a **document interface**, not the AGBOFA platform |
 
@@ -25,14 +25,28 @@ Authoritative compact source: `attachments/pasted-text.txt`. Reader summaries: `
 
 | Articles | Status | Rule |
 | --- | --- | --- |
-| **1–8** | **LOCKED — HUMAN ACCEPTED** | **DO NOT MODIFY** |
-| **9 — Evidence Precedes Trust** | **LOCKED — HUMAN ACCEPTED** (Phase 9 closed 2026-09-05) | **DO NOT MODIFY.** Runtime Evidence Store still pending. |
-| **10 — Audit Is Persistent** | **DRAFTED — NOT LOCKED** | Deep draft + kernel append-only log. Do not auto-lock. |
-| **11–16** | Compact / not fully deep-locked | Not authorized this increment. |
+| **1–9** | **LOCKED — HUMAN ACCEPTED** | **DO NOT MODIFY** |
+| **10 — Audit Is Persistent** | **LOCKED — HUMAN ACCEPTED** | **DO NOT MODIFY the law.** Kernel increment remains limited (below). |
+| **11–16** | **COMPACT / NOT AUTHORIZED** | Compact A.3 text exists. Do not treat as acceptance. Do not implement. |
 
-**Phase 9 acceptance:** CONDITIONALLY ACCEPTED then closed under Owner authorization. Condition: runtime Evidence Store remains unimplemented (correct under SPECIFIED ≠ IMPLEMENTED). `npm test` has pre-existing platform-script failures unrelated to Article 9. Kernel tests are the constitutional kernel evidence.
+**Phase 9:** LOCKED. Runtime Evidence Store remains unimplemented.
 
-**Article 10 increment:** in-process `KernelAuditRecord` append-only hash chain on `admit()`. Not a production Audit System. Audit ≠ EvidenceEnvelope ≠ Grant ≠ SUCCESS.
+**Article 10 constitutional law:** LOCKED. Compact A.3 unchanged.
+
+**Article 10 kernel increment (accepted limitations):**
+
+- in-memory `KernelAuditRecord[]` on `KernelStore`
+- FNV-1a **32-bit** over `previousHash\|requestId\|why` only
+- **non-cryptographic** — not tamper evidence
+- **partial hash coverage** — unhashed payload fields may mutate without failing `verifyAuditChain`
+- **process-trusted store** — direct mutation of `auditLog` / `auditFrozen` / `previousAuditHash` is not a production boundary
+- `tryRewriteAudit` / `tryDeleteAudit` / `freezeForTamper` are **not** hardened storage controls
+- freeze denies admission; it does **not** mint authority, SUCCESS, or sovereignty
+- process restart **resets** the chain — **not durable**
+- **not** a production Audit System
+- **not** the Article 9 Evidence Store
+
+`AUDIT ≠ AUTHORITY ≠ GRANT ≠ EVIDENCE ≠ SUCCESS ≠ VERIFICATION`.
 
 ---
 
@@ -78,17 +92,19 @@ Intelligence ≠ authority. Capability ≠ authority. Execution ≠ success. No 
 
 ## F. Work boundary
 
-**Allowed without new authorization:** read repo; tests of reader/kernel; documentation hygiene.
+**Allowed without new authorization:** read repo; tests of reader/kernel; documentation hygiene that does not change locked law.
 
-**Requires Owner authorization:** lock Article 10; amend 1–9; Article 11+; horizon implementation; claiming production audit/M4/M5/Day-30.
+**Requires Owner authorization:** amend 1–10; Article 11+; Evidence Store; production/durable/cryptographic Audit System; horizon implementation; claiming production audit/M4/M5/Day-30.
 
-**Forbidden:** second sovereignty/admission path; resident Workers; treating audit or evidence as grants.
+**Forbidden:** second sovereignty/admission path; resident Workers; treating audit or evidence as grants; treating compact Articles 11–16 as authorized.
 
 ---
 
 ## G. Next authorized step
 
-Await Owner authorization. Suggested: Human Acceptance gate for Article 10, or deepen Article 11 only if explicitly authorized. Do not start Product Intelligence.
+**Article 11 remains separately gated and requires explicit Owner authorization.**
+
+Do not begin Article 11 automatically. Do not start Product Intelligence. Do not implement horizon items.
 
 ---
 

@@ -48,7 +48,7 @@ export const PHASE9_A9: Section[] = [
         rows: [
           ["Phase 1–8", "Articles 1–8", "LOCKED / HUMAN ACCEPTED — UNCHANGED"],
           ["Phase 9", "Article 9", "LOCKED / HUMAN ACCEPTED"],
-          ["Phase 10", "Article 10", "OPEN — AUTHORIZED COMMENCEMENT / NOT LOCKED"],
+          ["Phase 10", "Article 10", "LOCKED / HUMAN ACCEPTED"],
         ],
       },
     ],
@@ -169,7 +169,7 @@ export const PHASE9_A9: Section[] = [
     "XII.A",
     "Art. 9 Attack",
     "Article 9 — adversarial matrix",
-    "ATK-9-01–30. Evidence ≠ SUCCESS. NOT LOCKED.",
+    "ATK-9-01–30. Evidence ≠ SUCCESS. LOCKED.",
     [
       {
         k: "table",
@@ -215,7 +215,7 @@ export const PHASE9_A9: Section[] = [
     "XII.I",
     "Art. 9 Invariants",
     "Article 9 — invariants and failure matrix",
-    "INV-9-00 master. DRAFTED — NOT LOCKED. SPECIFIED — RUNTIME IMPLEMENTATION PENDING.",
+    "INV-9-00 master. LOCKED — HUMAN ACCEPTED. SPECIFIED — RUNTIME IMPLEMENTATION PENDING.",
     [
       {
         k: "table",
@@ -275,7 +275,7 @@ export const PHASE9_A9: Section[] = [
     "XII.T",
     "Art. 9 Trace",
     "Article 9 — traceability, compatibility, open issues",
-    "LOCKED — HUMAN ACCEPTED. Article 10 authorized separately.",
+    "LOCKED — HUMAN ACCEPTED. Article 10 LOCKED separately.",
     [
       {
         k: "p",
