@@ -19,6 +19,7 @@ import { PHASE6_A6 } from "./sections-phase6-a6";
 import { PHASE7_A7 } from "./sections-phase7-a7";
 import { PHASE8_A8 } from "./sections-phase8-a8";
 import { PHASE9_A9 } from "./sections-phase9-a9";
+import { PHASE10_A10 } from "./sections-phase10-a10";
 
 export const SECTIONS: Section[] = [
   ...FRONT,
@@ -33,6 +34,7 @@ export const SECTIONS: Section[] = [
   ...PHASE7_A7,
   ...PHASE8_A8,
   ...PHASE9_A9,
+  ...PHASE10_A10,
   ...PART_A,
   ...V53_TRACE,
   ...PART_B,

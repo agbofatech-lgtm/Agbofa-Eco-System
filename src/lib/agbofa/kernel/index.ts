@@ -6,6 +6,13 @@
  */
 export { admit, haltIfRevoked, containIfQuarantined } from "./broker.ts";
 export { emptyStore } from "./types.ts";
+export {
+  appendAudit,
+  appendDecisionAudit,
+  verifyAuditChain,
+  tryRewriteAudit,
+  tryDeleteAudit,
+} from "./audit.ts";
 export { emptySupervisor, IsolationSupervisor } from "./supervisor.ts";
 export { unavailableAttestation } from "./attestation.ts";
 export type {

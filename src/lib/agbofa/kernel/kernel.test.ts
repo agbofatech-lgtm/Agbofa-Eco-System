@@ -5,6 +5,11 @@ import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import type { AuthorityGrant, CapabilityToken } from "../contracts.ts";
 import { admit, containIfQuarantined, haltIfRevoked } from "./broker.ts";
+import {
+  tryDeleteAudit,
+  tryRewriteAudit,
+  verifyAuditChain,
+} from "./audit.ts";
 import { emptySupervisor } from "./supervisor.ts";
 import { emptyStore, type ExecutionRequest } from "./types.ts";
 
@@ -291,5 +296,51 @@ describe("false-evidence guards", () => {
       assert.equal(src.includes("child_process"), false, f);
       assert.equal(src.includes("spawn("), false, f);
     }
+  });
+});
+
+describe("Article 10 — append-only admission audit", () => {
+  it("INV-10-01 every admit appends one audit record", () => {
+    const store = emptyStore();
+    admit(req(), store);
+    assert.equal(store.auditLog.length, 1);
+    assert.equal(store.auditLog[0].requestId, "r1");
+    assert.equal(verifyAuditChain(store), true);
+  });
+
+  it("INV-10-02 rewrite and delete APIs deny and do not mutate", () => {
+    const store = emptyStore();
+    admit(req(), store);
+    const snap = store.auditLog[0].hash;
+    assert.equal(tryRewriteAudit(), "DENY");
+    assert.equal(tryDeleteAudit(), "DENY");
+    assert.equal(store.auditLog[0].hash, snap);
+    assert.equal(store.auditLog.length, 1);
+  });
+
+  it("INV-10-03 audit record is not a grant or SUCCESS", () => {
+    const store = emptyStore();
+    const d = admit(req(), store);
+    assert.notEqual(d.state, "SUCCEEDED");
+    assert.equal(store.auditLog[0].authorityGrantId, "g1");
+    assert.notEqual(store.auditLog[0].hash, "g1");
+  });
+
+  it("INV-10-04 broken chain freezes later admission", () => {
+    const store = emptyStore();
+    admit(req({ requestId: "r1" }), store);
+    store.auditLog[0] = { ...store.auditLog[0], hash: "tampered" };
+    const d = admit(req({ requestId: "r2" }), store);
+    assert.equal(store.auditFrozen, true);
+    assert.equal(d.why, "audit-frozen");
+    assert.equal(d.disposition, "DENY");
+  });
+
+  it("INV-10-05 freeze still appends the deny", () => {
+    const store = emptyStore();
+    store.auditFrozen = true;
+    admit(req(), store);
+    assert.ok(store.auditLog.length >= 1);
+    assert.equal(store.auditLog[0].why, "audit-frozen");
   });
 });

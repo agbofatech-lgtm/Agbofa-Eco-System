@@ -137,11 +137,32 @@ export interface IsolationBind {
   secrets: "admitted_only";
 }
 
+export interface KernelAuditRecord {
+  eventId: string;
+  timestamp: string;
+  requestId: string;
+  actorId: string;
+  caller: string;
+  tenantId: string;
+  productId: string;
+  environmentId: string;
+  action: string;
+  resource: string;
+  decision: string;
+  why: string;
+  authorityGrantId?: string;
+  tokenId?: string;
+  hash: string;
+  previousHash: string;
+}
+
 export interface KernelStore {
   revokedGrantIds: Set<string>;
   revokedTokenIds: Set<string>;
   quarantinedActors: Set<string>;
   previousAuditHash: string;
+  auditLog: KernelAuditRecord[];
+  auditFrozen: boolean;
 }
 
 export function emptyStore(): KernelStore {
@@ -150,5 +171,7 @@ export function emptyStore(): KernelStore {
     revokedTokenIds: new Set(),
     quarantinedActors: new Set(),
     previousAuditHash: "genesis",
+    auditLog: [],
+    auditFrozen: false,
   };
 }

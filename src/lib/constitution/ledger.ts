@@ -13,7 +13,7 @@ export const LEDGER: LedgerRow[] = [
   { n: "7", title: "Execution Is Not Success", status: "LOCKED / HUMAN ACCEPTED" },
   { n: "8", title: "Verification Is Independent", status: "LOCKED / HUMAN ACCEPTED" },
   { n: "9", title: "Evidence Precedes Trust", status: "LOCKED / HUMAN ACCEPTED" },
-  { n: "10", title: "Audit Is Persistent", status: "DRAFTED — READY FOR HUMAN ACCEPTANCE" },
+  { n: "10", title: "Audit Is Persistent", status: "DRAFTED — NOT LOCKED" },
   { n: "11", title: "Governance Cannot Be Weakened by the Governed", status: "DRAFTED — READY FOR HUMAN ACCEPTANCE" },
   { n: "12", title: "Autonomy Is Earned", status: "DRAFTED — READY FOR HUMAN ACCEPTANCE" },
   { n: "13", title: "Learning Requires Verified Outcomes", status: "DRAFTED — READY FOR HUMAN ACCEPTANCE" },

@@ -1,6 +1,6 @@
 import { unavailableAttestation, type IsolationAttestation } from "./attestation.ts";
 import { authorityWhy } from "./authority.ts";
-import { appendAudit } from "./audit.ts";
+import { appendDecisionAudit, verifyAuditChain } from "./audit.ts";
 import { capabilityWhy } from "./capability.ts";
 import { isolationPolicyWhy } from "./guard.ts";
 import { isQuarantined, quarantineActor, shouldQuarantine } from "./quarantine.ts";
@@ -74,7 +74,7 @@ export function admit(
   void req.workerReported;
 
   const finish = (d: KernelDecision): KernelDecision => {
-    appendAudit(store, req.requestId, d.why);
+    appendDecisionAudit(store, req, d);
     if (shouldQuarantine(d.why) || d.disposition === "QUARANTINE") {
       quarantineActor(store, req.actorId);
       d.quarantined = true;
@@ -100,6 +100,11 @@ export function admit(
         sensorSource,
       }),
     );
+
+  if (store.auditFrozen || !verifyAuditChain(store)) {
+    store.auditFrozen = true;
+    return deny("audit-frozen", "DENY", "admission", "store");
+  }
 
   for (const kind of Object.keys(SUPERVISOR_MAP) as SupervisorEventKind[]) {
     if (supervisor.has(kind)) {
@@ -168,7 +173,7 @@ export function haltIfRevoked(
     store.revokedGrantIds.has(req.grant.grantId) ||
     (req.token ? store.revokedTokenIds.has(req.token.tokenId) : false);
   if (!revoked) return null;
-  appendAudit(store, req.requestId, "revoke-during-execution");
+  appendDecisionAudit(store, req, { why: "revoke-during-execution", disposition: "HALT" });
   return {
     chain: "DENY",
     disposition: "HALT",
@@ -209,7 +214,7 @@ export function containIfQuarantined(
 ): KernelDecision | null {
   if (!inFlight) return null;
   if (!isQuarantined(store, req.actorId)) return null;
-  appendAudit(store, req.requestId, "quarantine-inflight");
+  appendDecisionAudit(store, req, { why: "quarantine-inflight", disposition: "HALT" });
   return {
     chain: "DENY",
     disposition: "HALT",
