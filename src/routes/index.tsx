@@ -38,6 +38,21 @@ function articleStatusLabel(status: string): string {
   return "DRAFTED — NOT LOCKED";
 }
 
+function ledgerHeadline(rows: typeof LEDGER): string {
+  const locked = rows.filter((r) => r.status.startsWith("LOCKED"));
+  const draft = rows.filter((r) => r.status.includes("DRAFT"));
+  const compact = rows.filter((r) => r.status.includes("COMPACT"));
+  const span = (rs: typeof LEDGER) =>
+    rs.length <= 1 ? (rs[0]?.n ?? "") : `${rs[0].n}–${rs[rs.length - 1].n}`;
+  return [
+    locked.length ? `Articles ${span(locked)} LOCKED` : "",
+    draft.length ? `${span(draft)} DRAFT — OWNER REVIEW REQUIRED` : "",
+    compact.length ? `${span(compact)} COMPACT / NOT AUTHORIZED` : "",
+  ]
+    .filter(Boolean)
+    .join(". ");
+}
+
 function Home() {
   const [tab, setTab] = useState<Tab>("ledger");
   const [n, setN] = useState(9);
@@ -214,7 +229,9 @@ function Ledger({ onOpen }: { onOpen: (n: number) => void }) {
           </tbody>
         </table>
       </div>
-      <p className="mt-6 text-sm text-muted">{RUNTIME}. No v5.4. Articles 1–9 locked. 10–16 await Human Acceptance.</p>
+      <p className="mt-6 text-sm text-muted">
+        {RUNTIME}. No v5.4. {ledgerHeadline(LEDGER)}.
+      </p>
     </section>
   );
 }
