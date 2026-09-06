@@ -1,9 +1,8 @@
 /**
- * Phase 2.1 Isolation foundation types.
- * Structural isolation decision only. Not sandbox. Not admission. Not execution.
- * UNKNOWN / ABSENT isolation = UNAVAILABLE = fail closed.
+ * Phase 2.1 Isolation foundation.
+ * Structural isolation decision only. Not admission. Not execution. Not a sandbox.
+ * UNKNOWN → NOT AVAILABLE → FAIL CLOSED.
  */
-
 export const ISOLATION_ENVIRONMENTS = ["development", "staging", "production"] as const;
 export type IsolationEnvironment = (typeof ISOLATION_ENVIRONMENTS)[number];
 
@@ -16,39 +15,41 @@ export interface IsolationContext {
 }
 
 export interface IsolationBinding {
-  readonly tenantId: string;
-  readonly domain?: string;
-  readonly environment?: string;
+  readonly tenantId?: string | null;
+  readonly domain?: string | null;
+  readonly environment?: string | null;
 }
 
-export interface IsolationDecision {
+export interface IsolationVerdict {
   readonly disposition: IsolationDisposition;
   readonly reason: string;
   readonly isolated: boolean;
   readonly admitted: false;
   readonly executed: false;
+  readonly issuedGrant: false;
+  readonly issuedCapability: false;
 }
 
-export function isolationDeny(disposition: IsolationDisposition, reason: string): IsolationDecision {
+export function isolationDenied(disposition: IsolationDisposition, reason: string): IsolationVerdict {
   return {
     disposition,
     reason,
     isolated: false,
     admitted: false,
     executed: false,
+    issuedGrant: false,
+    issuedCapability: false,
   };
 }
 
-export function isolationSatisfied(): IsolationDecision {
+export function isolationSatisfied(reason = "isolation-satisfied"): IsolationVerdict {
   return {
     disposition: "SATISFIED",
-    reason: "isolation-satisfied",
+    reason,
     isolated: true,
     admitted: false,
     executed: false,
+    issuedGrant: false,
+    issuedCapability: false,
   };
-}
-
-export function isIsolationEnvironment(value: string): value is IsolationEnvironment {
-  return (ISOLATION_ENVIRONMENTS as readonly string[]).includes(value);
 }
