@@ -77,12 +77,20 @@ function lookups(over: Partial<BrokerLookups> = {}): BrokerLookups {
   };
 }
 
+const isolation = {
+  tenantId: "ten-1",
+  domain: "agbofa.core",
+  environment: "production",
+};
+
 const valid = {
   subjectId: "sub-h-1",
   grantId: "g-1",
   capabilityId: "c-1",
   action: "read",
   resource: "doc:1",
+  isolation,
+  isolationBinding: isolation,
 };
 
 test("decision model: deny and allowEligible constructors", () => {
@@ -228,4 +236,69 @@ test("broker cannot issue, execute, or admit", () => {
   assert.equal("issueCapability" in brokerModule, false);
   assert.equal("admit" in brokerModule, false);
   assert.equal("execute" in brokerModule, false);
+});
+
+test("isolation fail-closed denies eligibility", () => {
+  const look = lookups();
+  const bare = {
+    subjectId: "sub-h-1",
+    grantId: "g-1",
+    capabilityId: "c-1",
+    action: "read",
+    resource: "doc:1",
+  };
+  assert.equal(evaluateBroker(bare, look).reason, "isolation-unavailable");
+  assert.equal(evaluateBroker({ ...valid, isolation: null }, look).reason, "isolation-unavailable");
+  assert.equal(evaluateBroker({ ...valid, isolation: {} }, look).reason, "missing-tenant");
+  assert.equal(evaluateBroker({ ...valid, isolation: { ...isolation, tenantId: "" } }, look).reason, "missing-tenant");
+  assert.equal(evaluateBroker({ ...valid, isolation: { ...isolation, domain: "  " } }, look).reason, "missing-domain");
+  assert.equal(evaluateBroker({ ...valid, isolation: { ...isolation, environment: null } }, look).reason, "missing-environment");
+  assert.equal(evaluateBroker({ ...valid, isolation: { ...isolation, environment: "prod" } }, look).reason, "invalid-environment");
+  assert.equal(evaluateBroker({ ...valid, isolation: { ...isolation, tenantId: "ten-other" } }, look).reason, "tenant-mismatch");
+  assert.equal(evaluateBroker({ ...valid, isolation: { ...isolation, domain: "other.core" } }, look).reason, "domain-mismatch");
+  assert.equal(
+    evaluateBroker({ ...valid, isolation: { ...isolation, environment: "development" } }, look).reason,
+    "environment-mismatch",
+  );
+  assert.equal(evaluateBroker({ ...valid, isolation: { ...isolation, tenantId: "ten-*" } }, look).reason, "wildcard-forbidden");
+  assert.equal(evaluateBroker({ ...valid, isolation: { ...isolation, domain: "*.core" } }, look).reason, "wildcard-forbidden");
+  assert.equal(evaluateBroker({ ...valid, isolation: { ...isolation, domain: "agbofa/" } }, look).reason, "wildcard-forbidden");
+  assert.equal(
+    evaluateBroker({ ...valid, isolationBinding: { ...isolation, tenantId: "ten-other" } }, look).reason,
+    "tenant-mismatch",
+  );
+  const denied = evaluateBroker(bare, look);
+  assert.equal(denied.disposition, "DENY");
+  flags(denied);
+});
+
+test("boundary failure denies eligibility", () => {
+  const look = lookups();
+  const foreignGrant = (() => {
+    const g = constructGrant({
+      id: "g-1",
+      issuer: "human:owner",
+      subject: "other-sub",
+      scope: "tenant:ten-1",
+      action: "read",
+      resource: "doc:1",
+      constraints: { maxRisk: RiskLevel.HIGH, maxDurationMs: 60_000, requireHuman: true },
+      riskLevel: RiskLevel.MEDIUM,
+      issuedAt: NOW,
+      expiresAt: LATER,
+      signature: "struct-only",
+      version: "1",
+    });
+    return transitionGrant(g, GrantStatus.ACTIVE, NOW);
+  })();
+  const d = evaluateBroker(valid, lookups({ grant: (id) => (id === foreignGrant.id ? foreignGrant : undefined) }));
+  assert.equal(d.disposition, "DENY");
+  assert.equal(d.reason, "subject-grant-mismatch");
+  flags(d);
+  const tenantDeny = evaluateBroker(
+    { ...valid, isolation: { ...isolation, tenantId: "ten-other" } },
+    look,
+  );
+  assert.equal(tenantDeny.disposition, "DENY");
+  flags(tenantDeny);
 });
