@@ -14,6 +14,7 @@ import { CapabilityStatus } from "../capability/types.ts";
 import type { Capability } from "../capability/capability.ts";
 import type { Subject } from "../identity/subject.ts";
 import { evaluateIsolation } from "../isolation/isolation.ts";
+import { enforceBoundary } from "../boundary/enforcer.ts";
 import { allowEligible, deny, type BrokerDecision, type BrokerRequest } from "./types.ts";
 
 export interface BrokerLookups {
@@ -74,6 +75,11 @@ export function evaluateBroker(request: BrokerRequest | null | undefined, lookup
   });
   if (isolation.disposition !== "SATISFIED") {
     return deny(isolation.reason);
+  }
+
+  const boundary = enforceBoundary({ subject, grant, capability, request });
+  if (!boundary.passed) {
+    return deny(boundary.violations[0].reason);
   }
 
   return allowEligible();
