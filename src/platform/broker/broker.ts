@@ -3,6 +3,7 @@
  * Evaluates whether a request is eligible to proceed to the admission boundary.
  * Does not issue grants or capabilities. Does not admit. Does not execute.
  * Does not replace kernel admit(). Isolation-unavailable remains kernel law.
+ * Isolation evaluation is structural and fail-closed. SATISFIED ≠ ADMIT.
  */
 
 import { validateGrantStructure } from "../authority/validator.ts";
@@ -12,6 +13,7 @@ import { validateCapability } from "../capability/validator.ts";
 import { CapabilityStatus } from "../capability/types.ts";
 import type { Capability } from "../capability/capability.ts";
 import type { Subject } from "../identity/subject.ts";
+import { evaluateIsolation } from "../isolation/isolation.ts";
 import { allowEligible, deny, type BrokerDecision, type BrokerRequest } from "./types.ts";
 
 export interface BrokerLookups {
@@ -55,6 +57,23 @@ export function evaluateBroker(request: BrokerRequest | null | undefined, lookup
 
   if (grantVerdict.authorized !== false || contained.admitted !== false) {
     return deny("unknown-decision");
+  }
+
+  if (
+    request.isolationBinding &&
+    present(request.isolationBinding.tenantId) &&
+    request.isolationBinding.tenantId !== subject.tenantId
+  ) {
+    return deny("tenant-mismatch");
+  }
+
+  const isolation = evaluateIsolation(request.isolation, {
+    tenantId: subject.tenantId,
+    domain: request.isolationBinding?.domain,
+    environment: request.isolationBinding?.environment,
+  });
+  if (isolation.disposition !== "SATISFIED") {
+    return deny(isolation.reason);
   }
 
   return allowEligible();

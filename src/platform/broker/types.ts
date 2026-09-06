@@ -2,8 +2,11 @@
  * Phase 2.0 Broker foundation types.
  * Eligibility evaluation only. Not issuance. Not admission. Not execution.
  * Kernel admit() remains the only admission prototype.
- * Isolation and Boundary are not implemented here.
+ * Isolation is evaluated in the eligibility path. Boundary is a later Phase 2.2 step.
+ * Isolation SATISFIED ≠ ADMIT. Broker ALLOW ≠ Kernel ADMIT.
  */
+
+import type { IsolationBinding, IsolationContext } from "../isolation/types.ts";
 
 export type BrokerDisposition = "ALLOW" | "DENY";
 
@@ -13,6 +16,8 @@ export interface BrokerRequest {
   readonly capabilityId?: string | null;
   readonly action?: string | null;
   readonly resource?: string | null;
+  readonly isolation?: IsolationContext | null;
+  readonly isolationBinding?: IsolationBinding | null;
 }
 
 export interface BrokerDecision {
