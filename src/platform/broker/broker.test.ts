@@ -274,11 +274,19 @@ test("isolation fail-closed denies eligibility", () => {
 
 test("boundary failure denies eligibility", () => {
   const look = lookups();
-  const foreignGrant = (() => {
+  const swappedId = evaluateBroker(
+    valid,
+    lookups({ capability: () => capability({ capabilityId: "c-other" }) }),
+  );
+  assert.equal(swappedId.disposition, "DENY");
+  assert.equal(swappedId.reason, "capability-request-mismatch");
+  flags(swappedId);
+
+  const parent = (() => {
     const g = constructGrant({
-      id: "g-1",
+      id: "g-other",
       issuer: "human:owner",
-      subject: "other-sub",
+      subject: "sub-h-1",
       scope: "tenant:ten-1",
       action: "read",
       resource: "doc:1",
@@ -291,14 +299,19 @@ test("boundary failure denies eligibility", () => {
     });
     return transitionGrant(g, GrantStatus.ACTIVE, NOW);
   })();
-  const d = evaluateBroker(valid, lookups({ grant: (id) => (id === foreignGrant.id ? foreignGrant : undefined) }));
-  assert.equal(d.disposition, "DENY");
-  assert.equal(d.reason, "subject-grant-mismatch");
-  flags(d);
-  const tenantDeny = evaluateBroker(
-    { ...valid, isolation: { ...isolation, tenantId: "ten-other" } },
-    look,
+  const requestGrant = grant();
+  const substituted = evaluateBroker(
+    valid,
+    lookups({
+      grant: (id) => (id === requestGrant.id ? requestGrant : id === parent.id ? parent : undefined),
+      capability: () => capability({ grantId: "g-other" }),
+    }),
   );
+  assert.equal(substituted.disposition, "DENY");
+  assert.equal(substituted.reason, "grant-capability-mismatch");
+  flags(substituted);
+
+  const tenantDeny = evaluateBroker({ ...valid, isolation: { ...isolation, tenantId: "ten-other" } }, look);
   assert.equal(tenantDeny.disposition, "DENY");
   flags(tenantDeny);
 });
