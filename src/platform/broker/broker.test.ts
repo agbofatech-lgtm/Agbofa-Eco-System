@@ -152,7 +152,7 @@ test("missing vs unknown vs invalid grant", () => {
     evaluateBroker(valid, lookups({ grant: (id) => (id === revoked.id ? revoked : undefined) })).reason,
     "invalid-grant",
   );
-  const expired = transitionGrant(grant(), GrantStatus.EXPIRED, LATER);
+  const expired = transitionGrant(grant(), GrantStatus.EXPIRED, NOW);
   assert.equal(
     evaluateBroker(valid, lookups({ grant: (id) => (id === expired.id ? expired : undefined) })).reason,
     "invalid-grant",
